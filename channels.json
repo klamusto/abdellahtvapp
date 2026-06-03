@@ -395,14 +395,14 @@
     },
     {
       "id": "bein_sports_1",
-      "name": "BEIN SPORTS 1",
+      "name": "BEIN SPORTS 41",
       "logoUrl": "",
       "category": "قنوات بين سبورت",
       "description": "الجودات المتوفرة: 4K, SD",
       "isVisible": true,
       "displayOrder": 1,
       "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78378&extension=ts" },
+        { "quality": "4K", "url": "http://extarv3.me:80/ku5rw674ey/35dc4lekn5/53483" },
         { "quality": "SD", "url": "http://extarv3.me:80/ku5rw674ey/35dc4lekn5/1" }
       ]
     },

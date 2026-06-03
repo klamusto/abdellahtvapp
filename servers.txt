@@ -1,2 +1,3 @@
+http://psk-sdk.ddno.us:8080/get.php?username=azizmecool2&password=t8e2w5jf&type=m3u
 http://live.lynxiptv.xyz:80/get.php?username=778889372471&password=OqlS0q8KDE&type=m3u_plus
 http://var8k.cc:8080/get.php?username=62723928&password=55835292&type=m3u_plus

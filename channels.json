@@ -1,572 +1,930 @@
 {
   "categories": [
     {
-      "name": "قنوات الجزائر",
+      "name": "قنوات أخبار عربية",
       "displayOrder": 1
     },
     {
-      "name": "قنوات بين سبورت",
+      "name": "قنوات BEIN",
       "displayOrder": 2
     },
     {
-      "name": "قنوات بين سبورت ماكس",
+      "name": "قنوات الجزائر",
       "displayOrder": 3
     }
   ],
   "channels": [
     {
-      "id": "algerie_1",
-      "name": "ALGERIE 1",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "الجودات المتوفرة: FHD, HD",
+      "id": "trt_arabic",
+      "name": "TRT ARABIC",
+      "logoUrl": "https://cdn-s.pr.trt.com.tr/trtarabi/images/logo.svg",
+      "category": "قنوات أخبار عربية",
+      "description": "الجودات المتوفرة: FHD, HD, SD",
       "isVisible": true,
       "displayOrder": 1,
       "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444244&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22254&extension=ts" }
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/222181.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/222180.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/222179.m3u8"}
       ]
     },
     {
-      "id": "algerie_2",
-      "name": "ALGERIE 2",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "الجودات المتوفرة: FHD, HD",
+      "id": "mekameleen",
+      "name": "Mekameleen",
+      "logoUrl": "http://logo.ddnb.tn/logochanel/439.png",
+      "category": "قنوات أخبار عربية",
+      "description": "",
       "isVisible": true,
       "displayOrder": 2,
       "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444246&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22255&extension=ts" }
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/3810.m3u8"}
       ]
     },
     {
-      "id": "algerie_3",
-      "name": "ALGERIE 3",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "الجودات المتوفرة: FHD, HD",
+      "id": "al_ekhbaria_tv",
+      "name": "Al Ekhbaria TV",
+      "logoUrl": "https://thumbs.dreamstime.com/z/conception-de-logo-tv-137073350.jpg",
+      "category": "قنوات أخبار عربية",
+      "description": "",
       "isVisible": true,
       "displayOrder": 3,
       "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444248&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22253&extension=ts" }
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/2633.m3u8"}
       ]
     },
     {
-      "id": "algerie_4",
-      "name": "ALGERIE 4",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
+      "id": "dw_tv_arabia",
+      "name": "DW TV Arabia",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",
+      "category": "قنوات أخبار عربية",
       "description": "",
       "isVisible": true,
       "displayOrder": 4,
       "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22252&extension=ts" }
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/2002.m3u8"}
       ]
     },
     {
-      "id": "algerie_5",
-      "name": "ALGERIE 5",
+      "id": "sky_news_arabic",
+      "name": "Sky News Arabic",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Sky_News_Arabia_logo_2012.png",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 5,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/1075.m3u8"}
+      ]
+    },
+    {
+      "id": "al_seraj",
+      "name": "AL SERAJ",
+      "logoUrl": "https://image.shutterstock.com/image-photo/image-260nw-389303503.jpg",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 6,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/15540.m3u8"}
+      ]
+    },
+    {
+      "id": "al_jazeera",
+      "name": "Al Jazeera",
+      "logoUrl": "http://www.pro213.tv/Logo/qatar/al_jazeera_channel_qa.png",
+      "category": "قنوات أخبار عربية",
+      "description": "الجودات المتوفرة: HD",
+      "isVisible": true,
+      "displayOrder": 7,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/1071.m3u8"}
+      ]
+    },
+    {
+      "id": "al_jazeera_mubasher",
+      "name": "Al Jazeera Mubasher",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/0/0f/Al_Jazeera.svg",
+      "category": "قنوات أخبار عربية",
+      "description": "الجودات المتوفرة: HD",
+      "isVisible": true,
+      "displayOrder": 8,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/2815.m3u8"},
+        {"quality": "HD2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/155163.m3u8"}
+      ]
+    },
+    {
+      "id": "al_jazeera_documentary",
+      "name": "Al Jazeera Documentary",
       "logoUrl": "",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 9,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/155161.m3u8"}
+      ]
+    },
+    {
+      "id": "rt_arabic",
+      "name": "RT Arabic",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg",
+      "category": "قنوات أخبار عربية",
+      "description": "الجودات المتوفرة: HD",
+      "isVisible": true,
+      "displayOrder": 10,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/155165.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/1210.m3u8"}
+      ]
+    },
+    {
+      "id": "al_arabiya",
+      "name": "Al Arabiya",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Al-Arabiyalogo.svg/280px-Al-Arabiyalogo.svg.png",
+      "category": "قنوات أخبار عربية",
+      "description": "الجودات المتوفرة: HD",
+      "isVisible": true,
+      "displayOrder": 11,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/17738.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/155167.m3u8"}
+      ]
+    },
+    {
+      "id": "al_arabiya_alhadath",
+      "name": "Al-Arabiya Alhadath",
+      "logoUrl": "",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 12,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/155169.m3u8"}
+      ]
+    },
+    {
+      "id": "alhurra",
+      "name": "MBN Alhurra",
+      "logoUrl": "",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 13,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/155171.m3u8"}
+      ]
+    },
+    {
+      "id": "medi1_tv",
+      "name": "Medi1 TV Arabic",
+      "logoUrl": "",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 14,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/155173.m3u8"}
+      ]
+    },
+    {
+      "id": "i24_news",
+      "name": "i24 News Arabic",
+      "logoUrl": "",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 15,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/155176.m3u8"}
+      ]
+    },
+    {
+      "id": "palestine_news",
+      "name": "Palestine News",
+      "logoUrl": "https://awdaa.news//thumb.php?src=uploads//images/649ee41e89d54c11ae9ae8629f280f7d.jpg&w=797&h=447&zc=1",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 16,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/3354.m3u8"}
+      ]
+    },
+    {
+      "id": "france_24",
+      "name": "France 24",
+      "logoUrl": "http://www.pro213.tv/Logo/france/france24_fr.png",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 17,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/1072.m3u8"}
+      ]
+    },
+    {
+      "id": "cnbc_arabiya",
+      "name": "CNBC Arabiya",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 18,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/2635.m3u8"}
+      ]
+    },
+    {
+      "id": "nile_news",
+      "name": "Nile News",
+      "logoUrl": "https://thumbs.dreamstime.com/z/conception-de-logo-tv-137073350.jpg",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 19,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/2634.m3u8"}
+      ]
+    },
+    {
+      "id": "bbc_arabic",
+      "name": "BBC Arabic",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 20,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/1073.m3u8"}
+      ]
+    },
+    {
+      "id": "extra_news",
+      "name": "Extra News",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png",
+      "category": "قنوات أخبار عربية",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 21,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/325.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_news",
+      "name": "beIN News",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-news-qa.png",
+      "category": "قنوات BEIN",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 1,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67374.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_hd",
+      "name": "beIN HD",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png",
+      "category": "قنوات BEIN",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 2,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67373.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_4k_hdr",
+      "name": "beIN 4K HDR",
+      "logoUrl": "https://static.wikia.nocookie.net/logo-chaines/images/7/75/BEIN_4K.png/revision/latest?cb=20190818174249&path-prefix=fr",
+      "category": "قنوات BEIN",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 3,
+      "streams": [
+        {"quality": "4K HDR", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/228300.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_1",
+      "name": "beIN SPORTS 1",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 4,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67338.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196157.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138135.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196167.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67742.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196179.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67392.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196189.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_2",
+      "name": "beIN SPORTS 2",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 5,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67339.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196158.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138136.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196168.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67743.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196180.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67393.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196190.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_3",
+      "name": "beIN SPORTS 3",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 6,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67340.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196159.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138137.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196169.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67744.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196181.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67394.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196191.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_4",
+      "name": "beIN SPORTS 4",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 7,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67341.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196160.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138138.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196170.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67745.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196182.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67395.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196192.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_5",
+      "name": "beIN SPORTS 5",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 8,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67342.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196161.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138139.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196171.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67746.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196183.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67396.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196193.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_6",
+      "name": "beIN SPORTS 6",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 9,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67343.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196162.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138140.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196172.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67747.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196184.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67397.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196194.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_7",
+      "name": "beIN SPORTS 7",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 10,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67344.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196163.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138141.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196173.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67748.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196185.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67398.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196195.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_8",
+      "name": "beIN SPORTS 8",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 11,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67345.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196164.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138142.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196174.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67749.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196186.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67399.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196196.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_sports_9",
+      "name": "beIN SPORTS 9",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 12,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67346.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196165.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/138143.m3u8"},
+        {"quality": "FHD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196175.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67750.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196187.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67400.m3u8"},
+        {"quality": "SD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/196197.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_extra_1",
+      "name": "beIN XTRA 1",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, HD, SD",
+      "isVisible": true,
+      "displayOrder": 13,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/219945.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/256943.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/219946.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/256944.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/219947.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_extra_2",
+      "name": "beIN XTRA 2",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, HD, SD",
+      "isVisible": true,
+      "displayOrder": 14,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/219948.m3u8"},
+        {"quality": "4K S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/256945.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/219949.m3u8"},
+        {"quality": "HD S2", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/256946.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/219950.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_fr1",
+      "name": "beIN FR1",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-french-1-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, HD, SD",
+      "isVisible": true,
+      "displayOrder": 15,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67351.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67388.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67405.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_fr2",
+      "name": "beIN FR2",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, HD, SD",
+      "isVisible": true,
+      "displayOrder": 16,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67352.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67389.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67406.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_en1",
+      "name": "beIN EN1",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, HD, SD",
+      "isVisible": true,
+      "displayOrder": 17,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67353.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67390.m3u8"},
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67407.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_en2",
+      "name": "beIN EN2",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png",
+      "category": "قنوات BEIN",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 18,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67386.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_nba",
+      "name": "beIN NBA",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-nba-qa.png",
+      "category": "قنوات BEIN",
+      "description": "الجودات المتوفرة: 4K, HD",
+      "isVisible": true,
+      "displayOrder": 19,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67354.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/67391.m3u8"}
+      ]
+    },
+    {
+      "id": "bein_afc",
+      "name": "beIN AFC",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-qa.png",
+      "category": "قنوات BEIN",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 20,
+      "streams": [
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/219941.m3u8"}
+      ]
+    },
+    {
+      "id": "entv",
+      "name": "ENTV",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/entv_dz.png",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: 4K, FHD, HD",
+      "isVisible": true,
+      "displayOrder": 1,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220442.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/70316.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/2201.m3u8"}
+      ]
+    },
+    {
+      "id": "canal_algerie",
+      "name": "CANAL ALGERIE",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/entv_1_canal_algerie.png",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: 4K, FHD, HD",
+      "isVisible": true,
+      "displayOrder": 2,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220446.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/70299.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/120.m3u8"}
+      ]
+    },
+    {
+      "id": "a3",
+      "name": "A3",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/entv_3_al_thalitha.png",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: 4K, FHD, HD",
+      "isVisible": true,
+      "displayOrder": 3,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220443.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/70287.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/101.m3u8"}
+      ]
+    },
+    {
+      "id": "tv4",
+      "name": "TV4",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/entv_4_tv_tamazight.png",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: 4K, FHD, HD",
+      "isVisible": true,
+      "displayOrder": 4,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220448.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/70318.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/2202.m3u8"}
+      ]
+    },
+    {
+      "id": "tv5",
+      "name": "TV5",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/entv_5_tv_coran.png",
       "category": "قنوات الجزائر",
       "description": "",
       "isVisible": true,
       "displayOrder": 5,
       "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22251&extension=ts" }
+        {"quality": "SD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/2713.m3u8"}
       ]
     },
     {
-      "id": "algerie_6",
-      "name": "ALGERIE 6",
-      "logoUrl": "",
+      "id": "tv6",
+      "name": "TV6",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/tv-6-dz.png",
       "category": "قنوات الجزائر",
-      "description": "الجودات المتوفرة: FHD, HD",
+      "description": "الجودات المتوفرة: 4K, FHD, HD",
       "isVisible": true,
       "displayOrder": 6,
       "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22247&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=132639&extension=ts" }
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220449.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/70320.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/60232.m3u8"}
       ]
     },
     {
-      "id": "tv7_elmaarifa",
-      "name": "TV7 ELMAARIFA",
-      "logoUrl": "",
+      "id": "tv7",
+      "name": "TV7",
+      "logoUrl": "https://i5.satexpat.com/cha/dz/tv7ElMaarifa-95x81.gif",
       "category": "قنوات الجزائر",
-      "description": "قناة المعرفة",
+      "description": "",
       "isVisible": true,
       "displayOrder": 7,
       "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=132641&extension=ts" }
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/60233.m3u8"}
       ]
     },
     {
-      "id": "tv8_edhakira",
-      "name": "TV8 EDHAKIRA",
-      "logoUrl": "",
+      "id": "tv8",
+      "name": "TV8",
+      "logoUrl": "https://i5.satexpat.com/cha/dz/tv8-95x122.gif",
       "category": "قنوات الجزائر",
-      "description": "قناة الذاكرة",
+      "description": "",
       "isVisible": true,
       "displayOrder": 8,
       "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=132640&extension=ts" }
-      ]
-    },
-    {
-      "id": "tv9_el_barlamaniya",
-      "name": "TV9 EL BARLAMANIYA",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 9,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219951&extension=ts" }
-      ]
-    },
-    {
-      "id": "al24_news",
-      "name": "AL24 NEWS",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "الجودات المتوفرة: FHD, HD",
-      "isVisible": true,
-      "displayOrder": 10,
-      "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219950&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444243&extension=ts" }
-      ]
-    },
-    {
-      "id": "el_djazairia_quran",
-      "name": "EL DJAZAIRIA QURAN",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "قناة القرآن الكريم",
-      "isVisible": true,
-      "displayOrder": 11,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22250&extension=ts" }
-      ]
-    },
-    {
-      "id": "el_watania_tv",
-      "name": "EL WATANIA TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 12,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219954&extension=ts" }
-      ]
-    },
-    {
-      "id": "salam_tv",
-      "name": "SALAM TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 13,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219953&extension=ts" }
-      ]
-    },
-    {
-      "id": "al_magharibia",
-      "name": "AL MAGHARIBIA",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 14,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=25219&extension=ts" }
-      ]
-    },
-    {
-      "id": "el_djazair_n1",
-      "name": "EL DJAZAIR N1",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 15,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22246&extension=ts" }
-      ]
-    },
-    {
-      "id": "ennahar_tv",
-      "name": "ENNAHAR TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 16,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22242&extension=ts" }
-      ]
-    },
-    {
-      "id": "bahia_tv",
-      "name": "BAHIA TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 17,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22239&extension=ts" }
-      ]
-    },
-    {
-      "id": "el_heddaf_tv",
-      "name": "EL HEDDAF TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 18,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22236&extension=ts" }
-      ]
-    },
-    {
-      "id": "echourouk_tv",
-      "name": "ECHOROUK TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "الجودات المتوفرة: FHD, HD",
-      "isVisible": true,
-      "displayOrder": 19,
-      "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444262&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22235&extension=ts" }
-      ]
-    },
-    {
-      "id": "echourouk_news",
-      "name": "ECHOROUK NEWS",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 20,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22234&extension=ts" }
-      ]
-    },
-    {
-      "id": "samira_tv",
-      "name": "SAMIRA TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "الجودات المتوفرة: FHD, HD",
-      "isVisible": true,
-      "displayOrder": 21,
-      "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444265&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22231&extension=ts" }
-      ]
-    },
-    {
-      "id": "zahra_tv",
-      "name": "ZAHRA TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 22,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219952&extension=ts" }
-      ]
-    },
-    {
-      "id": "4_kids",
-      "name": "4 KIDS",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 23,
-      "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444268&extension=ts" }
-      ]
-    },
-    {
-      "id": "amou_yazid_tofola_tv",
-      "name": "AMOU YAZID TOFOLA TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 24,
-      "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444278&extension=ts" }
-      ]
-    },
-    {
-      "id": "el_fadjr_tv",
-      "name": "EL FADJR TV",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 25,
-      "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22229&extension=ts" }
-      ]
-    },
-    {
-      "id": "berbere",
-      "name": "BERBERE",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 26,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22227&extension=ts" }
-      ]
-    },
-    {
-      "id": "el_bilad",
-      "name": "EL BILAD",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 27,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=34024&extension=ts" }
-      ]
-    },
-    {
-      "id": "al_hayat",
-      "name": "AL HAYAT",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 28,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78472&extension=ts" }
-      ]
-    },
-    {
-      "id": "al_anis",
-      "name": "AL ANIS",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 29,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22241&extension=ts" }
-      ]
-    },
-    {
-      "id": "dzair_jannah",
-      "name": "DZAIR JANNAH",
-      "logoUrl": "",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 30,
-      "streams": [
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=34022&extension=ts" }
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/62638.m3u8"}
       ]
     },
     {
       "id": "one_tv",
       "name": "ONE TV",
-      "logoUrl": "",
+      "logoUrl": "https://logo.lynxiptv.com/Logo/algeria/onetv.jpg",
       "category": "قنوات الجزائر",
       "description": "",
       "isVisible": true,
-      "displayOrder": 31,
-      "streams": [
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444283&extension=ts" }
-      ]
-    },
-    {
-      "id": "bein_sports_1",
-      "name": "BEIN SPORTS 41",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
-      "displayOrder": 1,
-      "streams": [
-        { "quality": "4K", "url": "http://extarv3.me:80/ku5rw674ey/35dc4lekn5/53483" },
-        { "quality": "SD", "url": "http://extarv3.me:80/ku5rw674ey/35dc4lekn5/1" }
-      ]
-    },
-    {
-      "id": "bein_sports_2",
-      "name": "BEIN SPORTS 2",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
-      "displayOrder": 2,
-      "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78379&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13615&extension=ts" }
-      ]
-    },
-    {
-      "id": "bein_sports_3",
-      "name": "BEIN SPORTS 3",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
-      "displayOrder": 3,
-      "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=89342&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13616&extension=ts" }
-      ]
-    },
-    {
-      "id": "bein_sports_4",
-      "name": "BEIN SPORTS 4",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
-      "displayOrder": 4,
-      "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78381&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13617&extension=ts" }
-      ]
-    },
-    {
-      "id": "bein_sports_5",
-      "name": "BEIN SPORTS 5",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
-      "displayOrder": 5,
-      "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78382&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13618&extension=ts" }
-      ]
-    },
-    {
-      "id": "bein_sports_6",
-      "name": "BEIN SPORTS 6",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
-      "displayOrder": 6,
-      "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78383&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13641&extension=ts" }
-      ]
-    },
-    {
-      "id": "bein_sports_7",
-      "name": "BEIN SPORTS 7",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
-      "displayOrder": 7,
-      "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78384&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13642&extension=ts" }
-      ]
-    },
-    {
-      "id": "bein_sports_8",
-      "name": "BEIN SPORTS 8",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
-      "displayOrder": 8,
-      "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78375&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13601&extension=ts" }
-      ]
-    },
-    {
-      "id": "bein_sports_9",
-      "name": "BEIN SPORTS 9",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت",
-      "description": "الجودات المتوفرة: 4K, SD",
-      "isVisible": true,
       "displayOrder": 9,
       "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78376&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13612&extension=ts" }
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220826.m3u8"}
       ]
     },
     {
-      "id": "bein_sports_max_1",
-      "name": "BEIN SPORTS MAX 1",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت ماكس",
-      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "id": "el_barlamaniya",
+      "name": "EL BARLAMANIYA",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/tv-9-dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
       "isVisible": true,
-      "displayOrder": 1,
+      "displayOrder": 10,
       "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461667&extension=ts" },
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461659&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461666&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461671&extension=ts" }
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/160221.m3u8"}
       ]
     },
     {
-      "id": "bein_sports_max_2",
-      "name": "BEIN SPORTS MAX 2",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت ماكس",
-      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "id": "al24",
+      "name": "AL24",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/aa/al-24-news-dz.png",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: 4K, HD",
       "isVisible": true,
-      "displayOrder": 2,
+      "displayOrder": 11,
       "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461668&extension=ts" },
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461660&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461665&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461672&extension=ts" }
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220445.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/143346.m3u8"}
       ]
     },
     {
-      "id": "bein_sports_max_3",
-      "name": "BEIN SPORTS MAX 3",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت ماكس",
+      "id": "elwatania",
+      "name": "ElWATANIA",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/elwatania-tv-dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 12,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/156373.m3u8"}
+      ]
+    },
+    {
+      "id": "salam_tv",
+      "name": "SALAM TV",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/awras.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 13,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/70330.m3u8"}
+      ]
+    },
+    {
+      "id": "el_biled",
+      "name": "EL BILED",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/el_bilad_news_dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 14,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/1952.m3u8"}
+      ]
+    },
+    {
+      "id": "el_djazair_n1",
+      "name": "EL DJAZAIR N1",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/dzair_tv_dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 15,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/107.m3u8"}
+      ]
+    },
+    {
+      "id": "amou_yazid_tofola",
+      "name": "AMOU YAZID TOFOLA",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/amou-yazid-dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 16,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/160220.m3u8"}
+      ]
+    },
+    {
+      "id": "4kids",
+      "name": "4KIDS",
+      "logoUrl": "https://www.lyngsat.com/logo/tv/num/4kids-dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 17,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220438.m3u8"}
+      ]
+    },
+    {
+      "id": "samira_tv",
+      "name": "SAMIRA TV",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/samira_tv_dz.png",
+      "category": "قنوات الجزائر",
       "description": "الجودات المتوفرة: 4K, FHD, HD",
       "isVisible": true,
-      "displayOrder": 3,
+      "displayOrder": 18,
       "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461669&extension=ts" },
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461661&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461664&extension=ts" }
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220447.m3u8"},
+        {"quality": "FHD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/160552.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/102.m3u8"}
       ]
     },
     {
-      "id": "bein_sports_max_4",
-      "name": "BEIN SPORTS MAX 4",
-      "logoUrl": "",
-      "category": "قنوات بين سبورت ماكس",
-      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "id": "zahra_tv",
+      "name": "ZAHRA TV",
+      "logoUrl": "https://www.zahratv.net/cdn/about/Logo11.png",
+      "category": "قنوات الجزائر",
+      "description": "",
       "isVisible": true,
-      "displayOrder": 4,
+      "displayOrder": 19,
       "streams": [
-        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461670&extension=ts" },
-        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461662&extension=ts" },
-        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461663&extension=ts" },
-        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461674&extension=ts" }
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/154630.m3u8"}
+      ]
+    },
+    {
+      "id": "echorouk",
+      "name": "ECHOROUK",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/echorouk_tv.png",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: 4K, HD",
+      "isVisible": true,
+      "displayOrder": 20,
+      "streams": [
+        {"quality": "4K", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/220444.m3u8"},
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/104.m3u8"}
+      ]
+    },
+    {
+      "id": "echorouk_news",
+      "name": "ECHOROUK NEWS",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/echorouk_tv_news_dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 21,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/112.m3u8"}
+      ]
+    },
+    {
+      "id": "ennahar_tv",
+      "name": "ENNAHAR TV",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/ennahar_dz_tv.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 22,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/109.m3u8"}
+      ]
+    },
+    {
+      "id": "el_heddaf_tv",
+      "name": "EL HEDDAF TV",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/el_heddaf_tv_dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 23,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/122.m3u8"}
+      ]
+    },
+    {
+      "id": "el_hayat_tv",
+      "name": "EL HAYAT TV",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/el-hayat-tv-dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 24,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/70305.m3u8"}
+      ]
+    },
+    {
+      "id": "a_fajr",
+      "name": "A FAJR",
+      "logoUrl": "https://4.bp.blogspot.com/-REypugcLGAQ/WNlnnNWF8HI/AAAAAAAAU0s/K5a9-LLR3rIDLJLWxJC3yuk64AQSXdWfgCLcB/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D9%2581%25D8%25AC%25D8%25B1%2Btv%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B2%25D8%25A7%25D8%25A6%25D8%25B1%25D9%258A%25D8%25A9.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 25,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/159032.m3u8"}
+      ]
+    },
+    {
+      "id": "bahia_tv",
+      "name": "BAHIA TV",
+      "logoUrl": "http://logo.lynxcontents.click/Logo/algeria/bahia_tv_dz.png",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 26,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/3891.m3u8"}
+      ]
+    },
+    {
+      "id": "berbere_tv",
+      "name": "Berbere TV",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/1/1d/Berb%C3%A8re_T%C3%A9l%C3%A9vision_%282008%2C_V1%29.jpg",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 27,
+      "streams": [
+        {"quality": "HD", "url": "http://ibo.lynxiptv.com/live/778889372471/OqlS0q8KDE/125.m3u8"}
       ]
     }
   ]

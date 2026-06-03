@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "category_id": "sports_vip",
+      "category_name_ar": "قنوات الرياضة VIP",
+      "category_name_en": "VIP Sports",
+      "category_icon": "https://example.com/icons/sports.png"
+    },
+    {
+      "category_id": "movies_ar",
+      "category_name_ar": "السينما والترفيه",
+      "category_name_en": "Movies & Entertainment",
+      "category_icon": "https://example.com/icons/movies.png"
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": "bein_sports_1",
+      "category_id": "sports_vip",
+      "channel_name": "beIN SPORTS 1 Premium",
+      "logo_url": "https://raw.githubusercontent.com/USERNAME/REPO/main/logos/bein1.png",
+      "stream_url": "http://stalker-server.com:80/play/live.php?mac=00:1A:79:XX:XX:XX&stream=105",
+      "is_active": true,
+      "order_index": 1
+    },
+    {
+      "channel_id": "osn_movies",
+      "category_id": "movies_ar",
+      "channel_name": "OSN Movies First",
+      "logo_url": "https://raw.githubusercontent.com/USERNAME/REPO/main/logos/osn_movies.png",
+      "stream_url": "http://stalker-server.com:80/play/live.php?mac=00:1A:79:XX:XX:XX&stream=210",
+      "is_active": true,
+      "order_index": 2
+    }
+  ]
+}

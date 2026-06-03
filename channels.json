@@ -1,464 +1,573 @@
 {
   "categories": [
     {
-      "category_id": "algerie_tv",
-      "category_name_ar": "قنوات الجزائر",
-      "category_name_en": "Algeria TV Channels",
-      "category_icon": "https://www.shutterstock.com/fr/search/algeria-round-flag"
+      "name": "قنوات الجزائر",
+      "displayOrder": 1
     },
     {
-      "category_id": "bein_sport",
-      "category_name_ar": "قنوات بين سبورت",
-      "category_name_en": "beIN SPORTS",
-      "category_icon": "https://seeklogo.com/vector-logo/259891/bein-sports"
+      "name": "قنوات بين سبورت",
+      "displayOrder": 2
     },
     {
-      "category_id": "bein_sport_max",
-      "category_name_ar": "قنوات بين سبورت ماكس",
-      "category_name_en": "beIN SPORTS MAX",
-      "category_icon": "https://example.com/icons/bein_max.png"
+      "name": "قنوات بين سبورت ماكس",
+      "displayOrder": 3
     }
   ],
   "channels": [
     {
-      "channel_id": "algerie_1",
-      "category_id": "algerie_tv",
-      "channel_name": "ALGERIE 1",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444244&extension=ts",
-      "qualities": ["FHD", "HD"],
-      "is_active": true,
-      "order_index": 1
+      "id": "algerie_1",
+      "name": "ALGERIE 1",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: FHD, HD",
+      "isVisible": true,
+      "displayOrder": 1,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444244&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22254&extension=ts" }
+      ]
     },
     {
-      "channel_id": "algerie_2",
-      "category_id": "algerie_tv",
-      "channel_name": "ALGERIE 2",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444246&extension=ts",
-      "qualities": ["FHD", "HD"],
-      "is_active": true,
-      "order_index": 2
+      "id": "algerie_2",
+      "name": "ALGERIE 2",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: FHD, HD",
+      "isVisible": true,
+      "displayOrder": 2,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444246&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22255&extension=ts" }
+      ]
     },
     {
-      "channel_id": "algerie_3",
-      "category_id": "algerie_tv",
-      "channel_name": "ALGERIE 3",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444248&extension=ts",
-      "qualities": ["FHD", "HD"],
-      "is_active": true,
-      "order_index": 3
+      "id": "algerie_3",
+      "name": "ALGERIE 3",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: FHD, HD",
+      "isVisible": true,
+      "displayOrder": 3,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444248&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22253&extension=ts" }
+      ]
     },
     {
-      "channel_id": "algerie_4",
-      "category_id": "algerie_tv",
-      "channel_name": "ALGERIE 4",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22252&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 4
+      "id": "algerie_4",
+      "name": "ALGERIE 4",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 4,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22252&extension=ts" }
+      ]
     },
     {
-      "channel_id": "algerie_5",
-      "category_id": "algerie_tv",
-      "channel_name": "ALGERIE 5",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22251&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 5
+      "id": "algerie_5",
+      "name": "ALGERIE 5",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 5,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22251&extension=ts" }
+      ]
     },
     {
-      "channel_id": "algerie_6",
-      "category_id": "algerie_tv",
-      "channel_name": "ALGERIE 6",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22247&extension=ts",
-      "qualities": ["FHD", "HD"],
-      "is_active": true,
-      "order_index": 6
+      "id": "algerie_6",
+      "name": "ALGERIE 6",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: FHD, HD",
+      "isVisible": true,
+      "displayOrder": 6,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22247&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=132639&extension=ts" }
+      ]
     },
     {
-      "channel_id": "tv7_elmaarifa",
-      "category_id": "algerie_tv",
-      "channel_name": "TV7 ELMAARIFA",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=132641&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 7
+      "id": "tv7_elmaarifa",
+      "name": "TV7 ELMAARIFA",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "قناة المعرفة",
+      "isVisible": true,
+      "displayOrder": 7,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=132641&extension=ts" }
+      ]
     },
     {
-      "channel_id": "tv8_edhakira",
-      "category_id": "algerie_tv",
-      "channel_name": "TV8 EDHAKIRA",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=132640&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 8
+      "id": "tv8_edhakira",
+      "name": "TV8 EDHAKIRA",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "قناة الذاكرة",
+      "isVisible": true,
+      "displayOrder": 8,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=132640&extension=ts" }
+      ]
     },
     {
-      "channel_id": "tv9_el_barlamaniya",
-      "category_id": "algerie_tv",
-      "channel_name": "TV9 EL BARLAMANIYA",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219951&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 9
+      "id": "tv9_el_barlamaniya",
+      "name": "TV9 EL BARLAMANIYA",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 9,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219951&extension=ts" }
+      ]
     },
     {
-      "channel_id": "al24_news",
-      "category_id": "algerie_tv",
-      "channel_name": "AL24 NEWS",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219950&extension=ts",
-      "qualities": ["FHD", "HD"],
-      "is_active": true,
-      "order_index": 10
+      "id": "al24_news",
+      "name": "AL24 NEWS",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: FHD, HD",
+      "isVisible": true,
+      "displayOrder": 10,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219950&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444243&extension=ts" }
+      ]
     },
     {
-      "channel_id": "el_djazairia_quran",
-      "category_id": "algerie_tv",
-      "channel_name": "EL DJAZAIRIA QURAN",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22250&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 11
+      "id": "el_djazairia_quran",
+      "name": "EL DJAZAIRIA QURAN",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "قناة القرآن الكريم",
+      "isVisible": true,
+      "displayOrder": 11,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22250&extension=ts" }
+      ]
     },
     {
-      "channel_id": "el_watania_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "EL WATANIA TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219954&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 12
+      "id": "el_watania_tv",
+      "name": "EL WATANIA TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 12,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219954&extension=ts" }
+      ]
     },
     {
-      "channel_id": "salam_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "SALAM TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219953&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 13
+      "id": "salam_tv",
+      "name": "SALAM TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 13,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219953&extension=ts" }
+      ]
     },
     {
-      "channel_id": "al_magharibia",
-      "category_id": "algerie_tv",
-      "channel_name": "AL MAGHARIBIA",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=25219&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 14
+      "id": "al_magharibia",
+      "name": "AL MAGHARIBIA",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 14,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=25219&extension=ts" }
+      ]
     },
     {
-      "channel_id": "el_djazair_n1",
-      "category_id": "algerie_tv",
-      "channel_name": "EL DJAZAIR N1",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22246&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 15
+      "id": "el_djazair_n1",
+      "name": "EL DJAZAIR N1",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 15,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22246&extension=ts" }
+      ]
     },
     {
-      "channel_id": "ennahar_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "ENNAHAR TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22242&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 16
+      "id": "ennahar_tv",
+      "name": "ENNAHAR TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 16,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22242&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bahia_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "BAHIA TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22239&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 17
+      "id": "bahia_tv",
+      "name": "BAHIA TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 17,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22239&extension=ts" }
+      ]
     },
     {
-      "channel_id": "el_heddaf_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "EL HEDDAF TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22236&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 18
+      "id": "el_heddaf_tv",
+      "name": "EL HEDDAF TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 18,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22236&extension=ts" }
+      ]
     },
     {
-      "channel_id": "echourouk_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "ECHOROUK TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444262&extension=ts",
-      "qualities": ["FHD", "HD"],
-      "is_active": true,
-      "order_index": 19
+      "id": "echourouk_tv",
+      "name": "ECHOROUK TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: FHD, HD",
+      "isVisible": true,
+      "displayOrder": 19,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444262&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22235&extension=ts" }
+      ]
     },
     {
-      "channel_id": "echourouk_news",
-      "category_id": "algerie_tv",
-      "channel_name": "ECHOROUK NEWS",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22234&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 20
+      "id": "echourouk_news",
+      "name": "ECHOROUK NEWS",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 20,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22234&extension=ts" }
+      ]
     },
     {
-      "channel_id": "samira_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "SAMIRA TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444265&extension=ts",
-      "qualities": ["FHD", "HD"],
-      "is_active": true,
-      "order_index": 21
+      "id": "samira_tv",
+      "name": "SAMIRA TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "الجودات المتوفرة: FHD, HD",
+      "isVisible": true,
+      "displayOrder": 21,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444265&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22231&extension=ts" }
+      ]
     },
     {
-      "channel_id": "zahra_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "ZAHRA TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219952&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 22
+      "id": "zahra_tv",
+      "name": "ZAHRA TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 22,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=219952&extension=ts" }
+      ]
     },
     {
-      "channel_id": "4_kids",
-      "category_id": "algerie_tv",
-      "channel_name": "4 KIDS",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444268&extension=ts",
-      "qualities": ["FHD"],
-      "is_active": true,
-      "order_index": 23
+      "id": "4_kids",
+      "name": "4 KIDS",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 23,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444268&extension=ts" }
+      ]
     },
     {
-      "channel_id": "amou_yazid_tofola_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "AMOU YAZID TOFOLA TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444278&extension=ts",
-      "qualities": ["FHD"],
-      "is_active": true,
-      "order_index": 24
+      "id": "amou_yazid_tofola_tv",
+      "name": "AMOU YAZID TOFOLA TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 24,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444278&extension=ts" }
+      ]
     },
     {
-      "channel_id": "el_fadjr_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "EL FADJR TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22229&extension=ts",
-      "qualities": ["FHD"],
-      "is_active": true,
-      "order_index": 25
+      "id": "el_fadjr_tv",
+      "name": "EL FADJR TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 25,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22229&extension=ts" }
+      ]
     },
     {
-      "channel_id": "berbere",
-      "category_id": "algerie_tv",
-      "channel_name": "BERBERE",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22227&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 26
+      "id": "berbere",
+      "name": "BERBERE",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 26,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22227&extension=ts" }
+      ]
     },
     {
-      "channel_id": "el_bilad",
-      "category_id": "algerie_tv",
-      "channel_name": "EL BILAD",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=34024&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 27
+      "id": "el_bilad",
+      "name": "EL BILAD",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 27,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=34024&extension=ts" }
+      ]
     },
     {
-      "channel_id": "al_hayat",
-      "category_id": "algerie_tv",
-      "channel_name": "AL HAYAT",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78472&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 28
+      "id": "al_hayat",
+      "name": "AL HAYAT",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 28,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78472&extension=ts" }
+      ]
     },
     {
-      "channel_id": "al_anis",
-      "category_id": "algerie_tv",
-      "channel_name": "AL ANIS",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22241&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 29
+      "id": "al_anis",
+      "name": "AL ANIS",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 29,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=22241&extension=ts" }
+      ]
     },
     {
-      "channel_id": "dzair_jannah",
-      "category_id": "algerie_tv",
-      "channel_name": "DZAIR JANNAH",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=34022&extension=ts",
-      "qualities": ["HD"],
-      "is_active": true,
-      "order_index": 30
+      "id": "dzair_jannah",
+      "name": "DZAIR JANNAH",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 30,
+      "streams": [
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=34022&extension=ts" }
+      ]
     },
     {
-      "channel_id": "one_tv",
-      "category_id": "algerie_tv",
-      "channel_name": "ONE TV",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444283&extension=ts",
-      "qualities": ["FHD"],
-      "is_active": true,
-      "order_index": 31
+      "id": "one_tv",
+      "name": "ONE TV",
+      "logoUrl": "",
+      "category": "قنوات الجزائر",
+      "description": "",
+      "isVisible": true,
+      "displayOrder": 31,
+      "streams": [
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=444283&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_1",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 1",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78378&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 1
+      "id": "bein_sports_1",
+      "name": "BEIN SPORTS 1",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 1,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78378&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13614&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_2",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 2",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78379&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 2
+      "id": "bein_sports_2",
+      "name": "BEIN SPORTS 2",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 2,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78379&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13615&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_3",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 3",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=89342&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 3
+      "id": "bein_sports_3",
+      "name": "BEIN SPORTS 3",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 3,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=89342&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13616&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_4",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 4",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78381&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 4
+      "id": "bein_sports_4",
+      "name": "BEIN SPORTS 4",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 4,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78381&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13617&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_5",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 5",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78382&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 5
+      "id": "bein_sports_5",
+      "name": "BEIN SPORTS 5",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 5,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78382&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13618&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_6",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 6",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78383&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 6
+      "id": "bein_sports_6",
+      "name": "BEIN SPORTS 6",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 6,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78383&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13641&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_7",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 7",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78384&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 7
+      "id": "bein_sports_7",
+      "name": "BEIN SPORTS 7",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 7,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78384&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13642&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_8",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 8",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78375&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 8
+      "id": "bein_sports_8",
+      "name": "BEIN SPORTS 8",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 8,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78375&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13601&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_9",
-      "category_id": "bein_sport",
-      "channel_name": "BEIN SPORTS 9",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78376&extension=ts",
-      "qualities": ["4K", "SD"],
-      "is_active": true,
-      "order_index": 9
+      "id": "bein_sports_9",
+      "name": "BEIN SPORTS 9",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت",
+      "description": "الجودات المتوفرة: 4K, SD",
+      "isVisible": true,
+      "displayOrder": 9,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=78376&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=13612&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_max_1",
-      "category_id": "bein_sport_max",
-      "channel_name": "BEIN SPORTS MAX 1",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461667&extension=ts",
-      "qualities": ["4K", "FHD", "HD", "SD"],
-      "is_active": true,
-      "order_index": 1
+      "id": "bein_sports_max_1",
+      "name": "BEIN SPORTS MAX 1",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت ماكس",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 1,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461667&extension=ts" },
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461659&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461666&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461671&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_max_2",
-      "category_id": "bein_sport_max",
-      "channel_name": "BEIN SPORTS MAX 2",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461668&extension=ts",
-      "qualities": ["4K", "FHD", "HD", "SD"],
-      "is_active": true,
-      "order_index": 2
+      "id": "bein_sports_max_2",
+      "name": "BEIN SPORTS MAX 2",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت ماكس",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 2,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461668&extension=ts" },
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461660&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461665&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461672&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_max_3",
-      "category_id": "bein_sport_max",
-      "channel_name": "BEIN SPORTS MAX 3",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461669&extension=ts",
-      "qualities": ["4K", "FHD", "HD"],
-      "is_active": true,
-      "order_index": 3
+      "id": "bein_sports_max_3",
+      "name": "BEIN SPORTS MAX 3",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت ماكس",
+      "description": "الجودات المتوفرة: 4K, FHD, HD",
+      "isVisible": true,
+      "displayOrder": 3,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461669&extension=ts" },
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461661&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461664&extension=ts" }
+      ]
     },
     {
-      "channel_id": "bein_sports_max_4",
-      "category_id": "bein_sport_max",
-      "channel_name": "BEIN SPORTS MAX 4",
-      "logo_url": "",
-      "stream_url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461670&extension=ts",
-      "qualities": ["4K", "FHD", "HD", "SD"],
-      "is_active": true,
-      "order_index": 4
+      "id": "bein_sports_max_4",
+      "name": "BEIN SPORTS MAX 4",
+      "logoUrl": "",
+      "category": "قنوات بين سبورت ماكس",
+      "description": "الجودات المتوفرة: 4K, FHD, HD, SD",
+      "isVisible": true,
+      "displayOrder": 4,
+      "streams": [
+        { "quality": "4K", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461670&extension=ts" },
+        { "quality": "FHD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461662&extension=ts" },
+        { "quality": "HD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461663&extension=ts" },
+        { "quality": "SD", "url": "http://4kpro2.com:8789/c/play/live.php?mac=00:1A:79:00:C1:9A&stream=461674&extension=ts" }
+      ]
     }
   ]
 }

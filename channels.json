@@ -2,7 +2,7 @@
   {
     "id": "dz-a1-algeria",
     "name": "A1 Algeria",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/858d17af92c782e49f4cbab04f29b0a5.png",
     "category": "الجزائر",
     "display_order": 1,
     "description": "بث مباشر قناة A1 الجزائرية",
@@ -16,7 +16,7 @@
   {
     "id": "dz-a2-algeria",
     "name": "A2 Algeria",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/096e17572ab9b25a7efeca28bc254b40.png",
     "category": "الجزائر",
     "display_order": 2,
     "description": "بث مباشر قناة A2 الجزائرية",
@@ -30,7 +30,7 @@
   {
     "id": "dz-a3",
     "name": "A3",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/508c75c8507a2ae5223dfd2faeb98122.png",
     "category": "الجزائر",
     "display_order": 3,
     "description": "بث مباشر القناة الجزائرية الثالثة",
@@ -44,7 +44,7 @@
   {
     "id": "dz-echorouk-tv",
     "name": "Echorouk TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/cb4c066478884c9403d9a3dea3e45653.png",
     "category": "الجزائر",
     "display_order": 4,
     "description": "بث مباشر قناة الشروق العامة",
@@ -62,7 +62,7 @@
   {
     "id": "dz-echorouk-news",
     "name": "Echorouk News",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/00c6a7b1bdaeb439fa880ab1a0bbabb1.png",
     "category": "الجزائر",
     "display_order": 5,
     "description": "بث مباشر قناة الشروق الإخبارية",
@@ -80,7 +80,7 @@
   {
     "id": "dz-samira-tv",
     "name": "Samira TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/415f7c96da3e79cf3588156e93522caa.png",
     "category": "الجزائر",
     "display_order": 6,
     "description": "بث مباشر قناة سميرة للطبخ والمرأة",
@@ -94,7 +94,7 @@
   {
     "id": "dz-el-heddaf",
     "name": "El Heddaf TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/b51bc94d22dd1f3cb47eed803b0f0b01.png",
     "category": "الجزائر",
     "display_order": 7,
     "description": "بث مباشر قناة الهداف الرياضية",
@@ -108,7 +108,7 @@
   {
     "id": "dz-el-bilad",
     "name": "El Bilad",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/a00b2070fc2c4d09e51035edf1834eda.png",
     "category": "الجزائر",
     "display_order": 8,
     "description": "بث مباشر قناة البلاد",
@@ -122,7 +122,7 @@
   {
     "id": "dz-el-djazairia",
     "name": "El Djazairia",
-    "logo_url": "",
+    "logo_url": "http://iptvch.com:2082/images/9dc64207d58bc4fa31a40880922b32cc.png",
     "category": "الجزائر",
     "display_order": 9,
     "description": "بث مباشر قناة الجزائرية وان",
@@ -136,7 +136,7 @@
   {
     "id": "dz-al24-news",
     "name": "AL24 News",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/576f7e4b8e3829bae420796c79f746fc.png",
     "category": "الجزائر",
     "display_order": 10,
     "description": "بث مباشر قناة الجزائر الدولية الإخبارية",
@@ -150,7 +150,7 @@
   {
     "id": "dz-bahia-tv",
     "name": "Bahia TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/2568cf86cdced9274ad7e0c7ea02f78c.png",
     "category": "الجزائر",
     "display_order": 11,
     "description": "بث مباشر قناة البهية",
@@ -164,7 +164,7 @@
   {
     "id": "dz-tv8-edhakira",
     "name": "TV8 Edhakira",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/e55be2a1302751c8eb666fe48ad6e09f.png",
     "category": "الجزائر",
     "display_order": 12,
     "description": "بث مباشر القناة الثامنة الذاكرة الجزائرية",
@@ -178,7 +178,7 @@
   {
     "id": "dz-zahra-tv",
     "name": "Zahra TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/01e50c681c0b05ff22686b3e0f7290d3.png",
     "category": "الجزائر",
     "display_order": 13,
     "description": "بث مباشر قناة زهرة",
@@ -206,7 +206,7 @@
   {
     "id": "dz-el-watania-algerie",
     "name": "El Watania Algerie",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/76cf68122b214a49cb042287d3f46e0d.png",
     "category": "الجزائر",
     "display_order": 15,
     "description": "بث مباشر القناة الوطنية الجزائرية",
@@ -220,7 +220,7 @@
   {
     "id": "dz-ennahar-algerie",
     "name": "Ennahar TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/68927ffd86e3a7ef0d69d346c20ae655.png",
     "category": "الجزائر",
     "display_order": 16,
     "description": "بث مباشر قناة النهار الجديد",
@@ -234,7 +234,7 @@
   {
     "id": "dz-berbere-tv",
     "name": "Berbere TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/74d4ba35561a866402029aa0f03d9509.png",
     "category": "الجزائر",
     "display_order": 17,
     "description": "بث مباشر قناة بربر تيفي",
@@ -248,7 +248,7 @@
   {
     "id": "dz-algerie-4",
     "name": "Algerie 4 (الأمازيغية)",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/9dbecd0f72b9f67cc6ac62c6f441f25f.png",
     "category": "الجزائر",
     "display_order": 18,
     "description": "بث مباشر القناة الرابعة الجزائرية الناطقة بالأمازيغية",
@@ -262,7 +262,7 @@
   {
     "id": "dz-dzair-3",
     "name": "Dzair 3",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/508c75c8507a2ae5223dfd2faeb98122.png",
     "category": "الجزائر",
     "display_order": 19,
     "description": "بث مباشر قناة الجزائر الثالثة",
@@ -276,7 +276,7 @@
   {
     "id": "dz-algerie-5",
     "name": "Algerie 5 (القرآن الكريم)",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/074a580398f8093ab50be59252457b07.png",
     "category": "الجزائر",
     "display_order": 20,
     "description": "بث مباشر القناة الخامسة الجزائرية للقرآن الكريم",
@@ -290,7 +290,7 @@
   {
     "id": "dz-algerie-6",
     "name": "Algerie 6 (الشبابية)",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/7443020d206e4da8451d53acdbfa914d.png",
     "category": "الجزائر",
     "display_order": 21,
     "description": "بث مباشر القناة السادسة الجزائرية الشبابية",
@@ -304,7 +304,7 @@
   {
     "id": "dz-tv7-el-maarifa",
     "name": "TV7 El Maarifa",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/18b021d78212976858d136ff504bf8b7.png",
     "category": "الجزائر",
     "display_order": 22,
     "description": "بث مباشر القناة السابعة المعرفة الجزائرية",
@@ -318,7 +318,7 @@
   {
     "id": "dz-el-fadjr-tv",
     "name": "El Fadjr TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/1a489758636d4c003ac9c38fe973a4aa.png",
     "category": "الجزائر",
     "display_order": 23,
     "description": "بث مباشر قناة الفجر الجزائرية",
@@ -332,7 +332,7 @@
   {
     "id": "dz-el-djazair-n1",
     "name": "El Djazair N1",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/c82561ec215a6e31807ceedf3b3bd25e.png",
     "category": "الجزائر",
     "display_order": 24,
     "description": "بث مباشر قناة الجزائر N1",
@@ -374,7 +374,7 @@
   {
     "id": "dz-al-hayat-tv",
     "name": "Al Hayat TV",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/8e7d5df06fcc6b1054a8a5647594d574.png",
     "category": "الجزائر",
     "display_order": 27,
     "description": "بث مباشر قناة الحياة الجزائرية",
@@ -388,7 +388,7 @@
   {
     "id": "bein-sport-news",
     "name": "beIN SPORTS News",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 28,
     "description": "بث مباشر قناة بي ان سبورت الإخبارية",
@@ -402,7 +402,7 @@
   {
     "id": "bein-global",
     "name": "beIN Global",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 29,
     "description": "بث مباشر قناة بي ان سبورت العالمية",
@@ -424,7 +424,7 @@
   {
     "id": "bein-sports-1",
     "name": "beIN SPORTS 1",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 30,
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
@@ -446,7 +446,7 @@
   {
     "id": "bein-sports-2",
     "name": "beIN SPORTS 2",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 31,
     "description": "بث مباشر قناة بي ان سبورت 2",
@@ -468,7 +468,7 @@
   {
     "id": "bein-sports-3",
     "name": "beIN SPORTS 3",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 32,
     "description": "بث مباشر قناة بي ان سبورت 3",
@@ -490,7 +490,7 @@
   {
     "id": "bein-sports-4",
     "name": "beIN SPORTS 4",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 33,
     "description": "بث مباشر قناة بي ان سبورت 4",
@@ -512,7 +512,7 @@
   {
     "id": "bein-sports-5",
     "name": "beIN SPORTS 5",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 34,
     "description": "بث مباشر قناة بي ان سبورت 5",
@@ -534,7 +534,7 @@
   {
     "id": "bein-sports-6",
     "name": "beIN SPORTS 6",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 35,
     "description": "بث مباشر قناة بي ان سبورت 6",
@@ -556,7 +556,7 @@
   {
     "id": "bein-sports-7",
     "name": "beIN SPORTS 7",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 36,
     "description": "بث مباشر قناة بي ان سبورت 7",
@@ -578,7 +578,7 @@
   {
     "id": "bein-sports-8",
     "name": "beIN SPORTS 8",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 37,
     "description": "بث مباشر قناة بي ان سبورت 8",
@@ -600,7 +600,7 @@
   {
     "id": "bein-sports-9",
     "name": "beIN SPORTS 9",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 38,
     "description": "بث مباشر قناة بي ان سبورت 9",
@@ -622,7 +622,7 @@
   {
     "id": "bein-sports-4k",
     "name": "beIN SPORTS 4K",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 39,
     "description": "قنوات بي ان سبورتس بجودة الـ 4K فائقة الوضوح",
@@ -668,7 +668,7 @@
   {
     "id": "bein-xtra",
     "name": "beIN Xtra",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 40,
     "description": "بث مباشر قنوات بي ان اكسترا الإضافية",
@@ -718,7 +718,7 @@
   {
     "id": "bein-nba",
     "name": "beIN SPORTS NBA",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 41,
     "description": "قناة بي ان سبورت الخاصة بدوري كرة السلة الأمريكي للمحترفين",
@@ -736,7 +736,7 @@
   {
     "id": "bein-english-1",
     "name": "beIN SPORTS English 1",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 42,
     "description": "beIN SPORTS English 1 Channel Live",
@@ -762,7 +762,7 @@
   {
     "id": "bein-english-2",
     "name": "beIN SPORTS English 2",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 43,
     "description": "beIN SPORTS English 2 Channel Live",
@@ -788,7 +788,7 @@
   {
     "id": "bein-french-1",
     "name": "beIN SPORTS French 1",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 44,
     "description": "beIN SPORTS French 1 Channel Live",
@@ -814,7 +814,7 @@
   {
     "id": "bein-french-2",
     "name": "beIN SPORTS French 2",
-    "logo_url": "",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 45,
     "description": "beIN SPORTS French 2 Channel Live",
@@ -840,7 +840,7 @@
   {
     "id": "bein-afc",
     "name": "beIN SPORTS AFC",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 46,
     "description": "قناة بي ان سبورتس الخاصة ببطولات الاتحاد الآسيوي",
@@ -862,7 +862,7 @@
   {
     "id": "bein-afc-1",
     "name": "beIN SPORTS AFC 1",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 47,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 1",
@@ -884,7 +884,7 @@
   {
     "id": "bein-afc-2",
     "name": "beIN SPORTS AFC 2",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 48,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 2",
@@ -906,7 +906,7 @@
   {
     "id": "bein-afc-3",
     "name": "beIN SPORTS AFC 3",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 49,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 3",
@@ -928,7 +928,7 @@
   {
     "id": "bein-afc-4",
     "name": "beIN SPORTS AFC 4",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 50,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 4",
@@ -950,7 +950,7 @@
   {
     "id": "bein-afc-5",
     "name": "beIN SPORTS AFC 5",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
     "display_order": 51,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 5",
@@ -972,7 +972,7 @@
   {
     "id": "bein-max-1",
     "name": "beIN SPORTS Max 1",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس",
     "display_order": 52,
     "description": "بث مباشر قناة بي ان ماكس 1 الخاصة بالبطولات الكبرى",
@@ -998,7 +998,7 @@
   {
     "id": "bein-max-2",
     "name": "beIN SPORTS Max 2",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس",
     "display_order": 53,
     "description": "بث مباشر قناة بي ان ماكس 2",
@@ -1024,7 +1024,7 @@
   {
     "id": "bein-max-3",
     "name": "beIN SPORTS Max 3",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس",
     "display_order": 54,
     "description": "بث مباشر قناة بي ان ماكس 3",
@@ -1050,7 +1050,7 @@
   {
     "id": "bein-max-4",
     "name": "beIN SPORTS Max 4",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس",
     "display_order": 55,
     "description": "بث مباشر قناة بي ان ماكس 4",
@@ -1076,7 +1076,7 @@
   {
     "id": "bein-max-5",
     "name": "beIN SPORTS Max 5",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس",
     "display_order": 56,
     "description": "بث مباشر قناة بي ان ماكس 5",
@@ -1102,7 +1102,7 @@
   {
     "id": "bein-max-6",
     "name": "beIN SPORTS Max 6",
-    "logo_url": "",
+    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس",
     "display_order": 57,
     "description": "بث مباشر قناة بي ان ماكس 6",

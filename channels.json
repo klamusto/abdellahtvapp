@@ -1,1197 +1,1324 @@
-{
-  "categories": [
-    {
-      "name": "قنوات beIN Sports 4K",
-      "displayOrder": 1
-    },
-    {
-      "name": "قنوات beIN Sports SD",
-      "displayOrder": 2
-    },
-    {
-      "name": "قنوات الجزائر",
-      "displayOrder": 3
-    },
-    {
-      "name": "قنوات رياضية عربية",
-      "displayOrder": 4
-    }
-  ],
-  "channels": [
-    {
-      "id": "bein_sport_1",
-      "name": "beIN Sports 1",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 1,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/26806.ts"}
-      ]
-    },
-    {
-      "id": "bein_sport_2",
-      "name": "beIN Sports 2",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 2,
-      "streams": [
-        {"quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/257744.ts"
-      ]
-    },
-    {
-      "id": "bein_sport_3",
-      "name": "beIN Sports 3",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 3,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/26804.ts"}
-      ]
-    },
-    {
-      "id": "bein_sport_4",
-      "name": "beIN Sports 4",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 4,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/26803.ts"}
-      ]
-    },
-    {
-      "id": "bein_sport_5",
-      "name": "beIN Sports 5",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 5,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/26802.ts"}
-      ]
-    },
-    {
-      "id": "bein_sport_6",
-      "name": "beIN Sports 6",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 6,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/26801.ts"}
-      ]
-    },
-    {
-      "id": "bein_sport_7",
-      "name": "beIN Sports 7",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 7,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/26800.ts"}
-      ]
-    },
-    {
-      "id": "bein_sport_8",
-      "name": "beIN Sports 8",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 8,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/26799.ts"}
-      ]
-    },
-    {
-      "id": "bein_sport_9",
-      "name": "beIN Sports 9",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 9,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/26798.ts"}
-      ]
-    },
-    {
-      "id": "ad_sport_premium_1_4k",
-      "name": "AD Sport Premium 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/478.jpg",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 10,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/478.ts"}
-      ]
-    },
-    {
-      "id": "ad_sport_premium_2_4k",
-      "name": "AD Sport Premium 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/475.jpg",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 11,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/475.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_extra_1_4k",
-      "name": "BeIN Sports Extra 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/814.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 12,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/814.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_extra_2_4k",
-      "name": "BeIN Sports Extra 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/815.png",
-      "category": "قنوات beIN Sports 4K",
-      "description": "الجودات المتوفرة: 4K",
-      "isVisible": true,
-      "displayOrder": 13,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/815.ts"}
-      ]
-    },
-    {
-      "id": "ad_sport_premium_1_sd",
-      "name": "AD Sport Premium 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/476.jpg",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 1,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/476.ts"}
-      ]
-    },
-    {
-      "id": "ad_sport_premium_2_sd",
-      "name": "AD Sport Premium 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/473.jpg",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 2,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/473.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_1_sd",
-      "name": "beIN Sports 1",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 3,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/54909.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_2_sd",
-      "name": "beIN Sports 2",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 4,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/54910.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_3_sd",
-      "name": "beIN Sports 3",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 5,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/54911.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_4_sd",
-      "name": "beIN Sports 4",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 6,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/54913.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_5_sd",
-      "name": "beIN Sports 5",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 7,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/54914.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_6_sd",
-      "name": "beIN Sports 6",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 8,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/79815.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_7_sd",
-      "name": "beIN Sports 7",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 9,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/54912.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_8_sd",
-      "name": "beIN Sports 8",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 10,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/54915.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_9_sd",
-      "name": "beIN Sports 9",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 11,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/54916.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_extra_1_sd",
-      "name": "BeIN Sports Extra 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/826.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 12,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/826.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_extra_2_sd",
-      "name": "BeIN Sports Extra 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/827.png",
-      "category": "قنوات beIN Sports SD",
-      "description": "الجودات المتوفرة: SD",
-      "isVisible": true,
-      "displayOrder": 13,
-      "streams": [
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/827.ts"}
-      ]
-    },
-    {
-      "id": "al_anis_tv",
-      "name": "Al-Anis TV",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85675972.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 1,
-      "streams": [
-        {"quality": "HD", "url": "http://asmrasmr.live:8080/05347247405/3100934708/438841"}
-      ]
-    },
-    {
-      "id": "algerie_edhakira_tv8",
-      "name": "Algerie Edhakira TV8",
-      "logoUrl": "http://multiacs.com/logo/algetmaroc/Algerie%20Edhakira%20TV8.png",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 2,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85675967.ts"}
-      ]
-    },
-    {
-      "id": "el_watania_tv",
-      "name": "EL Watania TV",
-      "logoUrl": "http://multiacs.com/logo/algetmaroc/EL%20Watania%20TV%20Algeria.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 3,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85675968.ts"}
-      ]
-    },
-    {
-      "id": "sahra_tv",
-      "name": "Sahra TV",
-      "logoUrl": "http://multiacs.com/logo/algetmaroc/Sahra%20TV.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 4,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85675969.ts"}
-      ]
-    },
-    {
-      "id": "zahra_tv",
-      "name": "Zahra TV",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85675971.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 5,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85675971.ts"}
-      ]
-    },
-    {
-      "id": "al_fajer_1",
-      "name": "Al Fajer 1",
-      "logoUrl": "http://multiacs.com/logo/algetmaroc/fadjer.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 6,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/655270.ts"}
-      ]
-    },
-    {
-      "id": "canal_algerie",
-      "name": "Canal Algerie [ENTV 2]",
-      "logoUrl": "http://multiacs.com/logo/algetmaroc/Algerie%202%20TV.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 7,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/655266.ts"}
-      ]
-    },
-    {
-      "id": "al_biled",
-      "name": "AL-BILED",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/49493.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 8,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/49493.ts"}
-      ]
-    },
-    {
-      "id": "algerie_2_tv",
-      "name": "Algerie 2 TV",
-      "logoUrl": "http://multiacs.com/logo/algetmaroc/Algerie%202%20TV.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 9,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/49489.ts"}
-      ]
-    },
-    {
-      "id": "al_heddaf_tv",
-      "name": "Al Heddaf TV",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/235.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 10,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/235.ts"}
-      ]
-    },
-    {
-      "id": "berbere_tv",
-      "name": "Berbere TV",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/655267.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 11,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/655267.ts"}
-      ]
-    },
-    {
-      "id": "echorouk_tv",
-      "name": "Echorouk TV",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/238.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 12,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/238.ts"}
-      ]
-    },
-    {
-      "id": "el_bahia",
-      "name": "EL bahia",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/elbahiaTV.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 13,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/49497.ts"}
-      ]
-    },
-    {
-      "id": "elhayat_tv",
-      "name": "ELHAYAT TV",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/655268.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 14,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/655268.ts"}
-      ]
-    },
-    {
-      "id": "elnnahar",
-      "name": "Elnnahar",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/242.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 15,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/242.ts"}
-      ]
-    },
-    {
-      "id": "entv_1",
-      "name": "Programme nationale [ENTV 1]",
-      "logoUrl": "http://5.135.139.24/cover/radio/ca.png",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 16,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/655271.ts"}
-      ]
-    },
-    {
-      "id": "samira_tv",
-      "name": "SamiraTV",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/241.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 17,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/241.ts"}
-      ]
-    },
-    {
-      "id": "tv6",
-      "name": "Tv 6",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85666599.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 18,
-      "streams": [
-        {"quality": "FHD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85666599.ts"}
-      ]
-    },
-    {
-      "id": "tv7_elmaarifa",
-      "name": "TV7 ELMAARIFA",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/655278.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 19,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/655278.ts"}
-      ]
-    },
-    {
-      "id": "el_djazairia_n1",
-      "name": "El Djazairia N1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/231.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 20,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/231.ts"}
-      ]
-    },
-    {
-      "id": "tv4_tamazight",
-      "name": "Algerie Tamazight TV4",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/tv4.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 21,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/237.ts"}
-      ]
-    },
-    {
-      "id": "algeria_tv_coran",
-      "name": "Algeria TV Coran [Algerie 5]",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/7467.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 22,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/7467.ts"}
-      ]
-    },
-    {
-      "id": "a3",
-      "name": "Algerie 3 TV [A3]",
-      "logoUrl": "http://5.135.139.24/cover/logochannel/A3.png",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 23,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/230.ts"}
-      ]
-    },
-    {
-      "id": "echourouk_news",
-      "name": "Echourouk News",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/239.jpg",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 24,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/239.ts"}
-      ]
-    },
-    {
-      "id": "watania_sports",
-      "name": "WATANIA SPORTS",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/49487.png",
-      "category": "قنوات الجزائر",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 25,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/49487.ts"}
-      ]
-    },
-    {
-      "id": "thamanya_1_sport",
-      "name": "Thamanya 1 Sport",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692683.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "الجودات المتوفرة: 4K, HD, SD",
-      "isVisible": true,
-      "displayOrder": 1,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692683.ts"},
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692686.ts"},
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692689.ts"}
-      ]
-    },
-    {
-      "id": "thamanya_2_sport",
-      "name": "Thamanya 2 Sport",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692684.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "الجودات المتوفرة: 4K, HD, SD",
-      "isVisible": true,
-      "displayOrder": 2,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692684.ts"},
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692687.ts"},
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692690.ts"}
-      ]
-    },
-    {
-      "id": "thamanya_3_sport",
-      "name": "Thamanya 3 Sport",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692685.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "الجودات المتوفرة: 4K, HD",
-      "isVisible": true,
-      "displayOrder": 3,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692685.ts"},
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692688.ts"}
-      ]
-    },
-    {
-      "id": "shahid_sport_1",
-      "name": "SHAHID SPORT 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692911.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 4,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692911.ts"}
-      ]
-    },
-    {
-      "id": "shahid_sport_2",
-      "name": "SHAHID SPORT 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692912.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 5,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692912.ts"}
-      ]
-    },
-    {
-      "id": "shahid_sport_3",
-      "name": "SHAHID SPORT 3",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692913.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 6,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692913.ts"}
-      ]
-    },
-    {
-      "id": "shahid_sport_4",
-      "name": "SHAHID SPORT 4",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692914.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 7,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692914.ts"}
-      ]
-    },
-    {
-      "id": "shahid_sport_5",
-      "name": "SHAHID SPORT 5",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692915.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 8,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692915.ts"}
-      ]
-    },
-    {
-      "id": "alkass1",
-      "name": "ALKASS1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/5002.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 9,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/5002.ts"}
-      ]
-    },
-    {
-      "id": "alkass2",
-      "name": "ALKASS2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/5003.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 10,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/5003.ts"}
-      ]
-    },
-    {
-      "id": "alkass3",
-      "name": "ALKASS3",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/5004.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 11,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/5004.ts"}
-      ]
-    },
-    {
-      "id": "alkass4",
-      "name": "ALKASS4",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/5005.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 12,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/5005.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_1_hd",
-      "name": "beIN Sports 1 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/165.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 13,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/165.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_2_hd",
-      "name": "beIN Sports 2 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/166.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 14,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/166.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_3_hd",
-      "name": "beIN Sports 3 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/167.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 15,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/167.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_4_hd",
-      "name": "beIN Sports 4 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/330.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 16,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/330.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_5_hd",
-      "name": "beIN Sports 5 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/172.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 17,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/172.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_6_hd",
-      "name": "beIN Sports 6 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/261.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 18,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/261.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_7_hd",
-      "name": "beIN Sports 7 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/168.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 19,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/168.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_8_hd",
-      "name": "beIN Sports 8 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/169.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 20,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/169.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_9_hd",
-      "name": "beIN Sports 9 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/170.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 21,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/170.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_extra_1_hd",
-      "name": "BeIN Sports Extra 1 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/820.png",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 22,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/820.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_extra_2_hd",
-      "name": "BeIN Sports Extra 2 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/821.png",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 23,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/821.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_extra_3_hd",
-      "name": "BeIN Sports Extra 3 HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85692820.png",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 24,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85692820.ts"}
-      ]
-    },
-    {
-      "id": "starzplay_sport",
-      "name": "StarzPlay Sport",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/470.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "الجودات المتوفرة: 4K, HD, SD",
-      "isVisible": true,
-      "displayOrder": 25,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/472.ts"},
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/471.ts"},
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/470.ts"}
-      ]
-    },
-    {
-      "id": "ad_sport_premium_1",
-      "name": "AD Sport Premium 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/478.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "الجودات المتوفرة: 4K, HD, SD",
-      "isVisible": true,
-      "displayOrder": 26,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/478.ts"},
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/477.ts"},
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/476.ts"}
-      ]
-    },
-    {
-      "id": "ad_sport_premium_2",
-      "name": "AD Sport Premium 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/475.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "الجودات المتوفرة: 4K, HD, SD",
-      "isVisible": true,
-      "displayOrder": 27,
-      "streams": [
-        {"quality": "4K", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/475.ts"},
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/474.ts"},
-        {"quality": "SD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/473.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_news",
-      "name": "beIN Sports News",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/308.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 28,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/308.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_hd",
-      "name": "beIN Sports HD",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/309.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 29,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/309.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_nba",
-      "name": "beIN Sports Nba",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/62113.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 30,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/62113.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_english_hd1",
-      "name": "Bein Sports English HD1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/62101.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 31,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/62101.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_english_hd2",
-      "name": "Bein Sports English HD2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/62112.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 32,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/62112.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_french_hd1",
-      "name": "Bein Sports French HD1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/62114.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 33,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/62114.ts"}
-      ]
-    },
-    {
-      "id": "bein_sports_french_hd2",
-      "name": "Bein Sports French HD2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/79814.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 34,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/79814.ts"}
-      ]
-    },
-    {
-      "id": "ksa_sport_1",
-      "name": "KSA SPORT 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/80112.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 35,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/80112.ts"}
-      ]
-    },
-    {
-      "id": "ksa_sport_2",
-      "name": "KSA SPORT 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/80113.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 36,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/80113.ts"}
-      ]
-    },
-    {
-      "id": "ksa_sport_4",
-      "name": "KSA SPORT 4",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/10845.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 37,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/10845.ts"}
-      ]
-    },
-    {
-      "id": "abu_dhabi_sport_1",
-      "name": "Abu Dhabi Sport 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/465.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 38,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/465.ts"}
-      ]
-    },
-    {
-      "id": "abu_dhabi_sport_2",
-      "name": "Abu Dhabi Sport 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/594.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 39,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/594.ts"}
-      ]
-    },
-    {
-      "id": "on_time_sport",
-      "name": "ON TIME SPORT",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/5144.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 40,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/5144.ts"}
-      ]
-    },
-    {
-      "id": "on_time_sport_2",
-      "name": "ON TIME Sport 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/74302.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 41,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/74302.ts"}
-      ]
-    },
-    {
-      "id": "al_ahly_tv",
-      "name": "Al Ahly Tv",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/602.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 42,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/602.ts"}
-      ]
-    },
-    {
-      "id": "nile_sport",
-      "name": "Nile Sport",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/421.png",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 43,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/421.ts"}
-      ]
-    },
-    {
-      "id": "dubai_sport_3",
-      "name": "Dubai Sport 3",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/5873.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 44,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/5873.ts"}
-      ]
-    },
-    {
-      "id": "dubai_sport_2",
-      "name": "Dubai Sport 2",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/1276.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 45,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/1276.ts"}
-      ]
-    },
-    {
-      "id": "dubai_sport_1",
-      "name": "Dubai Sport 1",
-      "logoUrl": "http://tvgold-max.info:8089/logo/chn/85675622.jpg",
-      "category": "قنوات رياضية عربية",
-      "description": "",
-      "isVisible": true,
-      "displayOrder": 46,
-      "streams": [
-        {"quality": "HD", "url": "http://tvgold-max.info:8089/live/4176753645984/8207019373015/85675622.ts"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "dz-programme-national",
+    "name": "DZ: Programme National",
+    "logo_url": "https://16k.xyz/images/858d17af92c782e49f4cbab04f29b0a5.png",
+    "category": "الجزائر",
+    "display_order": 1,
+    "description": "البث المباشر للقناة الأرضية الجزائرية (البرنامج الوطني)",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/311880"
+      }
+    ]
+  },
+  {
+    "id": "dz-entv-algerie",
+    "name": "DZ: ENTV Algérie",
+    "logo_url": "https://16k.xyz/images/858d17af92c782e49f4cbab04f29b0a5.png",
+    "category": "الجزائر",
+    "display_order": 2,
+    "description": "البث المباشر لقناة التلفزيون الجزائري الحكومي الوطني الأول",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/118852"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301965"
+      }
+    ]
+  },
+  {
+    "id": "dz-tv2-canal-algerie",
+    "name": "DZ: TV2 Canal Algérie",
+    "logo_url": "https://16k.xyz/images/096e17572ab9b25a7efeca28bc254b40.png",
+    "category": "الجزائر",
+    "display_order": 3,
+    "description": "البث المباشر للقناة الجزائرية الثانية الناطقة بالفرنسية (Canal Algérie)",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/17547"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301967"
+      }
+    ]
+  },
+  {
+    "id": "dz-tv3-algerie-a3",
+    "name": "DZ: TV3 Algérie A3",
+    "logo_url": "https://16k.xyz/images/508c75c8507a2ae5223dfd2faeb98122.png",
+    "category": "الجزائر",
+    "display_order": 4,
+    "description": "البث المباشر للقناة الجزائرية الثالثة الإخبارية والمنوعة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/30973"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات 4K (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301968"
+      }
+    ]
+  },
+  {
+    "id": "dz-tv4-tamazight",
+    "name": "DZ: TV4 Tamazight",
+    "logo_url": "https://16k.xyz/images/9dbecd0f72b9f67cc6ac62c6f441f25f.png",
+    "category": "الجزائر",
+    "display_order": 5,
+    "description": "البث المباشر للقناة الجزائرية الرابعة الناطقة بالأمازيغية",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/17541"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301969"
+      }
+    ]
+  },
+  {
+    "id": "dz-tv5-algerie-coran",
+    "name": "DZ: TV5 Algérie Coran",
+    "logo_url": "https://16k.xyz/images/074a580398f8093ab50be59252457b07.png",
+    "category": "الجزائر",
+    "display_order": 6,
+    "description": "البث المباشر لقناة القرآن الكريم الجزائرية الخامسة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/5435"
+      }
+    ]
+  },
+  {
+    "id": "dz-tv6-algerie",
+    "name": "DZ: TV6 Algérie",
+    "logo_url": "https://16k.xyz/images/7443020d206e4da8451d53acdbfa914d.png",
+    "category": "الجزائر",
+    "display_order": 7,
+    "description": "البث المباشر للقناة الجزائرية السادسة الشبابية والمنوعة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/118850"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات 4K (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301970"
+      }
+    ]
+  },
+  {
+    "id": "dz-tv7-el-maarifa",
+    "name": "DZ: TV7 El Maarifa",
+    "logo_url": "https://16k.xyz/images/18b021d78212976858d136ff504bf8b7.png",
+    "category": "الجزائر",
+    "display_order": 8,
+    "description": "البث المباشر لقناة المعرفة الجزائرية السابعة التعليمية",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/126701"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301971"
+      }
+    ]
+  },
+  {
+    "id": "dz-tv8-edhakira",
+    "name": "DZ: TV8 Edhakira",
+    "logo_url": "http://myserveriptv.com:2082/images/e55be2a1302751c8eb666fe48ad6e09f.png",
+    "category": "الجزائر",
+    "display_order": 9,
+    "description": "البث المباشر لقناة الذاكرة الجزائرية الثامنة المعنية بالتاريخ",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/126702"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301972"
+      }
+    ]
+  },
+  {
+    "id": "dz-al-qanat-9",
+    "name": "DZ: Al Qanat 9",
+    "logo_url": "http://iptvch.com:2082/images/9dc64207d58bc4fa31a40880922b32cc.png",
+    "category": "الجزائر",
+    "display_order": 10,
+    "description": "البث المباشر لقناة الجزائرية التاسعة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/30845"
+      }
+    ]
+  },
+  {
+    "id": "dz-samira-tv",
+    "name": "DZ: Samira TV",
+    "logo_url": "https://16k.xyz/images/415f7c96da3e79cf3588156e93522caa.png",
+    "category": "الجزائر",
+    "display_order": 11,
+    "description": "البث المباشر لقناة سميرة تي في الخاصة بالطبخ والمرأة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/5444"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301979"
+      }
+    ]
+  },
+  {
+    "id": "dz-echorouk-tv",
+    "name": "DZ: Echorouk TV",
+    "logo_url": "https://16k.xyz/images/cb4c066478884c9403d9a3dea3e45653.png",
+    "category": "الجزائر",
+    "display_order": 12,
+    "description": "البث المباشر لقناة الشروق العامة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/24036"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301975"
+      }
+    ]
+  },
+  {
+    "id": "dz-el-bilad",
+    "name": "DZ: El Bilad",
+    "logo_url": "https://16k.xyz/images/a00b2070fc2c4d09e51035edf1834eda.png",
+    "category": "الجزائر",
+    "display_order": 13,
+    "description": "البث المباشر لقناة البلاد الفضائية الجزائرية",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/5439"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301983"
+      }
+    ]
+  },
+  {
+    "id": "dz-ennahar-tv",
+    "name": "DZ: Ennahar TV",
+    "logo_url": "https://16k.xyz/images/68927ffd86e3a7ef0d69d346c20ae655.png",
+    "category": "الجزائر",
+    "display_order": 14,
+    "description": "البث المباشر لقناة النهار الإخبارية والمنوعة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/5440"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301977"
+      }
+    ]
+  },
+  {
+    "id": "dz-bahia-tv",
+    "name": "DZ: Bahia TV",
+    "logo_url": "https://16k.xyz/images/2568cf86cdced9274ad7e0c7ea02f78c.png",
+    "category": "الجزائر",
+    "display_order": 15,
+    "description": "البث المباشر لقناة الباهية الفضائية بوهران",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/5443"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301982"
+      }
+    ]
+  },
+  {
+    "id": "dz-berbere-television",
+    "name": "DZ: Berbère Télévision",
+    "logo_url": "https://16k.xyz/images/74d4ba35561a866402029aa0f03d9509.png",
+    "category": "الجزائر",
+    "display_order": 16,
+    "description": "البث المباشر لقناة بربر تي في الثقافية والمنوعة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/5446"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301984"
+      }
+    ]
+  },
+  {
+    "id": "dz-el-hayat",
+    "name": "DZ: El Hayat",
+    "logo_url": "https://16k.xyz/images/8e7d5df06fcc6b1054a8a5647594d574.png",
+    "category": "الجزائر",
+    "display_order": 17,
+    "description": "البث المباشر لقناة الحياة الإخبارية الجزائرية",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/5450"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301978"
+      }
+    ]
+  },
+  {
+    "id": "dz-el-djazair-n1",
+    "name": "DZ: El Djazair N1",
+    "logo_url": "https://16k.xyz/images/c82561ec215a6e31807ceedf3b3bd25e.png",
+    "category": "الجزائر",
+    "display_order": 18,
+    "description": "البث المباشر لقناة الجزائر وان المنوعة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/126700"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301973"
+      }
+    ]
+  },
+  {
+    "id": "dz-al-anis-tv",
+    "name": "DZ: AL ANIS TV",
+    "logo_url": "https://16k.xyz/images/0c1cdb88966784be1443db6b2135f39c.png",
+    "category": "الجزائر",
+    "display_order": 19,
+    "description": "البث المباشر لقناة الأنيس الفضائية الاجتماعية والثقافية",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/151246"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301985"
+      }
+    ]
+  },
+  {
+    "id": "dz-el-watania",
+    "name": "DZ: El Watania",
+    "logo_url": "http://myserveriptv.com:2082/images/76cf68122b214a49cb042287d3f46e0d.png",
+    "category": "الجزائر",
+    "display_order": 20,
+    "description": "البث المباشر لقناة الوطنية الفضائية الجزائرية",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/151247"
+      }
+    ]
+  },
+  {
+    "id": "dz-zahra-tv",
+    "name": "DZ: Zahra TV",
+    "logo_url": "https://16k.xyz/images/01e50c681c0b05ff22686b3e0f7290d3.png",
+    "category": "الجزائر",
+    "display_order": 21,
+    "description": "البث المباشر لقناة زهرة تي في المنوعة",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/159771"
+      }
+    ]
+  },
+  {
+    "id": "dz-el-fadjr-tv",
+    "name": "DZ: El Fadjr Tv",
+    "logo_url": "https://16k.xyz/images/1a489758636d4c003ac9c38fe973a4aa.png",
+    "category": "الجزائر",
+    "display_order": 22,
+    "description": "البث المباشر لقناة الفجر دراما الشهيرة بالمسلسلات",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/227876"
+      }
+    ]
+  },
+  {
+    "id": "dz-echorouk-news",
+    "name": "DZ: Echorouk News",
+    "logo_url": "http://myserveriptv.com:2082/images/00c6a7b1bdaeb439fa880ab1a0bbabb1.png",
+    "category": "الجزائر",
+    "display_order": 23,
+    "description": "البث المباشر لقناة الشروق نيوز الإخبارية",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/300485"
+      },
+      {
+        "quality": "بث متأخر 6 ساعات (+6H)",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/301976"
+      }
+    ]
+  },
+  {
+    "id": "dz-al24-news",
+    "name": "DZ: AL24 News",
+    "logo_url": "https://16k.xyz/images/576f7e4b8e3829bae420796c79f746fc.png",
+    "category": "الجزائر",
+    "display_order": 24,
+    "description": "البث المباشر لقناة الجزائر الدولية الإخبارية AL24 News",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/300486"
+      }
+    ]
+  },
+  {
+    "id": "dz-one-tv",
+    "name": "DZ: One Tv",
+    "logo_url": "http://myserveriptv.com:2082/images/OneTvdz.png",
+    "category": "الجزائر",
+    "display_order": 25,
+    "description": "البث المباشر لقناة وان تي في الفنية والشبابية الجزائرية",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/300487"
+      }
+    ]
+  },
+  {
+    "id": "dz-el-heddaf-tv",
+    "name": "DZ: El Heddaf TV",
+    "logo_url": "https://16k.xyz/images/b51bc94d22dd1f3cb47eed803b0f0b01.png",
+    "category": "الجزائر",
+    "display_order": 26,
+    "description": "البث المباشر لقناة الهداف الرياضية الجزائرية الأولى",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/300488"
+      }
+    ]
+  },
+  {
+    "id": "dz-na-tv-north-africa",
+    "name": "DZ: NA Tv North Africa",
+    "logo_url": "http://myserveriptv.com:2082/images/NATvNorthAfrica.png",
+    "category": "الجزائر",
+    "display_order": 27,
+    "description": "البث المباشر لقناة شمال أفريقيا تي في",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/300489"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-1",
+    "name": "beIN SPORTS 1",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 28,
+    "description": "قناة بي ان سبورت 1 - التغطية الحية والحصرية لأقوى البطولات العالمية",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309856"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257743"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309829"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257777"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309847"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257761"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257813"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309838"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257797"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310759"
+      },
+      {
+        "quality": "English 1: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257789"
+      },
+      {
+        "quality": "English 2: AR backup",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309865"
+      },
+      {
+        "quality": "English 3: Multi-Audio RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257809"
+      },
+      {
+        "quality": "English 4: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257773"
+      },
+      {
+        "quality": "English 5: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257755"
+      },
+      {
+        "quality": "France 1: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257791"
+      },
+      {
+        "quality": "France 2: AR backup",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309867"
+      },
+      {
+        "quality": "France 3: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257757"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-2",
+    "name": "beIN SPORTS 2",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 29,
+    "description": "قناة بي ان سبورت 2 - بث حي لأقوى المباريات العالمية والتحليلات الرياضية",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309857"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257744"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309830"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257778"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309848"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257762"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257814"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309839"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257798"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310760"
+      },
+      {
+        "quality": "English 1: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257790"
+      },
+      {
+        "quality": "English 2: AR backup",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309866"
+      },
+      {
+        "quality": "English 3: Multi-Audio RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257810"
+      },
+      {
+        "quality": "English 4: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257774"
+      },
+      {
+        "quality": "English 5: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257756"
+      },
+      {
+        "quality": "France 1: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257792"
+      },
+      {
+        "quality": "France 2: AR backup",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309868"
+      },
+      {
+        "quality": "France 3: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257758"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-3",
+    "name": "beIN SPORTS 3",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 30,
+    "description": "قناة بي ان سبورت 3 المتخصصة في كبرى الدوريات والبطولات الرياضية",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309858"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257745"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309831"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257779"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309849"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257763"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257815"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309840"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257799"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310761"
+      },
+      {
+        "quality": "France 1: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257793"
+      },
+      {
+        "quality": "France 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257759"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-4",
+    "name": "beIN SPORTS 4",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 31,
+    "description": "قناة بي ان سبورت 4 - المتعة والإثارة الرياضية المستمرة",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309859"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257746"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309832"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257780"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309850"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257764"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257816"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309841"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257800"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310762"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-5",
+    "name": "beIN SPORTS 5",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 32,
+    "description": "قناة بي ان سبورت 5 الرياضية لمشاهدة مختلف الفعاليات والمباريات الحية",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309860"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257747"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309833"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257781"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309851"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257765"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257817"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309842"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257801"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310763"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-6",
+    "name": "beIN SPORTS 6",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 33,
+    "description": "قناة بي ان سبورت 6 الفضائية وتغطية شاملة للمنافسات الكبرى",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309861"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257748"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309834"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257782"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309852"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257766"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257818"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309843"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257802"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310764"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-7",
+    "name": "beIN SPORTS 7",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 34,
+    "description": "قناة بي ان سبورت 7 الرياضية الحصرية",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309862"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257749"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309835"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257783"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309853"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257767"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257819"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309844"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257803"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310765"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-8",
+    "name": "beIN SPORTS 8",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 35,
+    "description": "قناة بي ان سبورت 8 - تغطية حصرية ومباشرة للمباريات والأحداث",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309863"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257750"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309836"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257784"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309854"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257768"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257820"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309845"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257804"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310766"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-9",
+    "name": "beIN SPORTS 9",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 36,
+    "description": "قناة بي ان سبورت 9 الرياضية الناقلة للمنافسات القارية والعالمية",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309864"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257751"
+      },
+      {
+        "quality": "سيرفر 3: HD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309837"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257785"
+      },
+      {
+        "quality": "سيرفر 5: HEVC احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309855"
+      },
+      {
+        "quality": "سيرفر 6: HEVC RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257769"
+      },
+      {
+        "quality": "سيرفر 7: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257821"
+      },
+      {
+        "quality": "سيرفر 8: SD احتياطي عربي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309846"
+      },
+      {
+        "quality": "سيرفر 9: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257805"
+      },
+      {
+        "quality": "سيرفر 10: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310767"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-news",
+    "name": "beIN SPORTS NEWS",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت الإخبارية",
+    "display_order": 37,
+    "description": "قناة بي ان سبورت الإخبارية لمتابعة آخر مستجدات وتطورات الرياضة العالمية",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257738"
+      },
+      {
+        "quality": "سيرفر 2: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257775"
+      },
+      {
+        "quality": "سيرفر 3: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257795"
+      },
+      {
+        "quality": "سيرفر 4: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310757"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-global",
+    "name": "beIN SPORTS GLOBAL",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 38,
+    "description": "قناة بي ان سبورت العالمية المفتوحة",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257739"
+      },
+      {
+        "quality": "سيرفر 2: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257776"
+      },
+      {
+        "quality": "سيرفر 3: LQ جودة منخفضة",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/300286"
+      },
+      {
+        "quality": "سيرفر 4: SD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257796"
+      },
+      {
+        "quality": "سيرفر 5: البث العادي الذكي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/310758"
+      }
+    ]
+  },
+  {
+    "id": "bein-4k",
+    "name": "beIN 4K",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت",
+    "display_order": 39,
+    "description": "قناة بي ان سبورت 4K فائقة الدقة والوضوح",
+    "streams": [
+      {
+        "quality": "سيرفر 1: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257840"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-afc",
+    "name": "beIN SPORTS AFC",
+    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت آسيا",
+    "display_order": 40,
+    "description": "قناة بي ان سبورت الخاصة ببطولات الاتحاد الآسيوي لكرة القدم",
+    "streams": [
+      {
+        "quality": "AFC الرئيسي: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259909"
+      },
+      {
+        "quality": "AFC الرئيسي: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259908"
+      },
+      {
+        "quality": "AFC الرئيسي: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259920"
+      },
+      {
+        "quality": "سيرفر 1: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259910"
+      },
+      {
+        "quality": "سيرفر 1: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259915"
+      },
+      {
+        "quality": "سيرفر 1: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259921"
+      },
+      {
+        "quality": "سيرفر 2: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259911"
+      },
+      {
+        "quality": "سيرفر 2: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259916"
+      },
+      {
+        "quality": "سيرفر 2: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259922"
+      },
+      {
+        "quality": "سيرفر 3: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259912"
+      },
+      {
+        "quality": "سيرفر 3: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259917"
+      },
+      {
+        "quality": "سيرفر 3: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259923"
+      },
+      {
+        "quality": "سيرفر 4: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259913"
+      },
+      {
+        "quality": "سيرفر 4: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259918"
+      },
+      {
+        "quality": "سيرفر 4: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259924"
+      },
+      {
+        "quality": "سيرفر 5: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259914"
+      },
+      {
+        "quality": "سيرفر 5: HD RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259919"
+      },
+      {
+        "quality": "سيرفر 5: 4K RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/259925"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-france-max",
+    "name": "beIN SPORTS France MAX",
+    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 41,
+    "description": "قنوات الخدمة الإضافية ماكس الفرنسية لنقل المباريات المتزامنة",
+    "streams": [
+      {
+        "quality": "MAX 4: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/298469"
+      },
+      {
+        "quality": "MAX 5: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/298470"
+      },
+      {
+        "quality": "MAX 6: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257848"
+      },
+      {
+        "quality": "MAX 7: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257849"
+      },
+      {
+        "quality": "MAX 8: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257850"
+      },
+      {
+        "quality": "MAX 9: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257851"
+      },
+      {
+        "quality": "MAX 10: RAW",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257852"
+      }
+    ]
+  },
+  {
+    "id": "domino-4k",
+    "name": "Domino 4K",
+    "logo_url": "http://myserveriptv.com:2082/images/b8ae57911c26ed8313cd09a33f7f43f5.png",
+    "category": "كأس العالم والمناسبات الكبرى",
+    "display_order": 42,
+    "description": "قناة Domino بدقة 4K للمناسبات الرياضية الكبرى",
+    "streams": [
+      {
+        "quality": "4K الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/252809"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-max-ar-en-fr",
+    "name": "beIN SPORTS MAX",
+    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
+    "category": "بي ان سبورت ماكس",
+    "display_order": 43,
+    "description": "باقات قنوات بي ان سبورت ماكس المخصصة للبطولات الكبرى بكافة الجودات واللغات العربية والإنجليزية والفرنسية",
+    "streams": [
+      {
+        "quality": "بث ماكس الرئيسي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/318044"
+      },
+      {
+        "quality": "MAX 1 AR: البث العادي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316580"
+      },
+      {
+        "quality": "MAX 1 AR: 4K",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316601"
+      },
+      {
+        "quality": "MAX 1 AR: HD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316587"
+      },
+      {
+        "quality": "MAX 1 AR: HEVC",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316594"
+      },
+      {
+        "quality": "MAX 1 AR: SD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/318045"
+      },
+      {
+        "quality": "MAX 2 AR: البث العادي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316581"
+      },
+      {
+        "quality": "MAX 2 AR: 4K",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316602"
+      },
+      {
+        "quality": "MAX 2 AR: HD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316588"
+      },
+      {
+        "quality": "MAX 2 AR: HEVC",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316595"
+      },
+      {
+        "quality": "MAX 2 AR: SD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/318046"
+      },
+      {
+        "quality": "MAX 3 EN: البث العادي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316582"
+      },
+      {
+        "quality": "MAX 3 EN: 4K",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316603"
+      },
+      {
+        "quality": "MAX 3 EN: HD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316589"
+      },
+      {
+        "quality": "MAX 3 EN: HEVC",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316596"
+      },
+      {
+        "quality": "MAX 3 EN: SD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/318047"
+      },
+      {
+        "quality": "MAX 4 EN: البث العادي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316583"
+      },
+      {
+        "quality": "MAX 4 EN: 4K",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316604"
+      },
+      {
+        "quality": "MAX 4 EN: HD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316590"
+      },
+      {
+        "quality": "MAX 4 EN: HEVC",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316597"
+      },
+      {
+        "quality": "MAX 4 EN: SD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/318048"
+      },
+      {
+        "quality": "MAX 5 FR: البث العادي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316584"
+      },
+      {
+        "quality": "MAX 5 FR: 4K",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316605"
+      },
+      {
+        "quality": "MAX 5 FR: HD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316591"
+      },
+      {
+        "quality": "MAX 5 FR: HEVC",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316598"
+      },
+      {
+        "quality": "MAX 5 FR: SD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/318049"
+      },
+      {
+        "quality": "MAX 6 FR: البث العادي",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316585"
+      },
+      {
+        "quality": "MAX 6 FR: 4K",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316606"
+      },
+      {
+        "quality": "MAX 6 FR: HD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316592"
+      },
+      {
+        "quality": "MAX 6 FR: HEVC",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316599"
+      },
+      {
+        "quality": "MAX 6 FR: SD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/318050"
+      },
+      {
+        "quality": "سيرفر ماكس الاحتياطي: 4K",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316600"
+      },
+      {
+        "quality": "سيرفر ماكس الاحتياطي: HD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316586"
+      },
+      {
+        "quality": "سيرفر ماكس الاحتياطي: HEVC",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/316593"
+      },
+      {
+        "quality": "سيرفر ماكس الاحتياطي: SD",
+        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/318051"
+      }
+    ]
+  }
+]

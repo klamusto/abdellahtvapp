@@ -192,7 +192,7 @@
   {
     "id": "dz-salam-tv",
     "name": "Salam TV",
-    "logo_url": "https://i.ibb.co/YFsJCNHz/33336-removebg-preview.png",
+    "logo_url": "",
     "category": "الجزائر",
     "display_order": 14,
     "description": "بث مباشر قناة سلام",
@@ -346,7 +346,7 @@
   {
     "id": "dz-eliktisadia-el-oula",
     "name": "Eliktisadia El Oula",
-    "logo_url": "https://i.ibb.co/1JtMXWtx/33345-removebg-preview.png",
+    "logo_url": "",
     "category": "الجزائر",
     "display_order": 25,
     "description": "بث مباشر القناة الاقتصادية الأولى",
@@ -360,7 +360,7 @@
   {
     "id": "dz-algerian-4kids",
     "name": "Algerian 4Kids",
-    "logo_url": "https://i.ibb.co/YF1nw112/33347-removebg-preview.png",
+    "logo_url": "",
     "category": "الجزائر",
     "display_order": 26,
     "description": "بث مباشر قناة الأطفال الجزائرية 4Kids",
@@ -434,6 +434,10 @@
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261646.ts"
       },
       {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81128.ts"
+      },
+      {
         "quality": "720 HD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261663.ts"
       },
@@ -454,6 +458,10 @@
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261647.ts"
+      },
+      {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81129.ts"
       },
       {
         "quality": "720 HD",
@@ -478,6 +486,10 @@
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261648.ts"
       },
       {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81130.ts"
+      },
+      {
         "quality": "720 HD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261665.ts"
       },
@@ -498,6 +510,10 @@
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261649.ts"
+      },
+      {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81131.ts"
       },
       {
         "quality": "720 HD",
@@ -522,6 +538,10 @@
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261650.ts"
       },
       {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81132.ts"
+      },
+      {
         "quality": "720 HD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261667.ts"
       },
@@ -542,6 +562,10 @@
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261651.ts"
+      },
+      {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81133.ts"
       },
       {
         "quality": "720 HD",
@@ -566,6 +590,10 @@
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261652.ts"
       },
       {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81134.ts"
+      },
+      {
         "quality": "720 HD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261669.ts"
       },
@@ -588,6 +616,10 @@
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261653.ts"
       },
       {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81135.ts"
+      },
+      {
         "quality": "720 HD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261670.ts"
       },
@@ -608,6 +640,10 @@
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261654.ts"
+      },
+      {
+        "quality": "جودة أصلية: FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81136.ts"
       },
       {
         "quality": "720 HD",
@@ -676,6 +712,10 @@
       {
         "quality": "Xtra 1 4K",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261632.ts"
+      },
+      {
+        "quality": "جودة أصلية: Xtra 1 FHD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/222000.ts"
       },
       {
         "quality": "Xtra 2 4K",
@@ -848,6 +888,10 @@
       {
         "quality": "4K",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261640.ts"
+      },
+      {
+        "quality": "جودة أصلية: AFC FHD 2",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/365423.ts"
       },
       {
         "quality": "HD",
@@ -1122,6 +1166,132 @@
       {
         "quality": "SD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-1-fr",
+    "name": "beIN SPORTS 1 FR",
+    "logo_url": "http://uniontvs.com:8080/images/9381fa75a05f97b3ab9ec17eb8cd5ffd.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 58,
+    "description": "بث مباشر قناة بي ان سبورت 1 الفرنسية باللغة الأجنبية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73937.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-2-fr",
+    "name": "beIN SPORTS 2 FR",
+    "logo_url": "https://i.postimg.cc/g21XzxG2/be-2.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 59,
+    "description": "بث مباشر قناة بي ان سبورت 2 الفرنسية باللغة الأجنبية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73938.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sports-3-fr",
+    "name": "beIN SPORTS 3 FR",
+    "logo_url": "http://uniontvs.com:8080/images/5e8cd96c3327d0a76ac20a853d0d26e7.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 60,
+    "description": "بث مباشر قناة بي ان سبورت 3 الفرنسية باللغة الأجنبية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73939.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sport-max-4-fr",
+    "name": "beIN SPORTS Max 4 FR",
+    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax4.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 61,
+    "description": "بث مباشر قناة بي ان سبورت ماكس 4 الفرنسية للخدمة الإضافية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73940.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sport-max-5-fr",
+    "name": "beIN SPORTS Max 5 FR",
+    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax5.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 62,
+    "description": "بث مباشر قناة بي ان سبورت ماكس 5 الفرنسية للخدمة الإضافية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73941.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sport-max-6-fr",
+    "name": "beIN SPORTS Max 6 FR",
+    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax6.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 63,
+    "description": "بث مباشر قناة بي ان سبورت ماكس 6 الفرنسية للخدمة الإضافية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73942.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sport-max-7-fr",
+    "name": "beIN SPORTS Max 7 FR",
+    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax6.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 64,
+    "description": "بث مباشر قناة بي ان سبورت ماكس 7 الفرنسية للخدمة الإضافية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73943.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sport-max-8-fr",
+    "name": "beIN SPORTS Max 8 FR",
+    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax6.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 65,
+    "description": "بث مباشر قناة بي ان سبورت ماكس 8 الفرنسية للخدمة الإضافية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73944.ts"
+      }
+    ]
+  },
+  {
+    "id": "bein-sport-max-9-fr",
+    "name": "beIN SPORTS Max 9 FR",
+    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax6.png",
+    "category": "بي ان سبورت الفرنسية",
+    "display_order": 66,
+    "description": "بث مباشر قناة بي ان سبورت ماكس 9 الفرنسية للخدمة الإضافية",
+    "streams": [
+      {
+        "quality": "HD",
+        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73945.ts"
       }
     ]
   }

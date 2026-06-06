@@ -1186,7 +1186,7 @@
   {
     "id": "alwan-sport-1",
     "name": "ALWAN SPORT 1",
-    "logo_url": "",
+    "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
     "display_order": 57,
     "description": "بث مباشر قناة ألوان الرياضية 1 بكافة الجودات",
@@ -1208,7 +1208,7 @@
   {
     "id": "alwan-sport-2",
     "name": "ALWAN SPORT 2",
-    "logo_url": "",
+    "logo_url": "https://i.imgur.com/Gl8AxBh.png",
     "category": "قنوات ألوان الرياضية",
     "display_order": 58,
     "description": "بث مباشر قناة ألوان الرياضية 2 بكافة الجودات",
@@ -1374,7 +1374,7 @@
   {
     "id": "alwan-atfal",
     "name": "ALWAN ATFAL",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ173QlBBisZvujYcuIs2P14ssGJIIvXiz30xqGroKGRA&s=10",
+    "logo_url": "https://i.ibb.co/bRDZCbsJ/33454-removebg-preview.png",
     "category": "قنوات ألوان الرياضية",
     "display_order": 67,
     "description": "بث مباشر قناة ألوان للأطفال",

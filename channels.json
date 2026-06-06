@@ -394,10 +394,6 @@
     "description": "بث مباشر قناة بي ان سبورت الإخبارية",
     "streams": [
       {
-        "quality": "4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257738"
-      },
-      {
         "quality": "HD 1080",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261621.ts"
       }
@@ -411,10 +407,6 @@
     "display_order": 29,
     "description": "بث مباشر قناة بي ان سبورت العالمية",
     "streams": [
-      {
-        "quality": "4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257739"
-      },
       {
         "quality": "4K المفتوحة",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286327.ts"
@@ -438,14 +430,6 @@
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
     "streams": [
       {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309856"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257743"
-      },
-      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261646.ts"
       },
@@ -467,14 +451,6 @@
     "display_order": 31,
     "description": "بث مباشر قناة بي ان سبورت 2",
     "streams": [
-      {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309857"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257744"
-      },
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261647.ts"
@@ -498,14 +474,6 @@
     "description": "بث مباشر قناة بي ان سبورت 3",
     "streams": [
       {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309858"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257745"
-      },
-      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261648.ts"
       },
@@ -527,14 +495,6 @@
     "display_order": 33,
     "description": "بث مباشر قناة بي ان سبورت 4",
     "streams": [
-      {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309859"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257746"
-      },
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261649.ts"
@@ -558,14 +518,6 @@
     "description": "بث مباشر قناة بي ان سبورت 5",
     "streams": [
       {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309860"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257747"
-      },
-      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261650.ts"
       },
@@ -587,14 +539,6 @@
     "display_order": 35,
     "description": "بث مباشر قناة بي ان سبورت 6",
     "streams": [
-      {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309861"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257748"
-      },
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261651.ts"
@@ -618,14 +562,6 @@
     "description": "بث مباشر قناة بي ان سبورت 7",
     "streams": [
       {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309862"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257749"
-      },
-      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261652.ts"
       },
@@ -647,14 +583,6 @@
     "display_order": 37,
     "description": "بث مباشر قناة بي ان سبورت 8",
     "streams": [
-      {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309863"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257750"
-      },
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261653.ts"
@@ -678,14 +606,6 @@
     "description": "بث مباشر قناة بي ان سبورت 9",
     "streams": [
       {
-        "quality": "سيرفر 1: 4K عربي",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/309864"
-      },
-      {
-        "quality": "سيرفر 2: 4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257751"
-      },
-      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261654.ts"
       },
@@ -707,10 +627,6 @@
     "display_order": 39,
     "description": "قنوات بي ان سبورتس بجودة الـ 4K فائقة الوضوح",
     "streams": [
-      {
-        "quality": "4K RAW",
-        "url": "http://16k.xyz:2082/Ammarhajwess/gYEX7BBnrLuW/257840"
-      },
       {
         "quality": "قناة 1",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261623.ts"
@@ -1066,14 +982,6 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077113&extension=ts"
       },
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291494.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291500.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077113&extension=ts"
       },
@@ -1098,14 +1006,6 @@
       {
         "quality": "8K UHD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077112&extension=ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts"
       },
       {
         "quality": "HD",
@@ -1134,14 +1034,6 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077111&extension=ts"
       },
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291496.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291502.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077111&extension=ts"
       },
@@ -1162,14 +1054,6 @@
       {
         "quality": "8K UHD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077110&extension=ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291497.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291503.ts"
       },
       {
         "quality": "HD",
@@ -1194,14 +1078,6 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077109&extension=ts"
       },
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291498.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291504.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077109&extension=ts"
       },
@@ -1219,14 +1095,6 @@
     "display_order": 57,
     "description": "beIN SPORTS MAX 6 French Live Streaming",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291499.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291505.ts"
-      },
       {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077108&extension=ts"

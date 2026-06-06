@@ -972,16 +972,28 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077113&extension=ts"
       },
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291494.ts"
+      },
+      {
+        "quality": "FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291500.ts"
+      },
+      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077113&extension=ts"
       },
       {
-        "quality": "HEVC",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077101&extension=ts"
+        "quality": "سيرفر 2: HD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291506.ts"
       },
       {
         "quality": "SD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077107&extension=ts"
+      },
+      {
+        "quality": "سيرفر 2: SD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.ts"
       }
     ]
   },
@@ -998,16 +1010,28 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077112&extension=ts"
       },
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.ts"
+      },
+      {
+        "quality": "FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts"
+      },
+      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077112&extension=ts"
       },
       {
-        "quality": "HEVC",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077100&extension=ts"
+        "quality": "سيرفر 2: HD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.ts"
       },
       {
         "quality": "SD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077106&extension=ts"
+      },
+      {
+        "quality": "سيرفر 2: SD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.ts"
       }
     ]
   },
@@ -1024,12 +1048,28 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077111&extension=ts"
       },
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291496.ts"
+      },
+      {
+        "quality": "FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291502.ts"
+      },
+      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077111&extension=ts"
       },
       {
+        "quality": "سيرفر 2: HD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291508.ts"
+      },
+      {
         "quality": "SD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077105&extension=ts"
+      },
+      {
+        "quality": "سيرفر 2: SD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291514.ts"
       }
     ]
   },
@@ -1046,12 +1086,28 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077110&extension=ts"
       },
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291497.ts"
+      },
+      {
+        "quality": "FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291503.ts"
+      },
+      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077110&extension=ts"
       },
       {
+        "quality": "سيرفر 2: HD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291509.ts"
+      },
+      {
         "quality": "SD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077104&extension=ts"
+      },
+      {
+        "quality": "سيرفر 2: SD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291515.ts"
       }
     ]
   },
@@ -1068,12 +1124,28 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077109&extension=ts"
       },
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291498.ts"
+      },
+      {
+        "quality": "FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291504.ts"
+      },
+      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077109&extension=ts"
       },
       {
+        "quality": "سيرفر 2: HD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291510.ts"
+      },
+      {
         "quality": "SD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077103&extension=ts"
+      },
+      {
+        "quality": "سيرفر 2: SD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291516.ts"
       }
     ]
   },
@@ -1086,12 +1158,28 @@
     "description": "beIN SPORTS MAX 6 French Live Streaming",
     "streams": [
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291499.ts"
+      },
+      {
+        "quality": "FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291505.ts"
+      },
+      {
         "quality": "HD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077108&extension=ts"
       },
       {
+        "quality": "سيرفر 2: HD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291511.ts"
+      },
+      {
         "quality": "SD",
         "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077102&extension=ts"
+      },
+      {
+        "quality": "سيرفر 2: SD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.ts"
       }
     ]
   }

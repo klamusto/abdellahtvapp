@@ -430,6 +430,10 @@
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
     "streams": [
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261623.ts"
+      },
+      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261646.ts"
       },
@@ -451,6 +455,10 @@
     "display_order": 31,
     "description": "بث مباشر قناة بي ان سبورت 2",
     "streams": [
+      {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261624.ts"
+      },
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261647.ts"
@@ -474,6 +482,10 @@
     "description": "بث مباشر قناة بي ان سبورت 3",
     "streams": [
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261625.ts"
+      },
+      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261648.ts"
       },
@@ -495,6 +507,10 @@
     "display_order": 33,
     "description": "بث مباشر قناة بي ان سبورت 4",
     "streams": [
+      {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261626.ts"
+      },
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261649.ts"
@@ -518,6 +534,10 @@
     "description": "بث مباشر قناة بي ان سبورت 5",
     "streams": [
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261627.ts"
+      },
+      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261650.ts"
       },
@@ -539,6 +559,10 @@
     "display_order": 35,
     "description": "بث مباشر قناة بي ان سبورت 6",
     "streams": [
+      {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261628.ts"
+      },
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261651.ts"
@@ -562,6 +586,10 @@
     "description": "بث مباشر قناة بي ان سبورت 7",
     "streams": [
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261629.ts"
+      },
+      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261652.ts"
       },
@@ -583,6 +611,10 @@
     "display_order": 37,
     "description": "بث مباشر قناة بي ان سبورت 8",
     "streams": [
+      {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261630.ts"
+      },
       {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261653.ts"
@@ -606,6 +638,10 @@
     "description": "بث مباشر قناة بي ان سبورت 9",
     "streams": [
       {
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261631.ts"
+      },
+      {
         "quality": "1080 FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261654.ts"
       },
@@ -620,57 +656,11 @@
     ]
   },
   {
-    "id": "bein-sports-4k-hub",
-    "name": "beIN SPORTS 4K",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 39,
-    "description": "قنوات بي ان سبورتس بجودة الـ 4K فائقة الوضوح",
-    "streams": [
-      {
-        "quality": "قناة 1",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261623.ts"
-      },
-      {
-        "quality": "قناة 2",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261624.ts"
-      },
-      {
-        "quality": "قناة 3",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261625.ts"
-      },
-      {
-        "quality": "قناة 4",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261626.ts"
-      },
-      {
-        "quality": "قناة 5",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261627.ts"
-      },
-      {
-        "quality": "قناة 6",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261628.ts"
-      },
-      {
-        "quality": "قناة 7",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261629.ts"
-      },
-      {
-        "quality": "قناة 8",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261630.ts"
-      },
-      {
-        "quality": "قناة 9",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261631.ts"
-      }
-    ]
-  },
-  {
     "id": "bein-xtra",
     "name": "beIN Xtra",
     "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 40,
+    "display_order": 39,
     "description": "بث مباشر قنوات بي ان اكسترا الإضافية",
     "streams": [
       {
@@ -720,7 +710,7 @@
     "name": "beIN SPORTS NBA",
     "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 41,
+    "display_order": 40,
     "description": "قناة بي ان سبورت الخاصة بدوري كرة السلة الأمريكي للمحترفين",
     "streams": [
       {
@@ -738,7 +728,7 @@
     "name": "beIN SPORTS English 1",
     "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 42,
+    "display_order": 41,
     "description": "beIN SPORTS English 1 Channel Live",
     "streams": [
       {
@@ -764,7 +754,7 @@
     "name": "beIN SPORTS English 2",
     "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 43,
+    "display_order": 42,
     "description": "beIN SPORTS English 2 Channel Live",
     "streams": [
       {
@@ -790,7 +780,7 @@
     "name": "beIN SPORTS French 1",
     "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 44,
+    "display_order": 43,
     "description": "beIN SPORTS French 1 Channel Live",
     "streams": [
       {
@@ -816,7 +806,7 @@
     "name": "beIN SPORTS French 2",
     "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 45,
+    "display_order": 44,
     "description": "beIN SPORTS French 2 Channel Live",
     "streams": [
       {
@@ -842,7 +832,7 @@
     "name": "beIN SPORTS AFC",
     "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 46,
+    "display_order": 45,
     "description": "قناة بي ان سبورتس الخاصة ببطولات الاتحاد الآسيوي",
     "streams": [
       {
@@ -864,7 +854,7 @@
     "name": "beIN SPORTS AFC 1",
     "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 47,
+    "display_order": 46,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 1",
     "streams": [
       {
@@ -886,7 +876,7 @@
     "name": "beIN SPORTS AFC 2",
     "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 48,
+    "display_order": 47,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 2",
     "streams": [
       {
@@ -908,7 +898,7 @@
     "name": "beIN SPORTS AFC 3",
     "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 49,
+    "display_order": 48,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 3",
     "streams": [
       {
@@ -930,7 +920,7 @@
     "name": "beIN SPORTS AFC 4",
     "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 50,
+    "display_order": 49,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 4",
     "streams": [
       {
@@ -952,7 +942,7 @@
     "name": "beIN SPORTS AFC 5",
     "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
     "category": "بي ان سبورت",
-    "display_order": 51,
+    "display_order": 50,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 5",
     "streams": [
       {
@@ -974,7 +964,7 @@
     "name": "beIN SPORTS MAX 1 AR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس عربية",
-    "display_order": 52,
+    "display_order": 51,
     "description": "بث مباشر قناة بي ان سبورت ماكس 1 العربية بكافة الجودات",
     "streams": [
       {
@@ -1000,7 +990,7 @@
     "name": "beIN SPORTS MAX 2 AR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس عربية",
-    "display_order": 53,
+    "display_order": 52,
     "description": "بث مباشر قناة بي ان سبورت ماكس 2 العربية بكافة الجودات",
     "streams": [
       {
@@ -1026,7 +1016,7 @@
     "name": "beIN SPORTS MAX 3 EN",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس انجليزية",
-    "display_order": 54,
+    "display_order": 53,
     "description": "beIN SPORTS MAX 3 English Live Streaming",
     "streams": [
       {
@@ -1048,7 +1038,7 @@
     "name": "beIN SPORTS MAX 4 EN",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس انجليزية",
-    "display_order": 55,
+    "display_order": 54,
     "description": "beIN SPORTS MAX 4 English Live Streaming",
     "streams": [
       {
@@ -1070,7 +1060,7 @@
     "name": "beIN SPORTS MAX 5 FR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس فرنسية",
-    "display_order": 56,
+    "display_order": 55,
     "description": "beIN SPORTS MAX 5 French Live Streaming",
     "streams": [
       {
@@ -1092,7 +1082,7 @@
     "name": "beIN SPORTS MAX 6 FR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس فرنسية",
-    "display_order": 57,
+    "display_order": 56,
     "description": "beIN SPORTS MAX 6 French Live Streaming",
     "streams": [
       {

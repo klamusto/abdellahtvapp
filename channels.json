@@ -960,7 +960,7 @@
     ]
   },
   {
-    "id": "bein-max-1-ar",
+    "id": "bein-sports-max-1-ar",
     "name": "beIN SPORTS MAX 1 AR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس عربية",
@@ -998,7 +998,7 @@
     ]
   },
   {
-    "id": "bein-max-2-ar",
+    "id": "bein-sports-max-2-ar",
     "name": "beIN SPORTS MAX 2 AR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس عربية",
@@ -1036,12 +1036,12 @@
     ]
   },
   {
-    "id": "bein-max-3-en",
-    "name": "beIN SPORTS MAX 3 EN",
+    "id": "bein-sports-max-3-ar",
+    "name": "beIN SPORTS MAX 3 AR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس انجليزية",
+    "category": "بي ان ماكس عربية",
     "display_order": 53,
-    "description": "beIN SPORTS MAX 3 English Live Streaming",
+    "description": "بث مباشر قناة بي ان سبورت ماكس 3 العربية بكافة الجودات",
     "streams": [
       {
         "quality": "8K UHD",
@@ -1074,12 +1074,12 @@
     ]
   },
   {
-    "id": "bein-max-4-en",
-    "name": "beIN SPORTS MAX 4 EN",
+    "id": "bein-sports-max-4-ar",
+    "name": "beIN SPORTS MAX 4 AR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس انجليزية",
+    "category": "بي ان ماكس عربية",
     "display_order": 54,
-    "description": "beIN SPORTS MAX 4 English Live Streaming",
+    "description": "بث مباشر قناة بي ان سبورت ماكس 4 العربية بكافة الجودات",
     "streams": [
       {
         "quality": "8K UHD",
@@ -1112,12 +1112,12 @@
     ]
   },
   {
-    "id": "bein-max-5-fr",
-    "name": "beIN SPORTS MAX 5 FR",
+    "id": "bein-sports-max-5-ar",
+    "name": "beIN SPORTS MAX 5 AR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس فرنسية",
+    "category": "بي ان ماكس عربية",
     "display_order": 55,
-    "description": "beIN SPORTS MAX 5 French Live Streaming",
+    "description": "بث مباشر قناة بي ان سبورت ماكس 5 العربية بكافة الجودات",
     "streams": [
       {
         "quality": "8K UHD",
@@ -1150,12 +1150,12 @@
     ]
   },
   {
-    "id": "bein-max-6-fr",
-    "name": "beIN SPORTS MAX 6 FR",
+    "id": "bein-sports-max-6-ar",
+    "name": "beIN SPORTS MAX 6 AR",
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس فرنسية",
+    "category": "بي ان ماكس عربية",
     "display_order": 56,
-    "description": "beIN SPORTS MAX 6 French Live Streaming",
+    "description": "بث مباشر قناة بي ان سبورت ماكس 6 العربية بكافة الجودات",
     "streams": [
       {
         "quality": "4K",

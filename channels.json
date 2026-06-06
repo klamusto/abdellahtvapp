@@ -1182,5 +1182,221 @@
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.ts"
       }
     ]
+  },
+  {
+    "id": "alwan-sport-1",
+    "name": "ALWAN SPORT 1",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 57,
+    "description": "بث مباشر قناة ألوان الرياضية 1 بكافة الجودات",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402389&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402388&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402387&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-sport-2",
+    "name": "ALWAN SPORT 2",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 58,
+    "description": "بث مباشر قناة ألوان الرياضية 2 بكافة الجودات",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402386&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402385&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402384&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-sport-3",
+    "name": "ALWAN SPORT 3",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 59,
+    "description": "بث مباشر قناة ألوان الرياضية 3 بكافة الجودات",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402383&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402382&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402381&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-sport-4",
+    "name": "ALWAN SPORT 4",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 60,
+    "description": "بث مباشر قناة ألوان الرياضية 4 بكافة الجودات",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402380&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402379&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402378&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-sport-5",
+    "name": "ALWAN SPORT 5",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 61,
+    "description": "بث مباشر قناة ألوان الرياضية 5 بكافة الجودات",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402377&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402376&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402375&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-sport-6",
+    "name": "ALWAN SPORT 6",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 62,
+    "description": "بث مباشر قناة ألوان الرياضية 6 بكافة الجودات",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402374&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402373&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402372&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-aflam-1",
+    "name": "ALWAN AFLAM 1",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 63,
+    "description": "بث مباشر قناة ألوان أفلام 1 الترفيهية",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402371&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-aflam-2",
+    "name": "ALWAN AFLAM 2",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 64,
+    "description": "بث مباشر قناة ألوان أفلام 2 الترفيهية",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402370&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-mosalsalat",
+    "name": "ALWAN MOSALSALAT",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 65,
+    "description": "بث مباشر قناة ألوان مسلسلات العربية",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402369&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-turkey",
+    "name": "ALWAN TURKEY",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 66,
+    "description": "بث مباشر قناة ألوان للدراما التركية",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402368&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-atfal",
+    "name": "ALWAN ATFAL",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 67,
+    "description": "بث مباشر قناة ألوان للأطفال",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402367&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "alwan-doc",
+    "name": "ALWAN DOC",
+    "logo_url": "",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 68,
+    "description": "بث مباشر قناة ألوان الوثائقية",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402366&extension=ts"
+      }
+    ]
   }
 ]

@@ -394,6 +394,10 @@
     "description": "بث مباشر قناة بي ان سبورت الإخبارية",
     "streams": [
       {
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411398&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
         "quality": "HD 1080",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261621.ts"
       }
@@ -407,6 +411,10 @@
     "display_order": 29,
     "description": "بث مباشر قناة بي ان سبورت العالمية",
     "streams": [
+      {
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411397&extension=ts&play_token=bQDALZlhu5"
+      },
       {
         "quality": "4K",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286327.ts"
@@ -430,12 +438,16 @@
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261646.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411396&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81128.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363480&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261646.ts"
       },
       {
         "quality": "720 HD",
@@ -456,12 +468,16 @@
     "description": "بث مباشر قناة بي ان سبورت 2",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261647.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411395&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81129.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363481&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261647.ts"
       },
       {
         "quality": "720 HD",
@@ -482,12 +498,16 @@
     "description": "بث مباشر قناة بي ان سبورت 3",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261648.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411394&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81130.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363482&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261648.ts"
       },
       {
         "quality": "720 HD",
@@ -508,12 +528,16 @@
     "description": "بث مباشر قناة بي ان سبورت 4",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261649.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411393&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81131.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363483&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261649.ts"
       },
       {
         "quality": "720 HD",
@@ -534,12 +558,16 @@
     "description": "بث مباشر قناة بي ان سبورت 5",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261650.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411392&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81132.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363484&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261650.ts"
       },
       {
         "quality": "720 HD",
@@ -560,12 +588,16 @@
     "description": "بث مباشر قناة بي ان سبورت 6",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261651.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411391&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81133.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363485&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261651.ts"
       },
       {
         "quality": "720 HD",
@@ -586,12 +618,16 @@
     "description": "بث مباشر قناة بي ان سبورت 7",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261652.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411390&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81134.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363486&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261652.ts"
       },
       {
         "quality": "720 HD",
@@ -612,12 +648,16 @@
     "description": "بث مباشر قناة بي ان سبورت 8",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261653.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411389&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81135.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363487&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261653.ts"
       },
       {
         "quality": "720 HD",
@@ -638,12 +678,16 @@
     "description": "بث مباشر قناة بي ان سبورت 9",
     "streams": [
       {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261654.ts"
+        "quality": "8K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411388&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/81136.ts"
+        "quality": "4K UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363488&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "1080 FHD",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261654.ts"
       },
       {
         "quality": "720 HD",
@@ -710,12 +754,24 @@
     "description": "بث مباشر قنوات بي ان اكسترا الإضافية",
     "streams": [
       {
-        "quality": "Xtra 1 4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261632.ts"
+        "quality": "8K Xtra 1 UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411385&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: Xtra 1 FHD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/222000.ts"
+        "quality": "8K Xtra 2 UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1411384&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "4K Xtra 1 UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363492&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "4K Xtra 2 UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363493&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "Xtra 1 4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261632.ts"
       },
       {
         "quality": "Xtra 2 4K",
@@ -886,12 +942,12 @@
     "description": "قناة بي ان سبورتس الخاصة ببطولات الاتحاد الآسيوي",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261640.ts"
+        "quality": "4K AFC UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363489&extension=ts&play_token=bQDALZlhu5"
       },
       {
-        "quality": "جودة أصلية: AFC FHD 2",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/365423.ts"
+        "quality": "4K",
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261640.ts"
       },
       {
         "quality": "HD",
@@ -911,6 +967,10 @@
     "display_order": 47,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 1",
     "streams": [
+      {
+        "quality": "4K AFC 1 UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363490&extension=ts&play_token=bQDALZlhu5"
+      },
       {
         "quality": "4K",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261641.ts"
@@ -933,6 +993,10 @@
     "display_order": 48,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 2",
     "streams": [
+      {
+        "quality": "4K AFC 2 UHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1363491&extension=ts&play_token=bQDALZlhu5"
+      },
       {
         "quality": "4K",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261642.ts"
@@ -1022,20 +1086,48 @@
     "description": "بث مباشر قناة بي ان ماكس 1 الخاصة بالبطولات الكبرى",
     "streams": [
       {
+        "quality": "سيرفر 2: 4K",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076984&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "سيرفر 2: EN 4K",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076982&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "سيرفر 2: FR 4K",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076980&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
         "quality": "4K",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291494.ts"
       },
       {
+        "quality": "سيرفر 2: FHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076978&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "سيرفر 2: EN FHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076976&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "سيرفر 2: FR FHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076973&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
         "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291500.ts"
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts"
+      },
+      {
+        "quality": "سيرفر 2: HD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076971&extension=ts&play_token=bQDALZlhu5"
       },
       {
         "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291506.ts"
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.ts"
       },
       {
         "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.ts"
+        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.ts"
       }
     ]
   },
@@ -1048,12 +1140,40 @@
     "description": "بث مباشر قناة بي ان ماكس 2",
     "streams": [
       {
+        "quality": "سيرفر 2: 4K",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076983&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "سيرفر 2: EN 4K",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076981&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "سيرفر 2: FR 4K",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076979&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
         "quality": "4K",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.ts"
       },
       {
+        "quality": "سيرفر 2: FHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076977&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "سيرفر 2: EN FHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076975&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "سيرفر 2: FR FHD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076973&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
         "quality": "FHD",
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts"
+      },
+      {
+        "quality": "سيرفر 2: HD",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2076971&extension=ts&play_token=bQDALZlhu5"
       },
       {
         "quality": "HD",
@@ -1170,128 +1290,68 @@
     ]
   },
   {
-    "id": "bein-sports-1-fr",
-    "name": "beIN SPORTS 1 FR",
-    "logo_url": "http://uniontvs.com:8080/images/9381fa75a05f97b3ab9ec17eb8cd5ffd.png",
-    "category": "بي ان سبورت الفرنسية",
+    "id": "relax-4k-nature",
+    "name": "RELAX 4K Nature",
+    "logo_url": "",
+    "category": "طبيعة واسترخاء",
     "display_order": 58,
-    "description": "بث مباشر قناة بي ان سبورت 1 الفرنسية باللغة الأجنبية",
+    "description": "بث مباشر قنوات الطبيعة والاسترخاء بجودة 4K فائقة الدقة",
     "streams": [
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73937.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-2-fr",
-    "name": "beIN SPORTS 2 FR",
-    "logo_url": "https://i.postimg.cc/g21XzxG2/be-2.png",
-    "category": "بي ان سبورت الفرنسية",
-    "display_order": 59,
-    "description": "بث مباشر قناة بي ان سبورت 2 الفرنسية باللغة الأجنبية",
-    "streams": [
+        "quality": "RELAX 4K الرئيسي",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505556&extension=ts&play_token=bQDALZlhu5"
+      },
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73938.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-3-fr",
-    "name": "beIN SPORTS 3 FR",
-    "logo_url": "http://uniontvs.com:8080/images/5e8cd96c3327d0a76ac20a853d0d26e7.png",
-    "category": "بي ان سبورت الفرنسية",
-    "display_order": 60,
-    "description": "بث مباشر قناة بي ان سبورت 3 الفرنسية باللغة الأجنبية",
-    "streams": [
+        "quality": "RELAX TURKEY",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505563&extension=ts&play_token=bQDALZlhu5"
+      },
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73939.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sport-max-4-fr",
-    "name": "beIN SPORTS Max 4 FR",
-    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax4.png",
-    "category": "بي ان سبورت الفرنسية",
-    "display_order": 61,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 4 الفرنسية للخدمة الإضافية",
-    "streams": [
+        "quality": "RELAX ICELAND",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505558&extension=ts&play_token=bQDALZlhu5"
+      },
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73940.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sport-max-5-fr",
-    "name": "beIN SPORTS Max 5 FR",
-    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax5.png",
-    "category": "بي ان سبورت الفرنسية",
-    "display_order": 62,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 5 الفرنسية للخدمة الإضافية",
-    "streams": [
+        "quality": "RELAX MOROCCO",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505557&extension=ts&play_token=bQDALZlhu5"
+      },
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73941.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sport-max-6-fr",
-    "name": "beIN SPORTS Max 6 FR",
-    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax6.png",
-    "category": "بي ان سبورت الفرنسية",
-    "display_order": 63,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 6 الفرنسية للخدمة الإضافية",
-    "streams": [
+        "quality": "TROPICAL BEACH",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505576&extension=ts&play_token=bQDALZlhu5"
+      },
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73942.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sport-max-7-fr",
-    "name": "beIN SPORTS Max 7 FR",
-    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax6.png",
-    "category": "بي ان سبورت الفرنسية",
-    "display_order": 64,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 7 الفرنسية للخدمة الإضافية",
-    "streams": [
+        "quality": "THE OCEAN",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505575&extension=ts&play_token=bQDALZlhu5"
+      },
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73943.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sport-max-8-fr",
-    "name": "beIN SPORTS Max 8 FR",
-    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax6.png",
-    "category": "بي ان سبورت الفرنسية",
-    "display_order": 65,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 8 الفرنسية للخدمة الإضافية",
-    "streams": [
+        "quality": "STARDUST",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505574&extension=ts&play_token=bQDALZlhu5"
+      },
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73944.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sport-max-9-fr",
-    "name": "beIN SPORTS Max 9 FR",
-    "logo_url": "http://media.c-x-c.media/picons/FR/beinsportsmax6.png",
-    "category": "بي ان سبورت الفرنسية",
-    "display_order": 66,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 9 الفرنسية للخدمة الإضافية",
-    "streams": [
+        "quality": "SNOW WINTER",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505573&extension=ts&play_token=bQDALZlhu5"
+      },
       {
-        "quality": "HD",
-        "url": "http://watchit.sbs:80/live/s9TfGMVePr/tEe5hxaPmF/73945.ts"
+        "quality": "FOREST",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505572&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "FLOWER",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505571&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "EARTH NATURE",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505570&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "NATURE RELAXATION",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505569&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "MORNING RELAXING",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505568&extension=ts&play_token=bQDALZlhu5"
+      },
+      {
+        "quality": "INSPIRATIONAL MOTIVATIONAL",
+        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=1505567&extension=ts&play_token=bQDALZlhu5"
       }
     ]
   }

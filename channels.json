@@ -1181,222 +1181,500 @@
             "quality":"سيرفر 2: SD",
             "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.ts"
          }
-      ]
-   },
-   {
-      "id":"alwan-sport-1",
-      "name":"ALWAN SPORT 1",
-      "logo_url":"https://i.imgur.com/UibCHUN.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":57,
-      "description":"بث مباشر قناة ألوان الرياضية 1 بكافة الجودات",
-      "streams":[
+      ][
          {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402389&extension=ts"
+            "id":"tod-sports-1",
+            "name":"TOD Sports 1",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":1,
+            "description":"بث مباشر قناة TOD Sports 1",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69346&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89271&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89272&extension=ts"
+               }
+            ]
          },
          {
-            "quality":"HD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402388&extension=ts"
+            "id":"tod-sports-2",
+            "name":"TOD Sports 2",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":2,
+            "description":"بث مباشر قناة TOD Sports 2",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69164&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89267&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89268&extension=ts"
+               }
+            ]
          },
          {
-            "quality":"SD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402387&extension=ts"
+            "id":"tod-sports-3",
+            "name":"TOD Sports 3",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":3,
+            "description":"بث مباشر قناة TOD Sports 3",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1205&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=74017&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99520&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-4",
+            "name":"TOD Sports 4",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":4,
+            "description":"بث مباشر قناة TOD Sports 4",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1206&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=68967&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=74012&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-5",
+            "name":"TOD Sports 5",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":5,
+            "description":"بث مباشر قناة TOD Sports 5",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1774&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89262&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=101070&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-6",
+            "name":"TOD Sports 6",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":6,
+            "description":"بث مباشر قناة TOD Sports 6",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2664&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89270&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=101113&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-7",
+            "name":"TOD Sports 7",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":7,
+            "description":"بث مباشر قناة TOD Sports 7",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2820&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99533&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99507&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-8",
+            "name":"TOD Sports 8",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":8,
+            "description":"بث مباشر قناة TOD Sports 8",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=12671&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=26848&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99421&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-9",
+            "name":"TOD Sports 9",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":9,
+            "description":"بث مباشر قناة TOD Sports 9",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2250&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=37261&extension=ts"
+               },
+               {
+                  "quality":"SD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=26849&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-10",
+            "name":"TOD Sports 10",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":10,
+            "description":"بث مباشر قناة TOD Sports 10",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99605&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89261&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-11",
+            "name":"TOD Sports 11",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":11,
+            "description":"بث مباشر قناة TOD Sports 11",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=43851&extension=ts"
+               },
+               {
+                  "quality":"HD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69098&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-12",
+            "name":"TOD Sports 12",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":12,
+            "description":"بث مباشر قناة TOD Sports 12",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112607&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-13",
+            "name":"TOD Sports 13",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":13,
+            "description":"بث مباشر قناة TOD Sports 13",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112600&extension=ts"
+               }
+            ]
+         },
+         {
+            "id":"tod-sports-14",
+            "name":"TOD Sports 14",
+            "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+            "category":"قنوات TOD الرياضية",
+            "display_order":14,
+            "description":"بث مباشر قناة TOD Sports 14",
+            "streams":[
+               {
+                  "quality":"FHD",
+                  "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112599&extension=ts"
+               }
+            ]
          }
       ]
    },
-   {
-      "id":"alwan-sport-2",
-      "name":"ALWAN SPORT 2",
-      "logo_url":"https://i.imgur.com/Gl8AxBh.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":58,
-      "description":"بث مباشر قناة ألوان الرياضية 2 بكافة الجودات",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402386&extension=ts"
-         },
-         {
-            "quality":"HD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402385&extension=ts"
-         },
-         {
-            "quality":"SD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402384&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-sport-3",
-      "name":"ALWAN SPORT 3",
-      "logo_url":"https://i.imgur.com/c9cHkFP.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":59,
-      "description":"بث مباشر قناة ألوان الرياضية 3 بكافة الجودات",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402383&extension=ts"
-         },
-         {
-            "quality":"HD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402382&extension=ts"
-         },
-         {
-            "quality":"SD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402381&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-sport-4",
-      "name":"ALWAN SPORT 4",
-      "logo_url":"https://i.imgur.com/6JVw8Xf.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":60,
-      "description":"بث مباشر قناة ألوان الرياضية 4 بكافة الجودات",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402380&extension=ts"
-         },
-         {
-            "quality":"HD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402379&extension=ts"
-         },
-         {
-            "quality":"SD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402378&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-sport-5",
-      "name":"ALWAN SPORT 5",
-      "logo_url":"https://i.imgur.com/JJojLHs.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":61,
-      "description":"بث مباشر قناة ألوان الرياضية 5 بكافة الجودات",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402377&extension=ts"
-         },
-         {
-            "quality":"HD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402376&extension=ts"
-         },
-         {
-            "quality":"SD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402375&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-sport-6",
-      "name":"ALWAN SPORT 6",
-      "logo_url":"https://i.imgur.com/VZxazRS.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":62,
-      "description":"بث مباشر قناة ألوان الرياضية 6 بكافة الجودات",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402374&extension=ts"
-         },
-         {
-            "quality":"HD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402373&extension=ts"
-         },
-         {
-            "quality":"SD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402372&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-aflam-1",
-      "name":"ALWAN AFLAM 1",
-      "logo_url":"https://i.imgur.com/UibCHUN.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":63,
-      "description":"بث مباشر قناة ألوان أفلام 1 الترفيهية",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402371&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-aflam-2",
-      "name":"ALWAN AFLAM 2",
-      "logo_url":"https://i.imgur.com/Gl8AxBh.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":64,
-      "description":"بث مباشر قناة ألوان أفلام 2 الترفيهية",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402370&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-mosalsalat",
-      "name":"ALWAN MOSALSALAT",
-      "logo_url":"",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":65,
-      "description":"بث مباشر قناة ألوان مسلسلات العربية",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402369&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-turkey",
-      "name":"ALWAN TURKEY",
-      "logo_url":"",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":66,
-      "description":"بث مباشر قناة ألوان للدراما التركية",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402368&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-atfal",
-      "name":"ALWAN ATFAL",
-      "logo_url":"https://i.ibb.co/bRDZCbsJ/33454-removebg-preview.png",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":67,
-      "description":"بث مباشر قناة ألوان للأطفال",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402367&extension=ts"
-         }
-      ]
-   },
-   {
-      "id":"alwan-doc",
-      "name":"ALWAN DOC",
-      "logo_url":"",
-      "category":"قنوات ألوان الرياضية",
-      "display_order":68,
-      "description":"بث مباشر قناة ألوان الوثائقية",
-      "streams":[
-         {
-            "quality":"FHD",
-            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402366&extension=ts"
-         }
-      ]
-   }
-]
+   [
+      {
+         "id":"alwan-sport-1",
+         "name":"ALWAN SPORT 1",
+         "logo_url":"https://i.imgur.com/UibCHUN.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":57,
+         "description":"بث مباشر قناة ألوان الرياضية 1 بكافة الجودات",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112500&extension=ts"
+            },
+            {
+               "quality":"HD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112083&extension=ts"
+            },
+            {
+               "quality":"SD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112086&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-sport-2",
+         "name":"ALWAN SPORT 2",
+         "logo_url":"https://i.imgur.com/Gl8AxBh.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":58,
+         "description":"بث مباشر قناة ألوان الرياضية 2 بكافة الجودات",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=183889&extension=ts"
+            },
+            {
+               "quality":"HD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112557&extension=ts"
+            },
+            {
+               "quality":"SD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112556&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-sport-3",
+         "name":"ALWAN SPORT 3",
+         "logo_url":"https://i.imgur.com/c9cHkFP.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":59,
+         "description":"بث مباشر قناة ألوان الرياضية 3 بكافة الجودات",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201148&extension=ts"
+            },
+            {
+               "quality":"HD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201159&extension=ts"
+            },
+            {
+               "quality":"SD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201163&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-sport-4",
+         "name":"ALWAN SPORT 4",
+         "logo_url":"https://i.imgur.com/6JVw8Xf.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":60,
+         "description":"بث مباشر قناة ألوان الرياضية 4 بكافة الجودات",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201149&extension=ts"
+            },
+            {
+               "quality":"HD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201160&extension=ts"
+            },
+            {
+               "quality":"SD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201164&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-sport-5",
+         "name":"ALWAN SPORT 5",
+         "logo_url":"https://i.imgur.com/JJojLHs.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":61,
+         "description":"بث مباشر قناة ألوان الرياضية 5 بكافة الجودات",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201150&extension=ts"
+            },
+            {
+               "quality":"HD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201161&extension=ts"
+            },
+            {
+               "quality":"SD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201165&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-sport-6",
+         "name":"ALWAN SPORT 6",
+         "logo_url":"https://i.imgur.com/VZxazRS.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":62,
+         "description":"بث مباشر قناة ألوان الرياضية 6 بكافة الجودات",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201151&extension=ts"
+            },
+            {
+               "quality":"HD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201162&extension=ts"
+            },
+            {
+               "quality":"SD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201166&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-aflam-1",
+         "name":"ALWAN AFLAM 1",
+         "logo_url":"https://i.imgur.com/UibCHUN.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":63,
+         "description":"بث مباشر قناة ألوان أفلام 1 الترفيهية",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201167&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-aflam-2",
+         "name":"ALWAN AFLAM 2",
+         "logo_url":"https://i.imgur.com/Gl8AxBh.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":64,
+         "description":"بث مباشر قناة ألوان أفلام 2 الترفيهية",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201168&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-mosalsalat",
+         "name":"ALWAN MOSALSALAT",
+         "logo_url":"",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":65,
+         "description":"بث مباشر قناة ألوان مسلسلات العربية",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201173&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-turkey",
+         "name":"ALWAN TURKEY",
+         "logo_url":"",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":66,
+         "description":"بث مباشر قناة ألوان للدراما التركية",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201174&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-atfal",
+         "name":"ALWAN ATFAL",
+         "logo_url":"https://i.ibb.co/bRDZCbsJ/33454-removebg-preview.png",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":67,
+         "description":"بث مباشر قناة ألوان للأطفال",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201172&extension=ts"
+            }
+         ]
+      },
+      {
+         "id":"alwan-doc",
+         "name":"ALWAN DOC",
+         "logo_url":"",
+         "category":"قنوات ألوان الرياضية",
+         "display_order":68,
+         "description":"بث مباشر قناة ألوان الوثائقية",
+         "streams":[
+            {
+               "quality":"FHD",
+               "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201171&extension=ts"
+            }
+         ]
+      }
+   ]

@@ -1182,6 +1182,286 @@
         "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.ts"
       }
     ]
+    [
+  {
+    "id": "tod-sports-1",
+    "name": "TOD Sports 1",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 1,
+    "description": "بث مباشر قناة TOD Sports 1",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69346&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89271&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89272&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-2",
+    "name": "TOD Sports 2",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 2,
+    "description": "بث مباشر قناة TOD Sports 2",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69164&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89267&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89268&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-3",
+    "name": "TOD Sports 3",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 3,
+    "description": "بث مباشر قناة TOD Sports 3",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1205&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=74017&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99520&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-4",
+    "name": "TOD Sports 4",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 4,
+    "description": "بث مباشر قناة TOD Sports 4",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1206&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=68967&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=74012&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-5",
+    "name": "TOD Sports 5",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 5,
+    "description": "بث مباشر قناة TOD Sports 5",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1774&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89262&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=101070&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-6",
+    "name": "TOD Sports 6",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 6,
+    "description": "بث مباشر قناة TOD Sports 6",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2664&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89270&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=101113&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-7",
+    "name": "TOD Sports 7",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 7,
+    "description": "بث مباشر قناة TOD Sports 7",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2820&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99533&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99507&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-8",
+    "name": "TOD Sports 8",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 8,
+    "description": "بث مباشر قناة TOD Sports 8",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=12671&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=26848&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99421&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-9",
+    "name": "TOD Sports 9",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 9,
+    "description": "بث مباشر قناة TOD Sports 9",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2250&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=37261&extension=ts"
+      },
+      {
+        "quality": "SD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=26849&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-10",
+    "name": "TOD Sports 10",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 10,
+    "description": "بث مباشر قناة TOD Sports 10",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99605&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89261&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-11",
+    "name": "TOD Sports 11",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 11,
+    "description": "بث مباشر قناة TOD Sports 11",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=43851&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69098&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-12",
+    "name": "TOD Sports 12",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 12,
+    "description": "بث مباشر قناة TOD Sports 12",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112607&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-13",
+    "name": "TOD Sports 13",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 13,
+    "description": "بث مباشر قناة TOD Sports 13",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112600&extension=ts"
+      }
+    ]
+  },
+  {
+    "id": "tod-sports-14",
+    "name": "TOD Sports 14",
+    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 14,
+    "description": "بث مباشر قناة TOD Sports 14",
+    "streams": [
+      {
+        "quality": "FHD",
+        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112599&extension=ts"
+      }
+    ]
+  }
+]
+
+
   },
   {
     "id": "alwan-sport-1",

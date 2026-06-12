@@ -1,1684 +1,1402 @@
 [
-  {
-    "id": "dz-a1-algeria",
-    "name": "A1 Algeria",
-    "logo_url": "https://16k.xyz/images/858d17af92c782e49f4cbab04f29b0a5.png",
-    "category": "الجزائر",
-    "display_order": 1,
-    "description": "بث مباشر قناة A1 الجزائرية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1255.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-a2-algeria",
-    "name": "A2 Algeria",
-    "logo_url": "https://16k.xyz/images/096e17572ab9b25a7efeca28bc254b40.png",
-    "category": "الجزائر",
-    "display_order": 2,
-    "description": "بث مباشر قناة A2 الجزائرية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/979.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-a3",
-    "name": "A3",
-    "logo_url": "https://16k.xyz/images/508c75c8507a2ae5223dfd2faeb98122.png",
-    "category": "الجزائر",
-    "display_order": 3,
-    "description": "بث مباشر القناة الجزائرية الثالثة",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/981.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-echorouk-tv",
-    "name": "Echorouk TV",
-    "logo_url": "https://16k.xyz/images/cb4c066478884c9403d9a3dea3e45653.png",
-    "category": "الجزائر",
-    "display_order": 4,
-    "description": "بث مباشر قناة الشروق العامة",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3891.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/983.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-echorouk-news",
-    "name": "Echorouk News",
-    "logo_url": "http://myserveriptv.com:2082/images/00c6a7b1bdaeb439fa880ab1a0bbabb1.png",
-    "category": "الجزائر",
-    "display_order": 5,
-    "description": "بث مباشر قناة الشروق الإخبارية",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/984.ts"
-      },
-      {
-        "quality": "SD / العادية",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3890.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-samira-tv",
-    "name": "Samira TV",
-    "logo_url": "https://16k.xyz/images/415f7c96da3e79cf3588156e93522caa.png",
-    "category": "الجزائر",
-    "display_order": 6,
-    "description": "بث مباشر قناة سميرة للطبخ والمرأة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1038.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-el-heddaf",
-    "name": "El Heddaf TV",
-    "logo_url": "https://16k.xyz/images/b51bc94d22dd1f3cb47eed803b0f0b01.png",
-    "category": "الجزائر",
-    "display_order": 7,
-    "description": "بث مباشر قناة الهداف الرياضية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1264.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-el-bilad",
-    "name": "El Bilad",
-    "logo_url": "https://16k.xyz/images/a00b2070fc2c4d09e51035edf1834eda.png",
-    "category": "الجزائر",
-    "display_order": 8,
-    "description": "بث مباشر قناة البلاد",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3898.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-el-djazairia",
-    "name": "El Djazairia",
-    "logo_url": "http://iptvch.com:2082/images/9dc64207d58bc4fa31a40880922b32cc.png",
-    "category": "الجزائر",
-    "display_order": 9,
-    "description": "بث مباشر قناة الجزائرية وان",
-    "streams": [
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/262654.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-al24-news",
-    "name": "AL24 News",
-    "logo_url": "https://16k.xyz/images/576f7e4b8e3829bae420796c79f746fc.png",
-    "category": "الجزائر",
-    "display_order": 10,
-    "description": "بث مباشر قناة الجزائر الدولية الإخبارية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249071.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-bahia-tv",
-    "name": "Bahia TV",
-    "logo_url": "https://16k.xyz/images/2568cf86cdced9274ad7e0c7ea02f78c.png",
-    "category": "الجزائر",
-    "display_order": 11,
-    "description": "بث مباشر قناة البهية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1149.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-tv8-edhakira",
-    "name": "TV8 Edhakira",
-    "logo_url": "http://myserveriptv.com:2082/images/e55be2a1302751c8eb666fe48ad6e09f.png",
-    "category": "الجزائر",
-    "display_order": 12,
-    "description": "بث مباشر القناة الثامنة الذاكرة الجزائرية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/247056.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-zahra-tv",
-    "name": "Zahra TV",
-    "logo_url": "https://16k.xyz/images/01e50c681c0b05ff22686b3e0f7290d3.png",
-    "category": "الجزائر",
-    "display_order": 13,
-    "description": "بث مباشر قناة زهرة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249444.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-salam-tv",
-    "name": "Salam TV",
-    "logo_url": "https://i.ibb.co/YFsJCNHz/33336-removebg-preview.png",
-    "category": "الجزائر",
-    "display_order": 14,
-    "description": "بث مباشر قناة سلام",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249962.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-el-watania-algerie",
-    "name": "El Watania Algerie",
-    "logo_url": "http://myserveriptv.com:2082/images/76cf68122b214a49cb042287d3f46e0d.png",
-    "category": "الجزائر",
-    "display_order": 15,
-    "description": "بث مباشر القناة الوطنية الجزائرية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249964.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-ennahar-algerie",
-    "name": "Ennahar TV",
-    "logo_url": "https://16k.xyz/images/68927ffd86e3a7ef0d69d346c20ae655.png",
-    "category": "الجزائر",
-    "display_order": 16,
-    "description": "بث مباشر قناة النهار الجديد",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/989.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-berbere-tv",
-    "name": "Berbere TV",
-    "logo_url": "https://16k.xyz/images/74d4ba35561a866402029aa0f03d9509.png",
-    "category": "الجزائر",
-    "display_order": 17,
-    "description": "بث مباشر قناة بربر تيفي",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/2960.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-algerie-4",
-    "name": "Algerie 4 (الأمازيغية)",
-    "logo_url": "https://16k.xyz/images/9dbecd0f72b9f67cc6ac62c6f441f25f.png",
-    "category": "الجزائر",
-    "display_order": 18,
-    "description": "بث مباشر القناة الرابعة الجزائرية الناطقة بالأمازيغية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/11529.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-dzair-3",
-    "name": "Dzair 3",
-    "logo_url": "https://16k.xyz/images/508c75c8507a2ae5223dfd2faeb98122.png",
-    "category": "الجزائر",
-    "display_order": 19,
-    "description": "بث مباشر قناة الجزائر الثالثة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3636.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-algerie-5",
-    "name": "Algerie 5 (القرآن الكريم)",
-    "logo_url": "https://16k.xyz/images/074a580398f8093ab50be59252457b07.png",
-    "category": "الجزائر",
-    "display_order": 20,
-    "description": "بث مباشر القناة الخامسة الجزائرية للقرآن الكريم",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/11528.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-algerie-6",
-    "name": "Algerie 6 (الشبابية)",
-    "logo_url": "https://16k.xyz/images/7443020d206e4da8451d53acdbfa914d.png",
-    "category": "الجزائر",
-    "display_order": 21,
-    "description": "بث مباشر القناة السادسة الجزائرية الشبابية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3641.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-tv7-el-maarifa",
-    "name": "TV7 El Maarifa",
-    "logo_url": "https://16k.xyz/images/18b021d78212976858d136ff504bf8b7.png",
-    "category": "الجزائر",
-    "display_order": 22,
-    "description": "بث مباشر القناة السابعة المعرفة الجزائرية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/245572.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-el-fadjr-tv",
-    "name": "El Fadjr TV",
-    "logo_url": "https://16k.xyz/images/1a489758636d4c003ac9c38fe973a4aa.png",
-    "category": "الجزائر",
-    "display_order": 23,
-    "description": "بث مباشر قناة الفجر الجزائرية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/72064.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-el-djazair-n1",
-    "name": "El Djazair N1",
-    "logo_url": "https://16k.xyz/images/c82561ec215a6e31807ceedf3b3bd25e.png",
-    "category": "الجزائر",
-    "display_order": 24,
-    "description": "بث مباشر قناة الجزائر N1",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/194366.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-eliktisadia-el-oula",
-    "name": "Eliktisadia El Oula",
-    "logo_url": "https://i.ibb.co/1JtMXWtx/33345-removebg-preview.png",
-    "category": "الجزائر",
-    "display_order": 25,
-    "description": "بث مباشر القناة الاقتصادية الأولى",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/250315.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-algerian-4kids",
-    "name": "Algerian 4Kids",
-    "logo_url": "https://i.ibb.co/YF1nw112/33347-removebg-preview.png",
-    "category": "الجزائر",
-    "display_order": 26,
-    "description": "بث مباشر قناة الأطفال الجزائرية 4Kids",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/269711.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-al-hayat-tv",
-    "name": "Al Hayat TV",
-    "logo_url": "https://16k.xyz/images/8e7d5df06fcc6b1054a8a5647594d574.png",
-    "category": "الجزائر",
-    "display_order": 27,
-    "description": "بث مباشر قناة الحياة الجزائرية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/197749.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sport-news",
-    "name": "beIN SPORTS News",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 28,
-    "description": "بث مباشر قناة بي ان سبورت الإخبارية",
-    "streams": [
-      {
-        "quality": "HD 1080",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261621.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-global",
-    "name": "beIN Global",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 29,
-    "description": "بث مباشر قناة بي ان سبورت العالمية",
-    "streams": [
-      {
-        "quality": "4K المفتوحة",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286327.ts"
-      },
-      {
-        "quality": "HD 1080",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261622.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286328.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-1",
-    "name": "beIN SPORTS 1",
-    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 30,
-    "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261623.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261646.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261663.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261683.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-2",
-    "name": "beIN SPORTS 2",
-    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 31,
-    "description": "بث مباشر قناة بي ان سبورت 2",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261624.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261647.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261664.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261684.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-3",
-    "name": "beIN SPORTS 3",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 32,
-    "description": "بث مباشر قناة بي ان سبورت 3",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261625.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261648.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261665.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261685.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-4",
-    "name": "beIN SPORTS 4",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 33,
-    "description": "بث مباشر قناة بي ان سبورت 4",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261626.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261649.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261666.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261686.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-5",
-    "name": "beIN SPORTS 5",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 34,
-    "description": "بث مباشر قناة بي ان سبورت 5",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261627.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261650.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261667.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261687.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-6",
-    "name": "beIN SPORTS 6",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 35,
-    "description": "بث مباشر قناة بي ان سبورت 6",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261628.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261651.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261668.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261688.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-7",
-    "name": "beIN SPORTS 7",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 36,
-    "description": "بث مباشر قناة بي ان سبورت 7",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261629.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261652.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261669.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261689.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-8",
-    "name": "beIN SPORTS 8",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 37,
-    "description": "بث مباشر قناة بي ان سبورت 8",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261630.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261653.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261670.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261690.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-9",
-    "name": "beIN SPORTS 9",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 38,
-    "description": "بث مباشر قناة بي ان سبورت 9",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261631.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261654.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261671.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261691.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-xtra",
-    "name": "beIN Xtra",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 39,
-    "description": "بث مباشر قنوات بي ان اكسترا الإضافية",
-    "streams": [
-      {
-        "quality": "Xtra 1 4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261632.ts"
-      },
-      {
-        "quality": "Xtra 2 4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261633.ts"
-      },
-      {
-        "quality": "Xtra 3 4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261634.ts"
-      },
-      {
-        "quality": "Xtra 1 720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261655.ts"
-      },
-      {
-        "quality": "Xtra 2 720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261656.ts"
-      },
-      {
-        "quality": "Xtra 3 1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261657.ts"
-      },
-      {
-        "quality": "Xtra 3 720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261672.ts"
-      },
-      {
-        "quality": "Xtra 1 SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261692.ts"
-      },
-      {
-        "quality": "Xtra 2 SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261693.ts"
-      },
-      {
-        "quality": "Xtra 3 SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261694.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-nba",
-    "name": "beIN SPORTS NBA",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 40,
-    "description": "قناة بي ان سبورت الخاصة بدوري كرة السلة الأمريكي للمحترفين",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261635.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261658.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-english-1",
-    "name": "beIN SPORTS English 1",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 41,
-    "description": "beIN SPORTS English 1 Channel Live",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261636.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261659.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261673.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261695.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-english-2",
-    "name": "beIN SPORTS English 2",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 42,
-    "description": "beIN SPORTS English 2 Channel Live",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261637.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261660.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261674.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261696.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-french-1",
-    "name": "beIN SPORTS French 1",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 43,
-    "description": "beIN SPORTS French 1 Channel Live",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261638.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261661.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261675.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261697.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-french-2",
-    "name": "beIN SPORTS French 2",
-    "logo_url": "https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 44,
-    "description": "beIN SPORTS French 2 Channel Live",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261639.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261662.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261676.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261698.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-afc",
-    "name": "beIN SPORTS AFC",
-    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 45,
-    "description": "قناة بي ان سبورتس الخاصة ببطولات الاتحاد الآسيوي",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261640.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261677.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261699.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-afc-1",
-    "name": "beIN SPORTS AFC 1",
-    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 46,
-    "description": "بث مباشر قناة بي ان سبورت الآسيوية 1",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261641.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261678.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261700.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-afc-2",
-    "name": "beIN SPORTS AFC 2",
-    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 47,
-    "description": "بث مباشر قناة بي ان سبورت الآسيوية 2",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261642.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261679.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261701.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-afc-3",
-    "name": "beIN SPORTS AFC 3",
-    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 48,
-    "description": "بث مباشر قناة بي ان سبورت الآسيوية 3",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261643.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261680.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261702.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-afc-4",
-    "name": "beIN SPORTS AFC 4",
-    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 49,
-    "description": "بث مباشر قناة بي ان سبورت الآسيوية 4",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261644.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261681.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261703.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-afc-5",
-    "name": "beIN SPORTS AFC 5",
-    "logo_url": "http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
-    "category": "بي ان سبورت",
-    "display_order": 50,
-    "description": "بث مباشر قناة بي ان سبورت الآسيوية 5",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261645.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261682.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261704.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-max-1-ar",
-    "name": "beIN SPORTS MAX 1 AR",
-    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس عربية",
-    "display_order": 51,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 1 العربية بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296157.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291494.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291500.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077113&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291506.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077107&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-max-2-ar",
-    "name": "beIN SPORTS MAX 2 AR",
-    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس عربية",
-    "display_order": 52,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 2 العربية بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296158.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077112&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077106&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-max-3-ar",
-    "name": "beIN SPORTS MAX 3 AR",
-    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس عربية",
-    "display_order": 53,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 3 العربية بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296159.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291496.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291502.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077111&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291508.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077105&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291514.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-max-4-ar",
-    "name": "beIN SPORTS MAX 4 AR",
-    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس عربية",
-    "display_order": 54,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 4 العربية بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296160.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291497.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291503.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077110&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291509.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077104&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291515.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-max-5-ar",
-    "name": "beIN SPORTS MAX 5 AR",
-    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس عربية",
-    "display_order": 55,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 5 العربية بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296161.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291498.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291504.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077109&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291510.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077103&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291516.ts"
-      }
-    ]
-  },
-  {
-    "id": "bein-sports-max-6-ar",
-    "name": "beIN SPORTS MAX 6 AR",
-    "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
-    "category": "بي ان ماكس عربية",
-    "display_order": 56,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 6 العربية بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296162.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291505.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077108&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291511.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077102&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.ts"
-      }
-    ]
-    [
-  {
-    "id": "tod-sports-1",
-    "name": "TOD Sports 1",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 1,
-    "description": "بث مباشر قناة TOD Sports 1",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69346&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89271&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89272&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-2",
-    "name": "TOD Sports 2",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 2,
-    "description": "بث مباشر قناة TOD Sports 2",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69164&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89267&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89268&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-3",
-    "name": "TOD Sports 3",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 3,
-    "description": "بث مباشر قناة TOD Sports 3",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1205&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=74017&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99520&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-4",
-    "name": "TOD Sports 4",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 4,
-    "description": "بث مباشر قناة TOD Sports 4",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1206&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=68967&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=74012&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-5",
-    "name": "TOD Sports 5",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 5,
-    "description": "بث مباشر قناة TOD Sports 5",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1774&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89262&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=101070&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-6",
-    "name": "TOD Sports 6",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 6,
-    "description": "بث مباشر قناة TOD Sports 6",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2664&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89270&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=101113&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-7",
-    "name": "TOD Sports 7",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 7,
-    "description": "بث مباشر قناة TOD Sports 7",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2820&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99533&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99507&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-8",
-    "name": "TOD Sports 8",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 8,
-    "description": "بث مباشر قناة TOD Sports 8",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=12671&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=26848&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99421&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-9",
-    "name": "TOD Sports 9",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 9,
-    "description": "بث مباشر قناة TOD Sports 9",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=2250&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=37261&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=26849&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-10",
-    "name": "TOD Sports 10",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 10,
-    "description": "بث مباشر قناة TOD Sports 10",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=99605&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89261&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-11",
-    "name": "TOD Sports 11",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 11,
-    "description": "بث مباشر قناة TOD Sports 11",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=43851&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=69098&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-12",
-    "name": "TOD Sports 12",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 12,
-    "description": "بث مباشر قناة TOD Sports 12",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112607&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-13",
-    "name": "TOD Sports 13",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 13,
-    "description": "بث مباشر قناة TOD Sports 13",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112600&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-sports-14",
-    "name": "TOD Sports 14",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem40iKYKCsEKyxiPICcHc8WaQP3hCCgGOlELVhxiJlA&s=10",
-    "category": "قنوات TOD الرياضية",
-    "display_order": 14,
-    "description": "بث مباشر قناة TOD Sports 14",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112599&extension=ts"
-      }
-    ]
-  }
-]
-
-
-  },
-  
-    [
-  {
-    "id": "alwan-sport-1",
-    "name": "ALWAN SPORT 1",
-    "logo_url": "https://i.imgur.com/UibCHUN.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 57,
-    "description": "بث مباشر قناة ألوان الرياضية 1 بكافة الجودات",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112500&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112083&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112086&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-sport-2",
-    "name": "ALWAN SPORT 2",
-    "logo_url": "https://i.imgur.com/Gl8AxBh.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 58,
-    "description": "بث مباشر قناة ألوان الرياضية 2 بكافة الجودات",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=183889&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112557&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112556&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-sport-3",
-    "name": "ALWAN SPORT 3",
-    "logo_url": "https://i.imgur.com/c9cHkFP.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 59,
-    "description": "بث مباشر قناة ألوان الرياضية 3 بكافة الجودات",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201148&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201159&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201163&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-sport-4",
-    "name": "ALWAN SPORT 4",
-    "logo_url": "https://i.imgur.com/6JVw8Xf.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 60,
-    "description": "بث مباشر قناة ألوان الرياضية 4 بكافة الجودات",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201149&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201160&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201164&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-sport-5",
-    "name": "ALWAN SPORT 5",
-    "logo_url": "https://i.imgur.com/JJojLHs.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 61,
-    "description": "بث مباشر قناة ألوان الرياضية 5 بكافة الجودات",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201150&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201161&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201165&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-sport-6",
-    "name": "ALWAN SPORT 6",
-    "logo_url": "https://i.imgur.com/VZxazRS.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 62,
-    "description": "بث مباشر قناة ألوان الرياضية 6 بكافة الجودات",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201151&extension=ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201162&extension=ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201166&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-aflam-1",
-    "name": "ALWAN AFLAM 1",
-    "logo_url": "https://i.imgur.com/UibCHUN.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 63,
-    "description": "بث مباشر قناة ألوان أفلام 1 الترفيهية",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201167&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-aflam-2",
-    "name": "ALWAN AFLAM 2",
-    "logo_url": "https://i.imgur.com/Gl8AxBh.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 64,
-    "description": "بث مباشر قناة ألوان أفلام 2 الترفيهية",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201168&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-mosalsalat",
-    "name": "ALWAN MOSALSALAT",
-    "logo_url": "",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 65,
-    "description": "بث مباشر قناة ألوان مسلسلات العربية",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201173&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-turkey",
-    "name": "ALWAN TURKEY",
-    "logo_url": "",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 66,
-    "description": "بث مباشر قناة ألوان للدراما التركية",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201174&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-atfal",
-    "name": "ALWAN ATFAL",
-    "logo_url": "https://i.ibb.co/bRDZCbsJ/33454-removebg-preview.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 67,
-    "description": "بث مباشر قناة ألوان للأطفال",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201172&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "alwan-doc",
-    "name": "ALWAN DOC",
-    "logo_url": "",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 68,
-    "description": "بث مباشر قناة ألوان الوثائقية",
-    "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=201171&extension=ts"
-      }
-    ]
-  }
+   {
+      "id":"dz-a1-algeria",
+      "name":"A1 Algeria",
+      "logo_url":"https://16k.xyz/images/858d17af92c782e49f4cbab04f29b0a5.png",
+      "category":"الجزائر",
+      "display_order":1,
+      "description":"بث مباشر قناة A1 الجزائرية",
+      "streams":[
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1255.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-a2-algeria",
+      "name":"A2 Algeria",
+      "logo_url":"https://16k.xyz/images/096e17572ab9b25a7efeca28bc254b40.png",
+      "category":"الجزائر",
+      "display_order":2,
+      "description":"بث مباشر قناة A2 الجزائرية",
+      "streams":[
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/979.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-a3",
+      "name":"A3",
+      "logo_url":"https://16k.xyz/images/508c75c8507a2ae5223dfd2faeb98122.png",
+      "category":"الجزائر",
+      "display_order":3,
+      "description":"بث مباشر القناة الجزائرية الثالثة",
+      "streams":[
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/981.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-echorouk-tv",
+      "name":"Echorouk TV",
+      "logo_url":"https://16k.xyz/images/cb4c066478884c9403d9a3dea3e45653.png",
+      "category":"الجزائر",
+      "display_order":4,
+      "description":"بث مباشر قناة الشروق العامة",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3891.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/983.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-echorouk-news",
+      "name":"Echorouk News",
+      "logo_url":"http://myserveriptv.com:2082/images/00c6a7b1bdaeb439fa880ab1a0bbabb1.png",
+      "category":"الجزائر",
+      "display_order":5,
+      "description":"بث مباشر قناة الشروق الإخبارية",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/984.ts"
+         },
+         {
+            "quality":"SD / العادية",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3890.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-samira-tv",
+      "name":"Samira TV",
+      "logo_url":"https://16k.xyz/images/415f7c96da3e79cf3588156e93522caa.png",
+      "category":"الجزائر",
+      "display_order":6,
+      "description":"بث مباشر قناة سميرة للطبخ والمرأة",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1038.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-el-heddaf",
+      "name":"El Heddaf TV",
+      "logo_url":"https://16k.xyz/images/b51bc94d22dd1f3cb47eed803b0f0b01.png",
+      "category":"الجزائر",
+      "display_order":7,
+      "description":"بث مباشر قناة الهداف الرياضية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1264.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-el-bilad",
+      "name":"El Bilad",
+      "logo_url":"https://16k.xyz/images/a00b2070fc2c4d09e51035edf1834eda.png",
+      "category":"الجزائر",
+      "display_order":8,
+      "description":"بث مباشر قناة البلاد",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3898.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-el-djazairia",
+      "name":"El Djazairia",
+      "logo_url":"http://iptvch.com:2082/images/9dc64207d58bc4fa31a40880922b32cc.png",
+      "category":"الجزائر",
+      "display_order":9,
+      "description":"بث مباشر قناة الجزائرية وان",
+      "streams":[
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/262654.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-al24-news",
+      "name":"AL24 News",
+      "logo_url":"https://16k.xyz/images/576f7e4b8e3829bae420796c79f746fc.png",
+      "category":"الجزائر",
+      "display_order":10,
+      "description":"بث مباشر قناة الجزائر الدولية الإخبارية",
+      "streams":[
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249071.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-bahia-tv",
+      "name":"Bahia TV",
+      "logo_url":"https://16k.xyz/images/2568cf86cdced9274ad7e0c7ea02f78c.png",
+      "category":"الجزائر",
+      "display_order":11,
+      "description":"بث مباشر قناة البهية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1149.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-tv8-edhakira",
+      "name":"TV8 Edhakira",
+      "logo_url":"http://myserveriptv.com:2082/images/e55be2a1302751c8eb666fe48ad6e09f.png",
+      "category":"الجزائر",
+      "display_order":12,
+      "description":"بث مباشر القناة الثامنة الذاكرة الجزائرية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/247056.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-zahra-tv",
+      "name":"Zahra TV",
+      "logo_url":"https://16k.xyz/images/01e50c681c0b05ff22686b3e0f7290d3.png",
+      "category":"الجزائر",
+      "display_order":13,
+      "description":"بث مباشر قناة زهرة",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249444.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-salam-tv",
+      "name":"Salam TV",
+      "logo_url":"https://i.ibb.co/YFsJCNHz/33336-removebg-preview.png",
+      "category":"الجزائر",
+      "display_order":14,
+      "description":"بث مباشر قناة سلام",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249962.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-el-watania-algerie",
+      "name":"El Watania Algerie",
+      "logo_url":"http://myserveriptv.com:2082/images/76cf68122b214a49cb042287d3f46e0d.png",
+      "category":"الجزائر",
+      "display_order":15,
+      "description":"بث مباشر القناة الوطنية الجزائرية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249964.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-ennahar-algerie",
+      "name":"Ennahar TV",
+      "logo_url":"https://16k.xyz/images/68927ffd86e3a7ef0d69d346c20ae655.png",
+      "category":"الجزائر",
+      "display_order":16,
+      "description":"بث مباشر قناة النهار الجديد",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/989.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-berbere-tv",
+      "name":"Berbere TV",
+      "logo_url":"https://16k.xyz/images/74d4ba35561a866402029aa0f03d9509.png",
+      "category":"الجزائر",
+      "display_order":17,
+      "description":"بث مباشر قناة بربر تيفي",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/2960.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-algerie-4",
+      "name":"Algerie 4 (الأمازيغية)",
+      "logo_url":"https://16k.xyz/images/9dbecd0f72b9f67cc6ac62c6f441f25f.png",
+      "category":"الجزائر",
+      "display_order":18,
+      "description":"بث مباشر القناة الرابعة الجزائرية الناطقة بالأمازيغية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/11529.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-dzair-3",
+      "name":"Dzair 3",
+      "logo_url":"https://16k.xyz/images/508c75c8507a2ae5223dfd2faeb98122.png",
+      "category":"الجزائر",
+      "display_order":19,
+      "description":"بث مباشر قناة الجزائر الثالثة",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3636.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-algerie-5",
+      "name":"Algerie 5 (القرآن الكريم)",
+      "logo_url":"https://16k.xyz/images/074a580398f8093ab50be59252457b07.png",
+      "category":"الجزائر",
+      "display_order":20,
+      "description":"بث مباشر القناة الخامسة الجزائرية للقرآن الكريم",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/11528.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-algerie-6",
+      "name":"Algerie 6 (الشبابية)",
+      "logo_url":"https://16k.xyz/images/7443020d206e4da8451d53acdbfa914d.png",
+      "category":"الجزائر",
+      "display_order":21,
+      "description":"بث مباشر القناة السادسة الجزائرية الشبابية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3641.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-tv7-el-maarifa",
+      "name":"TV7 El Maarifa",
+      "logo_url":"https://16k.xyz/images/18b021d78212976858d136ff504bf8b7.png",
+      "category":"الجزائر",
+      "display_order":22,
+      "description":"بث مباشر القناة السابعة المعرفة الجزائرية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/245572.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-el-fadjr-tv",
+      "name":"El Fadjr TV",
+      "logo_url":"https://16k.xyz/images/1a489758636d4c003ac9c38fe973a4aa.png",
+      "category":"الجزائر",
+      "display_order":23,
+      "description":"بث مباشر قناة الفجر الجزائرية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/72064.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-el-djazair-n1",
+      "name":"El Djazair N1",
+      "logo_url":"https://16k.xyz/images/c82561ec215a6e31807ceedf3b3bd25e.png",
+      "category":"الجزائر",
+      "display_order":24,
+      "description":"بث مباشر قناة الجزائر N1",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/194366.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-eliktisadia-el-oula",
+      "name":"Eliktisadia El Oula",
+      "logo_url":"https://i.ibb.co/1JtMXWtx/33345-removebg-preview.png",
+      "category":"الجزائر",
+      "display_order":25,
+      "description":"بث مباشر القناة الاقتصادية الأولى",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/250315.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-algerian-4kids",
+      "name":"Algerian 4Kids",
+      "logo_url":"https://i.ibb.co/YF1nw112/33347-removebg-preview.png",
+      "category":"الجزائر",
+      "display_order":26,
+      "description":"بث مباشر قناة الأطفال الجزائرية 4Kids",
+      "streams":[
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/269711.ts"
+         }
+      ]
+   },
+   {
+      "id":"dz-al-hayat-tv",
+      "name":"Al Hayat TV",
+      "logo_url":"https://16k.xyz/images/8e7d5df06fcc6b1054a8a5647594d574.png",
+      "category":"الجزائر",
+      "display_order":27,
+      "description":"بث مباشر قناة الحياة الجزائرية",
+      "streams":[
+         {
+            "quality":"البث الرئيسي",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/197749.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sport-news",
+      "name":"beIN SPORTS News",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":28,
+      "description":"بث مباشر قناة بي ان سبورت الإخبارية",
+      "streams":[
+         {
+            "quality":"HD 1080",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261621.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-global",
+      "name":"beIN Global",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":29,
+      "description":"بث مباشر قناة بي ان سبورت العالمية",
+      "streams":[
+         {
+            "quality":"4K المفتوحة",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286327.ts"
+         },
+         {
+            "quality":"HD 1080",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261622.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286328.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-1",
+      "name":"beIN SPORTS 1",
+      "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":30,
+      "description":"قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261623.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261646.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261663.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261683.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-2",
+      "name":"beIN SPORTS 2",
+      "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":31,
+      "description":"بث مباشر قناة بي ان سبورت 2",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261624.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261647.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261664.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261684.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-3",
+      "name":"beIN SPORTS 3",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":32,
+      "description":"بث مباشر قناة بي ان سبورت 3",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261625.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261648.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261665.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261685.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-4",
+      "name":"beIN SPORTS 4",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":33,
+      "description":"بث مباشر قناة بي ان سبورت 4",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261626.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261649.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261666.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261686.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-5",
+      "name":"beIN SPORTS 5",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":34,
+      "description":"بث مباشر قناة بي ان سبورت 5",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261627.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261650.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261667.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261687.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-6",
+      "name":"beIN SPORTS 6",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":35,
+      "description":"بث مباشر قناة بي ان سبورت 6",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261628.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261651.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261668.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261688.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-7",
+      "name":"beIN SPORTS 7",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":36,
+      "description":"بث مباشر قناة بي ان سبورت 7",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261629.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261652.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261669.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261689.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-8",
+      "name":"beIN SPORTS 8",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":37,
+      "description":"بث مباشر قناة بي ان سبورت 8",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261630.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261653.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261670.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261690.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-9",
+      "name":"beIN SPORTS 9",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":38,
+      "description":"بث مباشر قناة بي ان سبورت 9",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261631.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261654.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261671.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261691.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-xtra",
+      "name":"beIN Xtra",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":39,
+      "description":"بث مباشر قنوات بي ان اكسترا الإضافية",
+      "streams":[
+         {
+            "quality":"Xtra 1 4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261632.ts"
+         },
+         {
+            "quality":"Xtra 2 4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261633.ts"
+         },
+         {
+            "quality":"Xtra 3 4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261634.ts"
+         },
+         {
+            "quality":"Xtra 1 720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261655.ts"
+         },
+         {
+            "quality":"Xtra 2 720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261656.ts"
+         },
+         {
+            "quality":"Xtra 3 1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261657.ts"
+         },
+         {
+            "quality":"Xtra 3 720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261672.ts"
+         },
+         {
+            "quality":"Xtra 1 SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261692.ts"
+         },
+         {
+            "quality":"Xtra 2 SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261693.ts"
+         },
+         {
+            "quality":"Xtra 3 SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261694.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-nba",
+      "name":"beIN SPORTS NBA",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":40,
+      "description":"قناة بي ان سبورت الخاصة بدوري كرة السلة الأمريكي للمحترفين",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261635.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261658.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-english-1",
+      "name":"beIN SPORTS English 1",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":41,
+      "description":"beIN SPORTS English 1 Channel Live",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261636.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261659.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261673.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261695.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-english-2",
+      "name":"beIN SPORTS English 2",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":42,
+      "description":"beIN SPORTS English 2 Channel Live",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261637.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261660.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261674.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261696.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-french-1",
+      "name":"beIN SPORTS French 1",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":43,
+      "description":"beIN SPORTS French 1 Channel Live",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261638.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261661.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261675.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261697.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-french-2",
+      "name":"beIN SPORTS French 2",
+      "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":44,
+      "description":"beIN SPORTS French 2 Channel Live",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261639.ts"
+         },
+         {
+            "quality":"1080 FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261662.ts"
+         },
+         {
+            "quality":"720 HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261676.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261698.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-afc",
+      "name":"beIN SPORTS AFC",
+      "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":45,
+      "description":"قناة بي ان سبورتس الخاصة ببطولات الاتحاد الآسيوي",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261640.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261677.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261699.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-afc-1",
+      "name":"beIN SPORTS AFC 1",
+      "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":46,
+      "description":"بث مباشر قناة بي ان سبورت الآسيوية 1",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261641.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261678.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261700.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-afc-2",
+      "name":"beIN SPORTS AFC 2",
+      "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":47,
+      "description":"بث مباشر قناة بي ان سبورت الآسيوية 2",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261642.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261679.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261701.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-afc-3",
+      "name":"beIN SPORTS AFC 3",
+      "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":48,
+      "description":"بث مباشر قناة بي ان سبورت الآسيوية 3",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261643.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261680.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261702.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-afc-4",
+      "name":"beIN SPORTS AFC 4",
+      "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":49,
+      "description":"بث مباشر قناة بي ان سبورت الآسيوية 4",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261644.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261681.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261703.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-afc-5",
+      "name":"beIN SPORTS AFC 5",
+      "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
+      "category":"بي ان سبورت",
+      "display_order":50,
+      "description":"بث مباشر قناة بي ان سبورت الآسيوية 5",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261645.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261682.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261704.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-max-1-ar",
+      "name":"beIN SPORTS MAX 1 AR",
+      "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
+      "category":"بي ان ماكس عربية",
+      "display_order":51,
+      "description":"بث مباشر قناة بي ان سبورت ماكس 1 العربية بكافة الجودات",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://092025.online:2086/live/775921709518/135552110567088d311a30d/296157.ts"
+         },
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291494.ts"
+         },
+         {
+            "quality":"FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291500.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077113&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291506.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077107&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-max-2-ar",
+      "name":"beIN SPORTS MAX 2 AR",
+      "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
+      "category":"بي ان ماكس عربية",
+      "display_order":52,
+      "description":"بث مباشر قناة بي ان سبورت ماكس 2 العربية بكافة الجودات",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://092025.online:2086/live/775921709518/135552110567088d311a30d/296158.ts"
+         },
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.ts"
+         },
+         {
+            "quality":"FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077112&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077106&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-max-3-ar",
+      "name":"beIN SPORTS MAX 3 AR",
+      "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
+      "category":"بي ان ماكس عربية",
+      "display_order":53,
+      "description":"بث مباشر قناة بي ان سبورت ماكس 3 العربية بكافة الجودات",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://092025.online:2086/live/775921709518/135552110567088d311a30d/296159.ts"
+         },
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291496.ts"
+         },
+         {
+            "quality":"FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291502.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077111&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291508.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077105&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291514.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-max-4-ar",
+      "name":"beIN SPORTS MAX 4 AR",
+      "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
+      "category":"بي ان ماكس عربية",
+      "display_order":54,
+      "description":"بث مباشر قناة بي ان سبورت ماكس 4 العربية بكافة الجودات",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://092025.online:2086/live/775921709518/135552110567088d311a30d/296160.ts"
+         },
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291497.ts"
+         },
+         {
+            "quality":"FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291503.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077110&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291509.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077104&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291515.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-max-5-ar",
+      "name":"beIN SPORTS MAX 5 AR",
+      "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
+      "category":"بي ان ماكس عربية",
+      "display_order":55,
+      "description":"بث مباشر قناة بي ان سبورت ماكس 5 العربية بكافة الجودات",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://092025.online:2086/live/775921709518/135552110567088d311a30d/296161.ts"
+         },
+         {
+            "quality":"4K",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291498.ts"
+         },
+         {
+            "quality":"FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291504.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077109&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291510.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077103&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291516.ts"
+         }
+      ]
+   },
+   {
+      "id":"bein-sports-max-6-ar",
+      "name":"beIN SPORTS MAX 6 AR",
+      "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
+      "category":"بي ان ماكس عربية",
+      "display_order":56,
+      "description":"بث مباشر قناة بي ان سبورت ماكس 6 العربية بكافة الجودات",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://092025.online:2086/live/775921709518/135552110567088d311a30d/296162.ts"
+         },
+         {
+            "quality":"FHD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291505.ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077108&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: HD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291511.ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077102&extension=ts"
+         },
+         {
+            "quality":"سيرفر 2: SD",
+            "url":"http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-sport-1",
+      "name":"ALWAN SPORT 1",
+      "logo_url":"https://i.imgur.com/UibCHUN.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":57,
+      "description":"بث مباشر قناة ألوان الرياضية 1 بكافة الجودات",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402389&extension=ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402388&extension=ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402387&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-sport-2",
+      "name":"ALWAN SPORT 2",
+      "logo_url":"https://i.imgur.com/Gl8AxBh.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":58,
+      "description":"بث مباشر قناة ألوان الرياضية 2 بكافة الجودات",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402386&extension=ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402385&extension=ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402384&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-sport-3",
+      "name":"ALWAN SPORT 3",
+      "logo_url":"https://i.imgur.com/c9cHkFP.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":59,
+      "description":"بث مباشر قناة ألوان الرياضية 3 بكافة الجودات",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402383&extension=ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402382&extension=ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402381&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-sport-4",
+      "name":"ALWAN SPORT 4",
+      "logo_url":"https://i.imgur.com/6JVw8Xf.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":60,
+      "description":"بث مباشر قناة ألوان الرياضية 4 بكافة الجودات",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402380&extension=ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402379&extension=ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402378&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-sport-5",
+      "name":"ALWAN SPORT 5",
+      "logo_url":"https://i.imgur.com/JJojLHs.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":61,
+      "description":"بث مباشر قناة ألوان الرياضية 5 بكافة الجودات",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402377&extension=ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402376&extension=ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402375&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-sport-6",
+      "name":"ALWAN SPORT 6",
+      "logo_url":"https://i.imgur.com/VZxazRS.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":62,
+      "description":"بث مباشر قناة ألوان الرياضية 6 بكافة الجودات",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402374&extension=ts"
+         },
+         {
+            "quality":"HD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402373&extension=ts"
+         },
+         {
+            "quality":"SD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402372&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-aflam-1",
+      "name":"ALWAN AFLAM 1",
+      "logo_url":"https://i.imgur.com/UibCHUN.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":63,
+      "description":"بث مباشر قناة ألوان أفلام 1 الترفيهية",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402371&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-aflam-2",
+      "name":"ALWAN AFLAM 2",
+      "logo_url":"https://i.imgur.com/Gl8AxBh.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":64,
+      "description":"بث مباشر قناة ألوان أفلام 2 الترفيهية",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402370&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-mosalsalat",
+      "name":"ALWAN MOSALSALAT",
+      "logo_url":"",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":65,
+      "description":"بث مباشر قناة ألوان مسلسلات العربية",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402369&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-turkey",
+      "name":"ALWAN TURKEY",
+      "logo_url":"",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":66,
+      "description":"بث مباشر قناة ألوان للدراما التركية",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402368&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-atfal",
+      "name":"ALWAN ATFAL",
+      "logo_url":"https://i.ibb.co/bRDZCbsJ/33454-removebg-preview.png",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":67,
+      "description":"بث مباشر قناة ألوان للأطفال",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402367&extension=ts"
+         }
+      ]
+   },
+   {
+      "id":"alwan-doc",
+      "name":"ALWAN DOC",
+      "logo_url":"",
+      "category":"قنوات ألوان الرياضية",
+      "display_order":68,
+      "description":"بث مباشر قناة ألوان الوثائقية",
+      "streams":[
+         {
+            "quality":"FHD",
+            "url":"http://4kpro2.com/play/live.php?mac=00:1A:79:00:C1:9A&stream=402366&extension=ts"
+         }
+      ]
+   }
 ]

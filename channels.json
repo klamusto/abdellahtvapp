@@ -386,11 +386,25 @@
       ]
    },
    {
+      "id":"bein-4k",
+      "name":"beIN 4K",
+      "logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPPtfoNIMcXEzyRD3dWD1GEYlS5OiHxkpvVaYtVUvdQ&s=10",
+      "category":"بي ان سبورت",
+      "display_order":28,
+      "description":"بث مباشر قناة بي ان سبورت 4K فائقة الجودة",
+      "streams":[
+         {
+            "quality":"4K",
+            "url":"http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=104974&extension=ts"
+         }
+      ]
+   },
+   {
       "id":"bein-sport-news",
       "name":"beIN SPORTS News",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":28,
+      "display_order":29,
       "description":"بث مباشر قناة بي ان سبورت الإخبارية",
       "streams":[
          {
@@ -404,7 +418,7 @@
       "name":"beIN Global",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":29,
+      "display_order":30,
       "description":"بث مباشر قناة بي ان سبورت العالمية",
       "streams":[
          {
@@ -426,7 +440,7 @@
       "name":"beIN SPORTS 1",
       "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":30,
+      "display_order":31,
       "description":"قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
       "streams":[
          {
@@ -452,7 +466,7 @@
       "name":"beIN SPORTS 2",
       "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":31,
+      "display_order":32,
       "description":"بث مباشر قناة بي ان سبورت 2",
       "streams":[
          {
@@ -478,7 +492,7 @@
       "name":"beIN SPORTS 3",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":32,
+      "display_order":33,
       "description":"بث مباشر قناة بي ان سبورت 3",
       "streams":[
          {
@@ -504,7 +518,7 @@
       "name":"beIN SPORTS 4",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":33,
+      "display_order":34,
       "description":"بث مباشر قناة بي ان سبورت 4",
       "streams":[
          {
@@ -530,7 +544,7 @@
       "name":"beIN SPORTS 5",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":34,
+      "display_order":35,
       "description":"بث مباشر قناة بي ان سبورت 5",
       "streams":[
          {
@@ -556,7 +570,7 @@
       "name":"beIN SPORTS 6",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":35,
+      "display_order":36,
       "description":"بث مباشر قناة بي ان سبورت 6",
       "streams":[
          {
@@ -582,7 +596,7 @@
       "name":"beIN SPORTS 7",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":36,
+      "display_order":37,
       "description":"بث مباشر قناة بي ان سبورت 7",
       "streams":[
          {
@@ -608,7 +622,7 @@
       "name":"beIN SPORTS 8",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":37,
+      "display_order":38,
       "description":"بث مباشر قناة بي ان سبورت 8",
       "streams":[
          {
@@ -634,7 +648,7 @@
       "name":"beIN SPORTS 9",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":38,
+      "display_order":39,
       "description":"بث مباشر قناة بي ان سبورت 9",
       "streams":[
          {
@@ -660,7 +674,7 @@
       "name":"beIN Xtra",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":39,
+      "display_order":40,
       "description":"بث مباشر قنوات بي ان اكسترا الإضافية",
       "streams":[
          {
@@ -710,7 +724,7 @@
       "name":"beIN SPORTS NBA",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":40,
+      "display_order":41,
       "description":"قناة بي ان سبورت الخاصة بدوري كرة السلة الأمريكي للمحترفين",
       "streams":[
          {
@@ -728,7 +742,7 @@
       "name":"beIN SPORTS English 1",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":41,
+      "display_order":42,
       "description":"beIN SPORTS English 1 Channel Live",
       "streams":[
          {
@@ -754,7 +768,7 @@
       "name":"beIN SPORTS English 2",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":42,
+      "display_order":43,
       "description":"beIN SPORTS English 2 Channel Live",
       "streams":[
          {
@@ -780,7 +794,7 @@
       "name":"beIN SPORTS French 1",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":43,
+      "display_order":44,
       "description":"beIN SPORTS French 1 Channel Live",
       "streams":[
          {
@@ -806,7 +820,7 @@
       "name":"beIN SPORTS French 2",
       "logo_url":"https://16k.xyz/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":44,
+      "display_order":45,
       "description":"beIN SPORTS French 2 Channel Live",
       "streams":[
          {
@@ -832,7 +846,7 @@
       "name":"beIN SPORTS AFC",
       "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":45,
+      "display_order":46,
       "description":"قناة بي ان سبورتس الخاصة ببطولات الاتحاد الآسيوي",
       "streams":[
          {
@@ -854,7 +868,7 @@
       "name":"beIN SPORTS AFC 1",
       "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":46,
+      "display_order":47,
       "description":"بث مباشر قناة بي ان سبورت الآسيوية 1",
       "streams":[
          {
@@ -876,7 +890,7 @@
       "name":"beIN SPORTS AFC 2",
       "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":47,
+      "display_order":48,
       "description":"بث مباشر قناة بي ان سبورت الآسيوية 2",
       "streams":[
          {
@@ -898,7 +912,7 @@
       "name":"beIN SPORTS AFC 3",
       "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":48,
+      "display_order":49,
       "description":"بث مباشر قناة بي ان سبورت الآسيوية 3",
       "streams":[
          {
@@ -920,7 +934,7 @@
       "name":"beIN SPORTS AFC 4",
       "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":49,
+      "display_order":50,
       "description":"بث مباشر قناة بي ان سبورت الآسيوية 4",
       "streams":[
          {
@@ -942,7 +956,7 @@
       "name":"beIN SPORTS AFC 5",
       "logo_url":"http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png",
       "category":"بي ان سبورت",
-      "display_order":50,
+      "display_order":51,
       "description":"بث مباشر قناة بي ان سبورت الآسيوية 5",
       "streams":[
          {
@@ -964,7 +978,7 @@
       "name":"beIN SPORTS MAX 1 AR",
       "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
       "category":"بي ان ماكس عربية",
-      "display_order":51,
+      "display_order":52,
       "description":"بث مباشر قناة بي ان سبورت ماكس 1 العربية بكافة الجودات",
       "streams":[
          {
@@ -1002,7 +1016,7 @@
       "name":"beIN SPORTS MAX 2 AR",
       "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
       "category":"بي ان ماكس عربية",
-      "display_order":52,
+      "display_order":53,
       "description":"بث مباشر قناة بي ان سبورت ماكس 2 العربية بكافة الجودات",
       "streams":[
          {
@@ -1040,7 +1054,7 @@
       "name":"beIN SPORTS MAX 3 AR",
       "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
       "category":"بي ان ماكس عربية",
-      "display_order":53,
+      "display_order":54,
       "description":"بث مباشر قناة بي ان سبورت ماكس 3 العربية بكافة الجودات",
       "streams":[
          {
@@ -1078,7 +1092,7 @@
       "name":"beIN SPORTS MAX 4 AR",
       "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
       "category":"بي ان ماكس عربية",
-      "display_order":54,
+      "display_order":55,
       "description":"بث مباشر قناة بي ان سبورت ماكس 4 العربية بكافة الجودات",
       "streams":[
          {
@@ -1116,7 +1130,7 @@
       "name":"beIN SPORTS MAX 5 AR",
       "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
       "category":"بي ان ماكس عربية",
-      "display_order":55,
+      "display_order":56,
       "description":"بث مباشر قناة بي ان سبورت ماكس 5 العربية بكافة الجودات",
       "streams":[
          {
@@ -1154,7 +1168,7 @@
       "name":"beIN SPORTS MAX 6 AR",
       "logo_url":"http://myserveriptv.com:2082/images/beinmaxnew.png",
       "category":"بي ان ماكس عربية",
-      "display_order":56,
+      "display_order":57,
       "description":"بث مباشر قناة بي ان سبورت ماكس 6 العربية بكافة الجودات",
       "streams":[
          {
@@ -1188,7 +1202,7 @@
       "name":"TOD Sports 1",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":57,
+      "display_order":58,
       "description":"بث مباشر قناة TOD Sports 1",
       "streams":[
          {
@@ -1210,7 +1224,7 @@
       "name":"TOD Sports 2",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":58,
+      "display_order":59,
       "description":"بث مباشر قناة TOD Sports 2",
       "streams":[
          {
@@ -1232,7 +1246,7 @@
       "name":"TOD Sports 3",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":59,
+      "display_order":60,
       "description":"بث مباشر قناة TOD Sports 3",
       "streams":[
          {
@@ -1254,7 +1268,7 @@
       "name":"TOD Sports 4",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":60,
+      "display_order":61,
       "description":"بث مباشر قناة TOD Sports 4",
       "streams":[
          {
@@ -1276,7 +1290,7 @@
       "name":"TOD Sports 5",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":61,
+      "display_order":62,
       "description":"بث مباشر قناة TOD Sports 5",
       "streams":[
          {
@@ -1298,7 +1312,7 @@
       "name":"TOD Sports 6",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":62,
+      "display_order":63,
       "description":"بث مباشر قناة TOD Sports 6",
       "streams":[
          {
@@ -1320,7 +1334,7 @@
       "name":"TOD Sports 7",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":63,
+      "display_order":64,
       "description":"بث مباشر قناة TOD Sports 7",
       "streams":[
          {
@@ -1342,7 +1356,7 @@
       "name":"TOD Sports 8",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":64,
+      "display_order":65,
       "description":"بث مباشر قناة TOD Sports 8",
       "streams":[
          {
@@ -1364,7 +1378,7 @@
       "name":"TOD Sports 9",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":65,
+      "display_order":66,
       "description":"بث مباشر قناة TOD Sports 9",
       "streams":[
          {
@@ -1386,7 +1400,7 @@
       "name":"TOD Sports 10",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":66,
+      "display_order":67,
       "description":"بث مباشر قناة TOD Sports 10",
       "streams":[
          {
@@ -1404,7 +1418,7 @@
       "name":"TOD Sports 11",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":67,
+      "display_order":68,
       "description":"بث مباشر قناة TOD Sports 11",
       "streams":[
          {
@@ -1422,7 +1436,7 @@
       "name":"TOD Sports 12",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":68,
+      "display_order":69,
       "description":"بث مباشر قناة TOD Sports 12",
       "streams":[
          {
@@ -1436,7 +1450,7 @@
       "name":"TOD Sports 13",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":69,
+      "display_order":70,
       "description":"بث مباشر قناة TOD Sports 13",
       "streams":[
          {
@@ -1450,7 +1464,7 @@
       "name":"TOD Sports 14",
       "logo_url":"https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
       "category":"قنوات TOD الرياضية",
-      "display_order":70,
+      "display_order":71,
       "description":"بث مباشر قناة TOD Sports 14",
       "streams":[
          {
@@ -1464,7 +1478,7 @@
       "name":"ALWAN SPORT 1",
       "logo_url":"https://i.imgur.com/UibCHUN.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":71,
+      "display_order":72,
       "description":"بث مباشر قناة ألوان الرياضية 1 بكافة الجودات",
       "streams":[
          {
@@ -1486,7 +1500,7 @@
       "name":"ALWAN SPORT 2",
       "logo_url":"https://i.imgur.com/Gl8AxBh.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":72,
+      "display_order":73,
       "description":"بث مباشر قناة ألوان الرياضية 2 بكافة الجودات",
       "streams":[
          {
@@ -1508,7 +1522,7 @@
       "name":"ALWAN SPORT 3",
       "logo_url":"https://i.imgur.com/c9cHkFP.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":73,
+      "display_order":74,
       "description":"بث مباشر قناة ألوان الرياضية 3 بكافة الجودات",
       "streams":[
          {
@@ -1530,7 +1544,7 @@
       "name":"ALWAN SPORT 4",
       "logo_url":"https://i.imgur.com/6JVw8Xf.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":74,
+      "display_order":75,
       "description":"بث مباشر قناة ألوان الرياضية 4 بكافة الجودات",
       "streams":[
          {
@@ -1552,7 +1566,7 @@
       "name":"ALWAN SPORT 5",
       "logo_url":"https://i.imgur.com/JJojLHs.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":75,
+      "display_order":76,
       "description":"بث مباشر قناة ألوان الرياضية 5 بكافة الجودات",
       "streams":[
          {
@@ -1574,7 +1588,7 @@
       "name":"ALWAN SPORT 6",
       "logo_url":"https://i.imgur.com/VZxazRS.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":76,
+      "display_order":77,
       "description":"بث مباشر قناة ألوان الرياضية 6 بكافة الجودات",
       "streams":[
          {
@@ -1596,7 +1610,7 @@
       "name":"ALWAN AFLAM 1",
       "logo_url":"https://i.imgur.com/UibCHUN.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":77,
+      "display_order":78,
       "description":"بث مباشر قناة ألوان أفلام 1 الترفيهية",
       "streams":[
          {
@@ -1610,7 +1624,7 @@
       "name":"ALWAN AFLAM 2",
       "logo_url":"https://i.imgur.com/Gl8AxBh.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":78,
+      "display_order":79,
       "description":"بث مباشر قناة ألوان أفلام 2 الترفيهية",
       "streams":[
          {
@@ -1624,7 +1638,7 @@
       "name":"ALWAN MOSALSALAT",
       "logo_url":"",
       "category":"قنوات ألوان الرياضية",
-      "display_order":79,
+      "display_order":80,
       "description":"بث مباشر قناة ألوان مسلسلات العربية",
       "streams":[
          {
@@ -1638,7 +1652,7 @@
       "name":"ALWAN TURKEY",
       "logo_url":"",
       "category":"قنوات ألوان الرياضية",
-      "display_order":80,
+      "display_order":81,
       "description":"بث مباشر قناة ألوان للدراما التركية",
       "streams":[
          {
@@ -1652,7 +1666,7 @@
       "name":"ALWAN ATFAL",
       "logo_url":"https://i.ibb.co/bRDZCbsJ/33454-removebg-preview.png",
       "category":"قنوات ألوان الرياضية",
-      "display_order":81,
+      "display_order":82,
       "description":"بث مباشر قناة ألوان للأطفال",
       "streams":[
          {
@@ -1666,7 +1680,7 @@
       "name":"ALWAN DOC",
       "logo_url":"",
       "category":"قنوات ألوان الرياضية",
-      "display_order":82,
+      "display_order":83,
       "description":"بث مباشر قناة ألوان الوثائقية",
       "streams":[
          {

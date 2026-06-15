@@ -4566,5 +4566,855 @@
         "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=97932&extension=ts"
       }
     ]
+  },
+  [
+  {
+    "id": "ar-mbc-1",
+    "name": "MBC 1",
+    "logo_url": "https://16k.xyz/images/feae60e5de509194297db9d3900c0fa7.png",
+    "category": "قنوات mbc",
+    "display_order": 243,
+    "description": "بث مباشر قناة MBC 1 بجودة عالية",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89992&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1786&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-2",
+    "name": "MBC 2",
+    "logo_url": "https://16k.xyz/images/9e9689f21bcd959fe90c1e0032d86459.png",
+    "category": "قنوات mbc",
+    "display_order": 244,
+    "description": "بث مباشر قناة أفلام MBC 2",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1787&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-3",
+    "name": "MBC 3",
+    "logo_url": "https://16k.xyz/images/980c29ade4c6df73b4c98fa113a00d3f.png",
+    "category": "قنوات mbc",
+    "display_order": 245,
+    "description": "بث مباشر قناة أطفال MBC 3",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89993&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1788&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-4",
+    "name": "MBC 4",
+    "logo_url": "https://16k.xyz/images/a3ced73e722e89d6caa9aa1e78ef0719.png",
+    "category": "قنوات mbc",
+    "display_order": 246,
+    "description": "بث مباشر قناة MBC 4 للبرامج والمسلسلات",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=90161&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1789&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-5",
+    "name": "MBC 5",
+    "logo_url": "https://16k.xyz/images/cfe21664b4982bae39830c404076fd06.png",
+    "category": "قنوات mbc",
+    "display_order": 247,
+    "description": "بث مباشر قناة MBC 5 المغرب العربي",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89995&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=658&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-action",
+    "name": "MBC Action",
+    "logo_url": "https://16k.xyz/images/9cc222eb5ebee8234ab52fb86f5b7502.png",
+    "category": "قنوات mbc",
+    "display_order": 248,
+    "description": "بث مباشر قناة MBC Action الإثارة والتشويق",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=521&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-bollywood",
+    "name": "MBC Bollywood",
+    "logo_url": "https://16k.xyz/images/c4871dcc812cb36d00187c8f7f02b5cf.png",
+    "category": "قنوات mbc",
+    "display_order": 249,
+    "description": "بث مباشر قناة الأفلام والمسلسلات الهندية MBC Bollywood",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=90162&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=320&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-drama",
+    "name": "MBC Drama",
+    "logo_url": "https://16k.xyz/images/720f99d37b3862693ae1ffd7c6f85e2f.png",
+    "category": "قنوات mbc",
+    "display_order": 250,
+    "description": "بث مباشر قناة المسلسلات العربية MBC Drama",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=215&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-iraq",
+    "name": "MBC Iraq",
+    "logo_url": "https://16k.xyz/images/43e581f4cf8c98c8f5e0dc3375f43f5d.png",
+    "category": "قنوات mbc",
+    "display_order": 251,
+    "description": "بث مباشر قناة MBC العراق والترفيه العراقي",
+    "streams": [
+      { "quality": "FHD+", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=42092&extension=ts" },
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89987&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=42093&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-fm",
+    "name": "MBC FM",
+    "logo_url": "https://16k.xyz/images/ee04e602f0e86472554ba4866b76e4eb.png",
+    "category": "قنوات mbc",
+    "display_order": 252,
+    "description": "بث مباشر راديو وقناة MBC FM الموسيقية",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89986&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-masr",
+    "name": "MBC Masr",
+    "logo_url": "https://16k.xyz/images/3c419e6ad9b392ed78e8266cdd4eaad1.png",
+    "category": "قنوات mbc",
+    "display_order": 253,
+    "description": "بث مباشر قناة MBC مصر الترفيهية",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89988&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-masr-2",
+    "name": "MBC Masr 2",
+    "logo_url": "https://16k.xyz/images/6b72a5c62b144e9378ca6af5123db493.png",
+    "category": "قنوات mbc",
+    "display_order": 254,
+    "description": "بث مباشر قناة MBC مصر 2",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89989&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-drama-plus",
+    "name": "MBC Drama Plus",
+    "logo_url": "https://16k.xyz/images/1c704277abe8a8e002729a4aacff74fc.png",
+    "category": "قنوات mbc",
+    "display_order": 255,
+    "description": "بث مباشر قناة MBC Drama Plus المشفرة سابقاً",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89991&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-masr-drama",
+    "name": "MBC Masr Drama",
+    "logo_url": "https://16k.xyz/images/720f99d37b3862693ae1ffd7c6f85e2f.png",
+    "category": "قنوات mbc",
+    "display_order": 256,
+    "description": "بث مباشر قناة MBC مصر دراما",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=90002&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=600&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mbc-persia",
+    "name": "MBC Persia",
+    "logo_url": "https://16k.xyz/images/bfc79da94ac18f83ac84364d43ad735f.png",
+    "category": "قنوات mbc",
+    "display_order": 257,
+    "description": "بث مباشر قناة MBC Persia المنوعة للأفلام والمسلسلات",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89990&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mix-one",
+    "name": "Mix One",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 258,
+    "description": "بث مباشر قناة Mix One الترفيهية للأفلام الأجنبية والمسلسلات",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112042&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mix-bel-araby",
+    "name": "Mix Bel Araby",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 259,
+    "description": "بث مباشر قناة مكس بالعربي للأفلام والمسلسلات العربية والتركية",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=112037&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mix-hollywood",
+    "name": "Mix Hollywood",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 260,
+    "description": "بث مباشر قناة مكس هوليوود للأفلام الأجنبية المترجمة",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=111959&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-wanasa",
+    "name": "Wanasah",
+    "logo_url": "https://16k.xyz/images/a6e7b99d32c222b58efd2c16eaa0fad0.png",
+    "category": "قنوات عربية",
+    "display_order": 261,
+    "description": "بث مباشر قناة وناسة للأطفال والأغاني الكرتونية",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=90007&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-lana-tv",
+    "name": "Lana TV",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 262,
+    "description": "بث مباشر قناة لنا السورية للمسلسلات والبرامج الفنية",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=101145&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-masriya",
+    "name": "Rotana Masriya",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 263,
+    "description": "بث مباشر قناة روتانا مصرية للأفلام والمسلسلات والبرامج المصرية والتوك شو",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89688&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-america",
+    "name": "Rotana America",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 264,
+    "description": "بث مباشر قناة روتانا أمريكا المخصصة للجاليات العربية في الخارج بمختلف البرامج والأفلام والمسلسلات",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=45549&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-aghani-aghani",
+    "name": "Aghani Raghav",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 265,
+    "description": "بث مباشر قناة أغاني أغاني الفنية اللبنانية للأغاني المنوعة والبرامج الفنية",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1586&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-arabica-tv",
+    "name": "Arabica TV",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 266,
+    "description": "بث مباشر قناة أرابيكا الموسيقية للأغاني العربية والشرقية والأغاني المصورة",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1784&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-mazzika",
+    "name": "Mazzika Music",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 267,
+    "description": "بث مباشر قناة مزيكا للأغاني الكلاسيكية والحديثة وتغطية الحفلات الموسيقية",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=19704&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-art-tarab",
+    "name": "ART Tarab",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 268,
+    "description": "بث مباشر قناة طرب الأصيل والزمن الجميل للحفلات الطربية النادرة لكبار المطربين العرب",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=45578&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-zee-aflam",
+    "name": "Zee Aflam",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 269,
+    "description": "بث مباشر قناة زي أفلام المخصصة لعرض الأفلام الهندية والبوليوودية المدبلجة والمترجمة إلى اللغة العربية",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=415&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-zee-alwan",
+    "name": "Zee Alwan",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 270,
+    "description": "بث مباشر قناة زي ألوان لمتابعة المسلسلات الهندية والتركية والبرامج الممتعة مدبلجة للعربية",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=413&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-b4u-plus",
+    "name": "B4U Plus",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 271,
+    "description": "بث مباشر قناة بي فور يو بلس الترفيهية المنوعة للأفلام والمسلسلات والأغاني الهندية المترجمة والمدبلجة",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1511&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-bidaya-tv",
+    "name": "Bidaya TV",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 272,
+    "description": "بث مباشر قناة بداية الفضائية السعودية المتخصصة في برامج الواقع وتلفزيون الواقع والبرامج الشبابية والاجتماعية",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=26846&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-thikrayat",
+    "name": "Thikrayat",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 273,
+    "description": "بث مباشر قناة ذكريات السعودية لعرض البرامج والمسلسلات القديمة والأرشيف الكلاسيكي للتلفزيون السعودي بروح الزمن الجميل",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=90006&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-al-jazeera",
+    "name": "Al Jazeera",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 274,
+    "description": "بث مباشر قناة الجزيرة الإخبارية لمتابعة الأخبار والتغطيات والبرامج الحوارية والسياسية والوثائقية بكافة الجودات المتاحة والروابط المتعددة",
+    "streams": [
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=6057&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=45586&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-general-new",
+    "name": "Rotana General",
+    "logo_url": "https://16k.xyz/images/3e72443222ad59d66964882476c2321e.png",
+    "category": "قنوات عربية",
+    "display_order": 275,
+    "description": "بث مباشر قناة روتانا العامة فائقة الجودة بكافة مصادر البث",
+    "streams": [
+      { "quality": "HD+", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/127683.ts" },
+      { "quality": "HD (سيرفر 2)", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=7026&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-m-new",
+    "name": "Rotana M",
+    "logo_url": "https://16k.xyz/images/e31057eff21bc2b193ea9d678734513e.png",
+    "category": "قنوات عربية",
+    "display_order": 276,
+    "description": "بث مباشر قناة روتانا كليب والموسيقى",
+    "streams": [
+      { "quality": "HD", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/127684.ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-aflam-new",
+    "name": "Rotana Aflam",
+    "logo_url": "https://16k.xyz/images/4ebc1089310942ee5bfe3b2d60c50e88.png",
+    "category": "قنوات عربية",
+    "display_order": 277,
+    "description": "بث مباشر قناة روتانا أفلام المتميزة بكافة مصادرها المتاحة",
+    "streams": [
+      { "quality": "HD+", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/127685.ts" },
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89690&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=385&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-cinema-ksa-new",
+    "name": "Rotana Cinema KSA",
+    "logo_url": "https://16k.xyz/images/f2bfb1b79a00ec9d49b47e60047ae13f.png",
+    "category": "قنوات عربية",
+    "display_order": 278,
+    "description": "بث مباشر قناة روتانا سينما النسخة السعودية بكافة الجودات والروابط",
+    "streams": [
+      { "quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/159996.ts" },
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89998&extension=ts" },
+      { "quality": "HD", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301189.ts" },
+      { "quality": "سيرفر 2: HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=386&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-cinema-egy-new",
+    "name": "Rotana Cinema Egypt",
+    "logo_url": "https://16k.xyz/images/563557dc5c670ce3a205d0be020ccf9f.png",
+    "category": "قنوات عربية",
+    "display_order": 279,
+    "description": "بث مباشر قناة روتانا سينما النسخة المصرية بجودات متعددة",
+    "streams": [
+      { "quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/152815.ts" },
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89997&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=1791&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-cinema-global",
+    "name": "Rotana Cinema Global",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 280,
+    "description": "بث مباشر قناة روتانا سينما بنسخها الترفيهية المتعددة",
+    "streams": [
+      { "quality": "FHD+", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89692&extension=ts" },
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89691&extension=ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=195439&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-drama-new",
+    "name": "Rotana Drama",
+    "logo_url": "https://16k.xyz/images/670019f18d8bff72b3eec2ac36780693.png",
+    "category": "قنوات عربية",
+    "display_order": 281,
+    "description": "بث مباشر قناة روتانا دراما للمسلسلات العربية بكافة الجودات",
+    "streams": [
+      { "quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301193.ts" },
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=90163&extension=ts" },
+      { "quality": "HD", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/44656.ts" },
+      { "quality": "سيرفر 2: HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=384&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-comedy-new",
+    "name": "Rotana Comedy",
+    "logo_url": "https://16k.xyz/images/8007125b5338f41306b2d74fa17f2996.png",
+    "category": "قنوات عربية",
+    "display_order": 282,
+    "description": "بث مباشر قناة روتانا كوميدي بكافة الجودات المتاحة",
+    "streams": [
+      { "quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301191.ts" },
+      { "quality": "HD", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/76690.ts" },
+      { "quality": "سيرفر 2: HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=90003&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-classic-new",
+    "name": "Rotana Classic",
+    "logo_url": "https://16k.xyz/images/e8619a6ff94be5900ab5647d00616190.png",
+    "category": "قنوات عربية",
+    "display_order": 283,
+    "description": "بث مباشر قناة روتانا كلاسيك لزمن الفن الجميل بكافة الجودات",
+    "streams": [
+      { "quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301192.ts" },
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89999&extension=ts" },
+      { "quality": "HD", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/76689.ts" },
+      { "quality": "سيرفر 2: HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=601&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-music-new",
+    "name": "Rotana Music",
+    "logo_url": "https://16k.xyz/images/929c96447a1574c526e3f40d7331ef78.png",
+    "category": "قنوات عربية",
+    "display_order": 284,
+    "description": "بث مباشر قناة روتانا الموسيقية بكافة الجودات والروابط",
+    "streams": [
+      { "quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301195.ts" },
+      { "quality": "HD", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/76693.ts" },
+      { "quality": "سيرفر 2: HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=89689&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-khalijia-new",
+    "name": "Rotana Khalijia",
+    "logo_url": "https://16k.xyz/images/dfb6c1fe8b565998cc4405cc4f59bb70.png",
+    "category": "قنوات عربية",
+    "display_order": 285,
+    "description": "بث مباشر قناة روتانا خليجية المنوعة بكافة الجودات",
+    "streams": [
+      { "quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301194.ts" },
+      { "quality": "FHD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=90001&extension=ts" },
+      { "quality": "HD", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/76692.ts" },
+      { "quality": "سيرفر 2: HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=598&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-clip-new",
+    "name": "Rotana Clip",
+    "logo_url": "https://16k.xyz/images/1b3f844c0eb520de36d8f6f821cf89f3.png",
+    "category": "قنوات عربية",
+    "display_order": 286,
+    "description": "بث مباشر قناة روتانا كليب للأغاني المصورة بكافة الجودات",
+    "streams": [
+      { "quality": "4K", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301196.ts" },
+      { "quality": "HD", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/187278.ts" },
+      { "quality": "سيرفر 2: HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=599&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-rotana-fm-new",
+    "name": "Rotana FM",
+    "logo_url": "http://myserveriptv.com:2082/images/rotanafmr.png",
+    "category": "قنوات عربية",
+    "display_order": 287,
+    "description": "بث مباشر إذاعة وقناة روتانا إف إم",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301674.ts" }
+    ]
+  },
+  {
+    "id": "ar-art-aflam-1-new",
+    "name": "ART Aflam 1",
+    "logo_url": "http://myserveriptv.com:2082/images/artaflamone.png",
+    "category": "قنوات عربية",
+    "display_order": 288,
+    "description": "بث مباشر قناة ART أفلام الأولى مع النسخة الأمريكية وسيرفرات البث المتنوعة",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39326.ts" },
+      { "quality": "USA", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/302003.ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=352&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-art-aflam-2-new",
+    "name": "ART Aflam 2",
+    "logo_url": "http://myserveriptv.com:2082/images/artaflamtwo.png",
+    "category": "قنوات عربية",
+    "display_order": 289,
+    "description": "بث مباشر قناة ART أفلام الثانية مع النسخة الأمريكية والروابط الإضافية",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39325.ts" },
+      { "quality": "USA", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301951.ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=353&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-art-cinema-new",
+    "name": "ART Cinema",
+    "logo_url": "http://myserveriptv.com:2082/images/artcinema.png",
+    "category": "قنوات عربية",
+    "display_order": 290,
+    "description": "بث مباشر قناة أفلام السينما الحصرية ART Cinema بكافة جوداتها وروابطها المتاحة",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39322.ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=42105&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-art-hekayat-new",
+    "name": "ART Hekayat",
+    "logo_url": "http://myserveriptv.com:2082/images/arthekayat.png",
+    "category": "قنوات عربية",
+    "display_order": 291,
+    "description": "بث مباشر قناة المسلسلات ART حكايات مع النسخة الأمريكية والروابط البديلة",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39323.ts" },
+      { "quality": "USA", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301948.ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=647&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-art-hekayat-2-new",
+    "name": "ART Hekayat 2",
+    "logo_url": "http://myserveriptv.com:2082/images/arthekayat2.png",
+    "category": "قنوات عربية",
+    "display_order": 292,
+    "description": "بث مباشر قناة ART حكايات الثانية مع النسخة الأمريكية ومختلف مصادر البث المتاحة",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39324.ts" },
+      { "quality": "USA", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301949.ts" },
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=648&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-art-general-new",
+    "name": "ART General",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 293,
+    "description": "بث مباشر قنوات ART الترفيهية العامة بمختلف السيرفرات",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=7024&extension=ts" },
+      { "quality": "سيرفر 2: HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=45582&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-art-movies-combo",
+    "name": "ART Movies General",
+    "logo_url": "",
+    "category": "قنوات عربية",
+    "display_order": 294,
+    "description": "بث مباشر قنوات باقة ART أفلام السينمائية المشفرة من راديو وتلفزيون العرب",
+    "streams": [
+      { "quality": "HD", "url": "http://qwertytv.net/play/live.php?mac=00:1a:79:d1:97:fd&stream=45579&extension=ts" }
+    ]
+  },
+  {
+    "id": "ar-art-syria",
+    "name": "ART Syria",
+    "logo_url": "http://myserveriptv.com:2082/images/2c5f64ab07ccb3e410aa97fc09687cc3.png",
+    "category": "قنوات عربية",
+    "display_order": 295,
+    "description": "بث مباشر باقة ART المخصصة للدراما السورية",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237405.ts" }
+    ]
+  },
+  {
+    "id": "ar-art-turki",
+    "name": "ART Turki",
+    "logo_url": "http://myserveriptv.com:2082/images/2c5f64ab07ccb3e410aa97fc09687cc3.png",
+    "category": "قنوات عربية",
+    "display_order": 296,
+    "description": "بث مباشر باقة ART للمسلسلات التركية المدبلجة",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/255296.ts" }
+    ]
+  },
+  {
+    "id": "ar-art-lebanon",
+    "name": "ART Lebanon",
+    "logo_url": "http://myserveriptv.com:2082/images/2c5f64ab07ccb3e410aa97fc09687cc3.png",
+    "category": "قنوات عربية",
+    "display_order": 297,
+    "description": "بث مباشر باقة ART اللبنانية المنوعة",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237406.ts" }
+    ]
+  },
+  {
+    "id": "ar-art-masr",
+    "name": "ART Masr",
+    "logo_url": "http://myserveriptv.com:2082/images/2c5f64ab07ccb3e410aa97fc09687cc3.png",
+    "category": "قنوات عربية",
+    "display_order": 298,
+    "description": "بث مباشر باقة ART مصر المنوعة الأولى",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237412.ts" }
+    ]
+  },
+  {
+    "id": "ar-art-masr-2",
+    "name": "ART Masr 2",
+    "logo_url": "http://myserveriptv.com:2082/images/2c5f64ab07ccb3e410aa97fc09687cc3.png",
+    "category": "قنوات عربية",
+    "display_order": 299,
+    "description": "بث مباشر باقة ART مصر المنوعة الثانية",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237411.ts" }
+    ]
+  },
+  {
+    "id": "ar-art-america-package",
+    "name": "ART America Package",
+    "logo_url": "http://myserveriptv.com:2082/images/2c5f64ab07ccb3e410aa97fc09687cc3.png",
+    "category": "قنوات عربية",
+    "display_order": 300,
+    "description": "بث مباشر باقة ART الموجهة لأمريكا الشمالية كندا والولايات المتحدة",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237409.ts" }
+    ]
+  },
+  {
+    "id": "ar-art-movies-package",
+    "name": "ART Movies Package",
+    "logo_url": "http://myserveriptv.com:2082/images/2c5f64ab07ccb3e410aa97fc09687cc3.png",
+    "category": "قنوات عربية",
+    "display_order": 301,
+    "description": "بث مباشر قنوات باقة ART أفلام السينمائية المنوعة السيرفر الرئيسي",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237408.ts" }
+    ]
+  },
+  {
+    "id": "ar-art-mixta",
+    "name": "ART Mixta",
+    "logo_url": "http://myserveriptv.com:2082/images/2c5f64ab07ccb3e410aa97fc09687cc3.png",
+    "category": "قنوات عربية",
+    "display_order": 302,
+    "description": "بث مباشر القناة المنوعة المشتركة باقة ART ميكستا",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237410.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-cafes",
+    "name": "Al Jazeera 360 مقاهي عتيقة",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 303,
+    "description": "بث مباشر برنامج مقاهي عتيقة - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300107.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-reflections",
+    "name": "Al Jazeera 360 تأملات",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 304,
+    "description": "بث مباشر برنامج تأملات - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300108.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-song-story",
+    "name": "Al Jazeera 360 حكاية أغنية",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 305,
+    "description": "بث مباشر برنامج حكاية أغنية - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300109.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-indonesia",
+    "name": "Al Jazeera 360 اندونيسيا واكتشاف المجهول",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 306,
+    "description": "بث مباشر وثائقي اندونيسيا واكتشاف المجهول - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300110.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-crusades",
+    "name": "Al Jazeera 360 الحروب الصليبية",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 307,
+    "description": "بث مباشر السلسلة الوثائقية الحروب الصليبية - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300111.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-authority-1",
+    "name": "Al Jazeera 360 فوق السلطة 1",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 308,
+    "description": "بث مباشر برنامج فوق السلطة النسخة الأولى - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300112.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-authority-2",
+    "name": "Al Jazeera 360 فوق السلطة 2",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 309,
+    "description": "بث مباشر برنامج فوق السلطة النسخة الثانية - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300113.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-networks",
+    "name": "Al Jazeera 360 شبكات",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 310,
+    "description": "بث مباشر برنامج شبكات الرقمي - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300114.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-comedy",
+    "name": "Al Jazeera 360 كوميديا",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 311,
+    "description": "بث مباشر نافذة البرامج الكوميدية والساخرة - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300115.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-witness-1",
+    "name": "Al Jazeera 360 شاهد على العصر 1",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 312,
+    "description": "بث مباشر برنامج شاهد على العصر الأرشيفي الجزء الأول - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300116.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-witness-2",
+    "name": "Al Jazeera 360 شاهد على العصر 2",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 313,
+    "description": "بث مباشر برنامج شاهد على العصر الأرشيفي الجزء الثاني - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300117.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-prophet",
+    "name": "Al Jazeera 360 النبي الإنسان",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 314,
+    "description": "بث مباشر السلسلة الدينية النبي الإنسان - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300118.ts" }
+    ]
+  },
+  {
+    "id": "ar-jazeera-360-aphorisms",
+    "name": "Al Jazeera 360 حكم وحكم",
+    "logo_url": "http://myserveriptv.com:2082/images/jazwstiin.png",
+    "category": "الجزيرة 360",
+    "display_order": 315,
+    "description": "بث مباشر برنامج حكم وحكم القصير والتربوي - منصة الجزيرة 360",
+    "streams": [
+      { "quality": "البث الرئيسي", "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300119.ts" }
+    ]
   }
 ]
+
+

@@ -8,10 +8,6 @@
     "description": "بث مباشر قناة A1 الجزائرية",
     "streams": [
       {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1255.ts"
-      },
-      {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/43602.ts"
       }
@@ -25,10 +21,6 @@
     "display_order": 2,
     "description": "بث مباشر قناة A2 الجزائرية",
     "streams": [
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/979.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/43602.ts"
@@ -44,10 +36,6 @@
     "description": "بث مباشر القناة الجزائرية الثالثة",
     "streams": [
       {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/981.ts"
-      },
-      {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14783.ts"
       }
@@ -62,14 +50,6 @@
     "description": "بث مباشر قناة الشروق العامة",
     "streams": [
       {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3891.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/983.ts"
-      },
-      {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/21219.ts"
       }
@@ -83,14 +63,6 @@
     "display_order": 5,
     "description": "بث مباشر قناة الشروق الإخبارية",
     "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/984.ts"
-      },
-      {
-        "quality": "SD / العادية",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3890.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/21220.ts"
@@ -107,10 +79,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1038.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14913.ts"
       }
     ]
@@ -123,10 +91,6 @@
     "display_order": 7,
     "description": "بث مباشر قناة الهداف الرياضية",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1264.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/21218.ts"
@@ -143,10 +107,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3898.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14821.ts"
       }
     ]
@@ -159,10 +119,6 @@
     "display_order": 9,
     "description": "بث مباشر قناة الجزائرية وان",
     "streams": [
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/262654.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14915.ts"
@@ -177,10 +133,6 @@
     "display_order": 10,
     "description": "بث مباشر قناة الجزائر الدولية الإخبارية",
     "streams": [
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249071.ts"
-      },
       {
         "quality": "4K",
         "url": "http://appluxera.com/live/94748049499/625256262633/361505.ts"
@@ -201,10 +153,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/1149.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14914.ts"
       }
     ]
@@ -217,10 +165,6 @@
     "display_order": 12,
     "description": "بث مباشر القناة الثامنة الذاكرة الجزائرية",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/247056.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/43599.ts"
@@ -237,10 +181,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249444.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14819.ts"
       }
     ]
@@ -253,10 +193,6 @@
     "display_order": 14,
     "description": "بث مباشر قناة سلام",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249962.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/112626.ts"
@@ -273,10 +209,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/249964.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/112627.ts"
       }
     ]
@@ -289,10 +221,6 @@
     "display_order": 16,
     "description": "بث مباشر قناة النهار الجديد",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/989.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14912.ts"
@@ -309,10 +237,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/2960.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14811.ts"
       }
     ]
@@ -325,10 +249,6 @@
     "display_order": 18,
     "description": "بث مباشر القناة الرابعة الجزائرية الناطقة بالأمازيغية",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/11529.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14784.ts"
@@ -345,10 +265,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3636.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/43604.ts"
       }
     ]
@@ -361,10 +277,6 @@
     "display_order": 20,
     "description": "بث مباشر القناة الخامسة الجزائرية للقرآن الكريم",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/11528.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14785.ts"
@@ -381,10 +293,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/3641.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/43605.ts"
       }
     ]
@@ -397,10 +305,6 @@
     "display_order": 22,
     "description": "بث مباشر القناة السابعة المعرفة الجزائرية",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/245572.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/43601.ts"
@@ -417,10 +321,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/72064.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14876.ts"
       }
     ]
@@ -433,10 +333,6 @@
     "display_order": 24,
     "description": "بث مباشر قناة الجزائر N1",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/194366.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14777.ts"
@@ -453,10 +349,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/250315.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14821.ts"
       }
     ]
@@ -469,10 +361,6 @@
     "display_order": 26,
     "description": "بث مباشر قناة الأطفال الجزائرية 4Kids",
     "streams": [
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/269711.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/43605.ts"
@@ -487,10 +375,6 @@
     "display_order": 27,
     "description": "بث مباشر قناة الحياة الجزائرية",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/197749.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/43603.ts"
@@ -518,12 +402,7 @@
     "category": "بي ان سبورت",
     "display_order": 29,
     "description": "بث مباشر قناة بي ان سبورت الإخبارية",
-    "streams": [
-      {
-        "quality": "HD 1080",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261621.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-global",
@@ -532,20 +411,7 @@
     "category": "بي ان سبورت",
     "display_order": 30,
     "description": "بث مباشر قناة بي ان سبورت العالمية",
-    "streams": [
-      {
-        "quality": "4K المفتوحة",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286327.ts"
-      },
-      {
-        "quality": "HD 1080",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261622.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/286328.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-sports-1",
@@ -555,22 +421,6 @@
     "display_order": 31,
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261623.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261646.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261663.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261683.ts"
-      },
       {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325793.ts"
@@ -594,22 +444,6 @@
     "description": "بث مباشر قناة بي ان سبورت 2",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261624.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261647.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261664.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261684.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325794.ts"
       },
@@ -631,22 +465,6 @@
     "display_order": 33,
     "description": "بث مباشر قناة بي ان سبورت 3",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261625.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261648.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261665.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261685.ts"
-      },
       {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325795.ts"
@@ -670,22 +488,6 @@
     "description": "بث مباشر قناة بي ان سبورت 4",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261626.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261649.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261666.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261686.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325796.ts"
       },
@@ -707,22 +509,6 @@
     "display_order": 35,
     "description": "بث مباشر قناة بي ان سبورت 5",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261627.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261650.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261667.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261687.ts"
-      },
       {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325797.ts"
@@ -746,22 +532,6 @@
     "description": "بث مباشر قناة بي ان سبورت 6",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261628.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261651.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261668.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261688.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325798.ts"
       },
@@ -783,22 +553,6 @@
     "display_order": 37,
     "description": "بث مباشر قناة بي ان سبورت 7",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261629.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261652.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261669.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261689.ts"
-      },
       {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325799.ts"
@@ -822,22 +576,6 @@
     "description": "بث مباشر قناة بي ان سبورت 8",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261630.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261653.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261670.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261690.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325800.ts"
       },
@@ -860,22 +598,6 @@
     "description": "بث مباشر قناة بي ان سبورت 9",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261631.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261654.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261671.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261691.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/325801.ts"
       },
@@ -896,48 +618,7 @@
     "category": "بي ان سبورت",
     "display_order": 40,
     "description": "بث مباشر قنوات بي ان اكسترا الإضافية",
-    "streams": [
-      {
-        "quality": "Xtra 1 4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261632.ts"
-      },
-      {
-        "quality": "Xtra 2 4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261633.ts"
-      },
-      {
-        "quality": "Xtra 3 4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261634.ts"
-      },
-      {
-        "quality": "Xtra 1 720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261655.ts"
-      },
-      {
-        "quality": "Xtra 2 720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261656.ts"
-      },
-      {
-        "quality": "Xtra 3 1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261657.ts"
-      },
-      {
-        "quality": "Xtra 3 720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261672.ts"
-      },
-      {
-        "quality": "Xtra 1 SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261692.ts"
-      },
-      {
-        "quality": "Xtra 2 SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261693.ts"
-      },
-      {
-        "quality": "Xtra 3 SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261694.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-nba",
@@ -946,16 +627,7 @@
     "category": "بي ان سبورت",
     "display_order": 41,
     "description": "قناة بي ان سبورت الخاصة بدوري كرة السلة الأمريكي للمحترفين",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261635.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261658.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-english-1",
@@ -964,24 +636,7 @@
     "category": "بي ان سبورت",
     "display_order": 42,
     "description": "beIN SPORTS English 1 Channel Live",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261636.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261659.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261673.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261695.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-english-2",
@@ -990,24 +645,7 @@
     "category": "بي ان سبورت",
     "display_order": 43,
     "description": "beIN SPORTS English 2 Channel Live",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261637.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261660.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261674.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261696.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-french-1",
@@ -1016,24 +654,7 @@
     "category": "بي ان سبورت",
     "display_order": 44,
     "description": "beIN SPORTS French 1 Channel Live",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261638.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261661.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261675.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261697.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-french-2",
@@ -1042,24 +663,7 @@
     "category": "بي ان سبورت",
     "display_order": 45,
     "description": "beIN SPORTS French 2 Channel Live",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261639.ts"
-      },
-      {
-        "quality": "1080 FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261662.ts"
-      },
-      {
-        "quality": "720 HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261676.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261698.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-afc",
@@ -1068,20 +672,7 @@
     "category": "بي ان سبورت",
     "display_order": 46,
     "description": "قناة بي ان سبورتس الخاصة ببطولات الاتحاد الآسيوي",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261640.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261677.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261699.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-afc-1",
@@ -1090,20 +681,7 @@
     "category": "بي ان سبورت",
     "display_order": 47,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 1",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261641.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261678.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261700.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-afc-2",
@@ -1112,20 +690,7 @@
     "category": "بي ان سبورت",
     "display_order": 48,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 2",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261642.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261679.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261701.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-afc-3",
@@ -1134,20 +699,7 @@
     "category": "بي ان سبورت",
     "display_order": 49,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 3",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261643.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261680.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261702.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-afc-4",
@@ -1156,20 +708,7 @@
     "category": "بي ان سبورت",
     "display_order": 50,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 4",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261644.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261681.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261703.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-afc-5",
@@ -1178,20 +717,7 @@
     "category": "بي ان سبورت",
     "display_order": 51,
     "description": "بث مباشر قناة بي ان سبورت الآسيوية 5",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261645.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261682.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/261704.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "bein-sports-max-1-ar",
@@ -1201,30 +727,6 @@
     "display_order": 52,
     "description": "بث مباشر قناة بي ان سبورت ماكس 1 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291494.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291500.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077113&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291506.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077107&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.ts"
-      },
       {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/460862.ts"
@@ -1248,30 +750,6 @@
     "description": "بث مباشر قناة بي ان سبورت ماكس 2 العربية بكافة الجودات",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077112&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077106&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/460865.ts"
       },
@@ -1294,34 +772,6 @@
     "description": "بث مباشر قناة بي ان سبورت ماكس 3 العربية بكافة الجودات",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296159.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291496.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291502.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077111&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291508.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077105&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291514.ts"
-      },
-      {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/460868.ts"
       },
@@ -1343,34 +793,6 @@
     "display_order": 55,
     "description": "بث مباشر قناة بي ان سبورت ماكس 4 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296160.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291497.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291503.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077110&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291509.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077104&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291515.ts"
-      },
       {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/460871.ts"
@@ -1405,34 +827,6 @@
     "display_order": 56,
     "description": "بث مباشر قناة بي ان سبورت ماكس 5 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296161.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291498.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291504.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077109&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291510.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077103&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291516.ts"
-      },
       {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/460874.ts"
@@ -1471,30 +865,6 @@
     "display_order": 57,
     "description": "بث مباشر قناة بي ان سبورت ماكس 6 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://092025.online:2086/live/775921709518/135552110567088d311a30d/296162.ts"
-      },
-      {
-        "quality": "FHD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291505.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077108&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: HD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291511.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://tv.trexiptv.com/play/live.php?mac=A0:BB:3E:01:65:1A&stream=2077102&extension=ts"
-      },
-      {
-        "quality": "سيرفر 2: SD",
-        "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.ts"
-      },
       {
         "quality": "HD",
         "url": "http://appluxera.com/live/94748049499/625256262633/460877.ts"
@@ -4191,12 +3561,7 @@
     "category": "قنوات روتانا",
     "display_order": 274,
     "description": "بث مباشر قناة روتانا العامة فائقة الجودة بكافة مصادر البث",
-    "streams": [
-      {
-        "quality": "HD+",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/127683.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-m-new",
@@ -4205,12 +3570,7 @@
     "category": "قنوات روتانا",
     "display_order": 275,
     "description": "بث مباشر قناة روتانا كليب والموسيقى",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/127684.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-aflam-new",
@@ -4219,12 +3579,7 @@
     "category": "قنوات روتانا",
     "display_order": 276,
     "description": "بث مباشر قناة روتانا أفلام المتميزة بكافة مصادرها المتاحة",
-    "streams": [
-      {
-        "quality": "HD+",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/127685.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-cinema-ksa-new",
@@ -4233,16 +3588,7 @@
     "category": "قنوات روتانا",
     "display_order": 277,
     "description": "بث مباشر قناة روتانا سينما النسخة السعودية بكافة الجودات والروابط",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/159996.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301189.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-cinema-egy-new",
@@ -4251,12 +3597,7 @@
     "category": "قنوات روتانا",
     "display_order": 278,
     "description": "بث مباشر قناة روتانا سينما النسخة المصرية بجودات متعددة",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/152815.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-cinema-global",
@@ -4274,16 +3615,7 @@
     "category": "قنوات روتانا",
     "display_order": 280,
     "description": "بث مباشر قناة روتانا دراما للمسلسلات العربية بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301193.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/44656.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-comedy-new",
@@ -4292,16 +3624,7 @@
     "category": "قنوات روتانا",
     "display_order": 281,
     "description": "بث مباشر قناة روتانا كوميدي بكافة الجودات المتاحة",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301191.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/76690.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-classic-new",
@@ -4310,16 +3633,7 @@
     "category": "قنوات روتانا",
     "display_order": 282,
     "description": "بث مباشر قناة روتانا كلاسيك لزمن الفن الجميل بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301192.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/76689.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-music-new",
@@ -4328,16 +3642,7 @@
     "category": "قنوات روتانا",
     "display_order": 283,
     "description": "بث مباشر قناة روتانا الموسيقية بكافة الجودات والروابط",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301195.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/76693.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-khalijia-new",
@@ -4346,16 +3651,7 @@
     "category": "قنوات روتانا",
     "display_order": 284,
     "description": "بث مباشر قناة روتانا خليجية المنوعة بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301194.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/76692.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-clip-new",
@@ -4364,16 +3660,7 @@
     "category": "قنوات روتانا",
     "display_order": 285,
     "description": "بث مباشر قناة روتانا كليب للأغاني المصورة بكافة الجودات",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301196.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/187278.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-rotana-fm-new",
@@ -4382,12 +3669,7 @@
     "category": "قنوات روتانا",
     "display_order": 286,
     "description": "بث مباشر إذاعة وقناة روتانا إف إم",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301674.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-aflam-1-new",
@@ -4396,16 +3678,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 287,
     "description": "بث مباشر قناة ART أفلام الأولى مع النسخة الأمريكية وسيرفرات البث المتنوعة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39326.ts"
-      },
-      {
-        "quality": "USA",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/302003.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-aflam-2-new",
@@ -4414,16 +3687,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 288,
     "description": "بث مباشر قناة ART أفلام الثانية مع النسخة الأمريكية والروابط الإضافية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39325.ts"
-      },
-      {
-        "quality": "USA",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301951.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-cinema-new",
@@ -4432,12 +3696,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 289,
     "description": "بث مباشر قناة أفلام السينما الحصرية ART Cinema بكافة جوداتها وروابطها المتاحة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39322.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-hekayat-new",
@@ -4446,16 +3705,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 290,
     "description": "بث مباشر قناة المسلسلات ART حكايات مع النسخة الأمريكية والروابط البديلة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39323.ts"
-      },
-      {
-        "quality": "USA",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301948.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-hekayat-2-new",
@@ -4464,16 +3714,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 291,
     "description": "بث مباشر قناة ART حكايات الثانية مع النسخة الأمريكية ومختلف مصادر البث المتاحة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/39324.ts"
-      },
-      {
-        "quality": "USA",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/301949.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-general-new",
@@ -4500,12 +3741,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 294,
     "description": "بث مباشر باقة ART المخصصة للدراما السورية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237405.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-turki",
@@ -4514,12 +3750,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 295,
     "description": "بث مباشر باقة ART للمسلسلات التركية المدبلجة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/255296.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-lebanon",
@@ -4528,12 +3759,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 296,
     "description": "بث مباشر باقة ART اللبنانية المنوعة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237406.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-masr",
@@ -4542,12 +3768,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 297,
     "description": "بث مباشر باقة ART مصر المنوعة الأولى",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237412.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-masr-2",
@@ -4556,12 +3777,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 298,
     "description": "بث مباشر باقة ART مصر المنوعة الثانية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237411.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-america-package",
@@ -4570,12 +3786,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 299,
     "description": "بث مباشر باقة ART الموجهة لأمريكا الشمالية كندا والولايات المتحدة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237409.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-movies-package",
@@ -4584,12 +3795,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 300,
     "description": "بث مباشر قنوات باقة ART أفلام السينمائية المنوعة السيرفر الرئيسي",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237408.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-art-mixta",
@@ -4598,12 +3804,7 @@
     "category": "قنوات إيه آر تي",
     "display_order": 301,
     "description": "بث مباشر القناة المنوعة المشتركة باقة ART ميكستا",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/237410.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-jazeera-360-cafes",
@@ -4612,12 +3813,7 @@
     "category": "الجزيرة 360",
     "display_order": 302,
     "description": "بث مباشر برنامج مقاهي عتيقة - منصة الجزيرة 360",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300107.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-jazeera-360-reflections",
@@ -4627,10 +3823,6 @@
     "display_order": 303,
     "description": "بث مباشر برنامج تأملات - منصة الجزيرة 360",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300108.ts"
-      },
       {
         "quality": "4K",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433160"
@@ -4644,12 +3836,7 @@
     "category": "الجزيرة 360",
     "display_order": 304,
     "description": "بث مباشر برنامج حكاية أغنية - منصة الجزيرة 360",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300109.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-jazeera-360-indonesia",
@@ -4659,10 +3846,6 @@
     "display_order": 305,
     "description": "بث مباشر وثائقي اندونيسيا واكتشاف المجهول - منصة الجزيرة 360",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300110.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433162"
@@ -4679,10 +3862,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300111.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433163"
       }
     ]
@@ -4695,10 +3874,6 @@
     "display_order": 307,
     "description": "بث مباشر برنامج فوق السلطة النسخة الأولى - منصة الجزيرة 360",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300112.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433165"
@@ -4715,10 +3890,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300113.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433164"
       }
     ]
@@ -4731,10 +3902,6 @@
     "display_order": 309,
     "description": "بث مباشر برنامج شبكات الرقمي - منصة الجزيرة 360",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300114.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433166"
@@ -4751,10 +3918,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300115.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433167"
       }
     ]
@@ -4767,10 +3930,6 @@
     "display_order": 311,
     "description": "بث مباشر برنامج شاهد على العصر الأرشيفي الجزء الأول - منصة الجزيرة 360",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300116.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433169"
@@ -4787,10 +3946,6 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300117.ts"
-      },
-      {
-        "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433168"
       }
     ]
@@ -4802,12 +3957,7 @@
     "category": "الجزيرة 360",
     "display_order": 313,
     "description": "بث مباشر السلسلة الدينية النبي الإنسان - منصة الجزيرة 360",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300118.ts"
-      }
-    ]
+    "streams": []
   },
   {
     "id": "ar-jazeera-360-aphorisms",
@@ -4817,10 +3967,6 @@
     "display_order": 314,
     "description": "بث مباشر برنامج حكم وحكم القصير والتربوي - منصة الجزيرة 360",
     "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://16k.xyz:2082/live/Ammarhajwess/gYEX7BBnrLuW/300119.ts"
-      },
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com:8080/94748049499/625256262633/433171"

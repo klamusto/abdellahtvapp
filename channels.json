@@ -9,7 +9,7 @@
     "streams": [
       {
         "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/14878.ts"
+        "url": "http://appluxera.com/live/94748049499/625256262633/43602.ts"
       }
     ]
   },
@@ -23,7 +23,7 @@
     "streams": [
       {
         "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/14784.ts"
+        "url": "http://appluxera.com/live/94748049499/625256262633/14783.ts"
       }
     ]
   },
@@ -37,7 +37,7 @@
     "streams": [
       {
         "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/14783.ts"
+        "url": "http://appluxera.com/live/94748049499/625256262633/43604.ts"
       }
     ]
   },
@@ -121,7 +121,7 @@
     "streams": [
       {
         "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/14777.ts"
+        "url": "http://appluxera.com/live/94748049499/625256262633/14915.ts"
       }
     ]
   },
@@ -135,7 +135,7 @@
     "streams": [
       {
         "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/66413.ts"
+        "url": "http://appluxera.com/live/94748049499/625256262633/43603.ts"
       }
     ]
   },
@@ -331,52 +331,53 @@
     "streams": [
       {
         "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/43602.ts"
+        "url": "http://appluxera.com/live/94748049499/625256262633/14777.ts"
       }
     ]
   },
   {
-    "id": "dz-eliktisadia-el-oula",
-    "name": "Eliktisadia El Oula",
-    "logo_url": "https://i.ibb.co/1JtMXWtx/33345-removebg-preview.png",
+    "id": "dz-rasd-tv-new",
+    "name": "DZ.RASD TV Algeria",
+    "logo_url": "http://163.172.39.182:80/logo/countryies/dz.png",
     "category": "الجزائر",
     "display_order": 25,
-    "description": "بث مباشر القناة الاقتصادية الأولى",
+    "description": "قناة جزائرية جديدة - بث مباشر DZ.RASD TV",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://appluxera.com/live/94748049499/625256262633/66413.ts"
+      }
+    ]
+  },
+  {
+    "id": "dz-el-fadjer-drama-new",
+    "name": "DZ.El Fadjer Drama Dz",
+    "logo_url": "http://163.172.39.182:80/logo/countryies/dz.png",
+    "category": "الجزائر",
+    "display_order": 26,
+    "description": "قناة جزائرية جديدة - بث مباشر الفجر دراما",
+    "streams": [
+      {
+        "quality": "البث الرئيسي",
+        "url": "http://appluxera.com/live/94748049499/625256262633/14876.ts"
+      }
+    ]
+  },
+  {
+    "id": "dz-beur-tv-new",
+    "name": "DZ.BEUR TV",
+    "logo_url": "http://163.172.39.182:80/logo/countryies/dz.png",
+    "category": "الجزائر",
+    "display_order": 27,
+    "description": "قناة جزائرية جديدة - بث مباشر بيور تيفي",
     "streams": [
       {
         "quality": "البث الرئيسي",
         "url": "http://appluxera.com/live/94748049499/625256262633/14811.ts"
       }
     ]
-  },
-  {
-    "id": "dz-algerian-4kids",
-    "name": "Algerian 4Kids",
-    "logo_url": "https://i.ibb.co/YF1nw112/33347-removebg-preview.png",
-    "category": "الجزائر",
-    "display_order": 26,
-    "description": "بث مباشر قناة الأطفال الجزائرية 4Kids",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/14915.ts"
-      }
-    ]
-  },
-  {
-    "id": "dz-al-hayat-tv",
-    "name": "Al Hayat TV",
-    "logo_url": "https://16k.xyz/images/8e7d5df06fcc6b1054a8a5647594d574.png",
-    "category": "الجزائر",
-    "display_order": 27,
-    "description": "بث مباشر قناة الحياة الجزائرية",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/43603.ts"
-      }
-    ]
-  },
+  }
+
   {
     "id": "bein-4k",
     "name": "beIN 4K",
@@ -385,18 +386,7 @@
     "display_order": 28,
     "description": "بث مباشر قناة بي ان سبورت 4K فائقة الجودة",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318197.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391094.ts"
-      },
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/22186.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318197.ts" }
     ]
   },
   {
@@ -407,14 +397,8 @@
     "display_order": 29,
     "description": "بث مباشر قناة بي ان سبورت الإخبارية",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318230.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/443146.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318230.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/443146.ts" }
     ]
   },
   {
@@ -425,10 +409,8 @@
     "display_order": 30,
     "description": "بث مباشر قناة بي ان سبورت العالمية",
     "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/442220.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/22186.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/442220.ts" }
     ]
   },
   {
@@ -439,30 +421,10 @@
     "display_order": 31,
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318197.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391094.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325793.ts"
-      },
-      {
-        "quality": "English HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318217.ts"
-      },
-      {
-        "quality": "French HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319437.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325803.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318197.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325793.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391094.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325803.ts" }
     ]
   },
   {
@@ -473,30 +435,10 @@
     "display_order": 32,
     "description": "بث مباشر قناة بي ان سبورت 2",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318198.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391095.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325794.ts"
-      },
-      {
-        "quality": "English HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318218.ts"
-      },
-      {
-        "quality": "French HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319438.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325804.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318198.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325794.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391095.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325804.ts" }
     ]
   },
   {
@@ -507,22 +449,10 @@
     "display_order": 33,
     "description": "بث مباشر قناة بي ان سبورت 3",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318199.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391096.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325795.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325805.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318199.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325795.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391096.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325805.ts" }
     ]
   },
   {
@@ -533,22 +463,10 @@
     "display_order": 34,
     "description": "بث مباشر قناة بي ان سبورت 4",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440580.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391097.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325796.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325806.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/440580.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325796.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391097.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325806.ts" }
     ]
   },
   {
@@ -559,22 +477,10 @@
     "display_order": 35,
     "description": "بث مباشر قناة بي ان سبورت 5",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318201.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391098.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325797.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325807.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318201.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325797.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391098.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325807.ts" }
     ]
   },
   {
@@ -585,22 +491,10 @@
     "display_order": 36,
     "description": "بث مباشر قناة بي ان سبورت 6",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318202.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391099.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325798.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325808.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318202.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325798.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391099.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325808.ts" }
     ]
   },
   {
@@ -611,22 +505,10 @@
     "display_order": 37,
     "description": "بث مباشر قناة بي ان سبورت 7",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318203.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391100.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325799.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325809.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318203.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325799.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391100.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325809.ts" }
     ]
   },
   {
@@ -637,22 +519,10 @@
     "display_order": 38,
     "description": "بث مباشر قناة بي ان سبورت 8",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318204.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391101.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325800.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325810.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318204.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325800.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391101.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325810.ts" }
     ]
   },
   {
@@ -663,22 +533,10 @@
     "display_order": 39,
     "description": "بث مباشر قناة بي ان سبورت 9",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318205.ts"
-      },
-      {
-        "quality": "4K H265",
-        "url": "http://appluxera.com/live/94748049499/625256262633/391102.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325801.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325811.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/318205.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/325801.ts" },
+      { "quality": "HEVC", "url": "http://appluxera.com/live/94748049499/625256262633/391102.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/325811.ts" }
     ]
   },
   {
@@ -689,114 +547,33 @@
     "display_order": 40,
     "description": "بث مباشر قنوات بي ان اكسترا الإضافية",
     "streams": [
-      {
-        "quality": "Xtra 1 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325790.ts"
-      },
-      {
-        "quality": "Xtra 2 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319487.ts"
-      },
-      {
-        "quality": "Xtra 3 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319488.ts"
-      },
-      {
-        "quality": "Xtra 4 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440569.ts"
-      },
-      {
-        "quality": "Xtra 5 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440570.ts"
-      },
-      {
-        "quality": "Xtra 6 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440571.ts"
-      },
-      {
-        "quality": "Xtra 7 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447243.ts"
-      },
-      {
-        "quality": "Xtra 8 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447244.ts"
-      },
-      {
-        "quality": "Xtra 9 4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447245.ts"
-      },
-      {
-        "quality": "Xtra 1 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325802.ts"
-      },
-      {
-        "quality": "Xtra 2 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319435.ts"
-      },
-      {
-        "quality": "Xtra 3 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319436.ts"
-      },
-      {
-        "quality": "Xtra 4 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440572.ts"
-      },
-      {
-        "quality": "Xtra 5 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440573.ts"
-      },
-      {
-        "quality": "Xtra 6 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440574.ts"
-      },
-      {
-        "quality": "Xtra 7 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447246.ts"
-      },
-      {
-        "quality": "Xtra 8 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447247.ts"
-      },
-      {
-        "quality": "Xtra 9 HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447248.ts"
-      },
-      {
-        "quality": "Xtra 1 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/325812.ts"
-      },
-      {
-        "quality": "Xtra 2 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319423.ts"
-      },
-      {
-        "quality": "Xtra 3 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319424.ts"
-      },
-      {
-        "quality": "Xtra 4 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440575.ts"
-      },
-      {
-        "quality": "Xtra 5 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440576.ts"
-      },
-      {
-        "quality": "Xtra 6 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/440577.ts"
-      },
-      {
-        "quality": "Xtra 7 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447249.ts"
-      },
-      {
-        "quality": "Xtra 8 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447250.ts"
-      },
-      {
-        "quality": "Xtra 9 SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/447251.ts"
-      }
+      { "quality": "Xtra 1 4K", "url": "http://appluxera.com/live/94748049499/625256262633/325790.ts" },
+      { "quality": "Xtra 2 4K", "url": "http://appluxera.com/live/94748049499/625256262633/319487.ts" },
+      { "quality": "Xtra 3 4K", "url": "http://appluxera.com/live/94748049499/625256262633/319488.ts" },
+      { "quality": "Xtra 4 4K", "url": "http://appluxera.com/live/94748049499/625256262633/440569.ts" },
+      { "quality": "Xtra 5 4K", "url": "http://appluxera.com/live/94748049499/625256262633/440570.ts" },
+      { "quality": "Xtra 6 4K", "url": "http://appluxera.com/live/94748049499/625256262633/440571.ts" },
+      { "quality": "Xtra 7 4K", "url": "http://appluxera.com/live/94748049499/625256262633/447243.ts" },
+      { "quality": "Xtra 8 4K", "url": "http://appluxera.com/live/94748049499/625256262633/447244.ts" },
+      { "quality": "Xtra 9 4K", "url": "http://appluxera.com/live/94748049499/625256262633/447245.ts" },
+      { "quality": "Xtra 1 HD", "url": "http://appluxera.com/live/94748049499/625256262633/325802.ts" },
+      { "quality": "Xtra 2 HD", "url": "http://appluxera.com/live/94748049499/625256262633/319435.ts" },
+      { "quality": "Xtra 3 HD", "url": "http://appluxera.com/live/94748049499/625256262633/319436.ts" },
+      { "quality": "Xtra 4 HD", "url": "http://appluxera.com/live/94748049499/625256262633/440572.ts" },
+      { "quality": "Xtra 5 HD", "url": "http://appluxera.com/live/94748049499/625256262633/440573.ts" },
+      { "quality": "Xtra 6 HD", "url": "http://appluxera.com/live/94748049499/625256262633/440574.ts" },
+      { "quality": "Xtra 7 HD", "url": "http://appluxera.com/live/94748049499/625256262633/447246.ts" },
+      { "quality": "Xtra 8 HD", "url": "http://appluxera.com/live/94748049499/625256262633/447247.ts" },
+      { "quality": "Xtra 9 HD", "url": "http://appluxera.com/live/94748049499/625256262633/447248.ts" },
+      { "quality": "Xtra 1 SD", "url": "http://appluxera.com/live/94748049499/625256262633/325812.ts" },
+      { "quality": "Xtra 2 SD", "url": "http://appluxera.com/live/94748049499/625256262633/319423.ts" },
+      { "quality": "Xtra 3 SD", "url": "http://appluxera.com/live/94748049499/625256262633/319424.ts" },
+      { "quality": "Xtra 4 SD", "url": "http://appluxera.com/live/94748049499/625256262633/440575.ts" },
+      { "quality": "Xtra 5 SD", "url": "http://appluxera.com/live/94748049499/625256262633/440576.ts" },
+      { "quality": "Xtra 6 SD", "url": "http://appluxera.com/live/94748049499/625256262633/440577.ts" },
+      { "quality": "Xtra 7 SD", "url": "http://appluxera.com/live/94748049499/625256262633/447249.ts" },
+      { "quality": "Xtra 8 SD", "url": "http://appluxera.com/live/94748049499/625256262633/447250.ts" },
+      { "quality": "Xtra 9 SD", "url": "http://appluxera.com/live/94748049499/625256262633/447251.ts" }
     ]
   },
   {
@@ -807,14 +584,8 @@
     "display_order": 41,
     "description": "قناة بي ان سبورت الخاصة بدوري كرة السلة الأمريكي للمحترفين",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319499.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318219.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/319499.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/318219.ts" }
     ]
   },
   {
@@ -825,18 +596,9 @@
     "display_order": 42,
     "description": "beIN SPORTS English 1 Channel Live",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319495.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318217.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319425.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/319495.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/318217.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/319425.ts" }
     ]
   },
   {
@@ -847,18 +609,9 @@
     "display_order": 43,
     "description": "beIN SPORTS English 2 Channel Live",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319496.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/318218.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319426.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/319496.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/318218.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/319426.ts" }
     ]
   },
   {
@@ -869,18 +622,9 @@
     "display_order": 44,
     "description": "beIN SPORTS French 1 Channel Live",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319497.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319437.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319427.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/319497.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/319437.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/319427.ts" }
     ]
   },
   {
@@ -891,20 +635,15 @@
     "display_order": 45,
     "description": "beIN SPORTS French 2 Channel Live",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319498.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319438.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/319428.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/319498.ts" },
+      { "quality": "FHD", "url": "http://appluxera.com/live/94748049499/625256262633/319438.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/319428.ts" }
     ]
-  },
+  }
+
+
+
+
   {
     "id": "bein-sports-max-1-ar",
     "name": "beIN SPORTS MAX 1 AR",
@@ -913,18 +652,9 @@
     "display_order": 52,
     "description": "بث مباشر قناة بي ان سبورت ماكس 1 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460861.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460862.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460863.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/460861.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/460862.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/460863.ts" }
     ]
   },
   {
@@ -935,18 +665,9 @@
     "display_order": 53,
     "description": "بث مباشر قناة بي ان سبورت ماكس 2 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460864.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460865.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460866.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/460864.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/460865.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/460866.ts" }
     ]
   },
   {
@@ -957,18 +678,9 @@
     "display_order": 54,
     "description": "بث مباشر قناة بي ان سبورت ماكس 3 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460867.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460868.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460869.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/460867.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/460868.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/460869.ts" }
     ]
   },
   {
@@ -977,20 +689,11 @@
     "logo_url": "http://myserveriptv.com:2082/images/beinmaxnew.png",
     "category": "بي ان ماكس عربية",
     "display_order": 55,
-    "description": "بث مباشر قناة بي ان سبورت ماكس 4 العربية بكافة الجودات",
+    "description": "بث مباشر قناة بي ان ipورت ماكس 4 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460870.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460871.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460872.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/460870.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/460871.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/460872.ts" }
     ]
   },
   {
@@ -1001,18 +704,9 @@
     "display_order": 56,
     "description": "بث مباشر قناة بي ان سبورت ماكس 5 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460873.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460874.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460875.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/460873.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/460874.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/460875.ts" }
     ]
   },
   {
@@ -1023,2428 +717,208 @@
     "display_order": 57,
     "description": "بث مباشر قناة بي ان سبورت ماكس 6 العربية بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460876.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460877.ts"
-      },
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/460878.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/460876.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/460877.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/460878.ts" }
     ]
   },
+  {
+    "id": "tod-sports-1",
+    "name": "TOD Sports 1",
+    "logo_url": "https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 58,
+    "description": "بث مباشر قناة TOD Sports 1",
+    "streams": [
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/361621.ts" }
+    ]
+  },
+  {
+    "id": "tod-sports-2",
+    "name": "TOD Sports 2",
+    "logo_url": "https://i.ibb.co/MxTnCSk1/34367-removebg-preview.png",
+    "category": "قنوات TOD الرياضية",
+    "display_order": 59,
+    "description": "بث مباشر قناة TOD Sports 2",
+    "streams": [
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/361621.ts" }
+    ]
+  }
 
   {
-    "id": "fr-tf1",
-    "name": "TF1",
-    "logo_url": "http://myserveriptv.com:2082/images/0c2e73b5aab85d23ed00be750988f4f5.png",
-    "category": "فرنسا",
-    "display_order": 84,
-    "description": "بث مباشر قناة TF1 الفرنسية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361507.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361508.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361426.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-france2",
-    "name": "France 2",
-    "logo_url": "https://16k.xyz/images/36b0abdb55a20f7ae1907aefd8b4ba5b.png",
-    "category": "فرنسا",
-    "display_order": 85,
-    "description": "بث مباشر قناة France 2 الفرنسية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361497.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361498.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361430.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-france3",
-    "name": "France 3",
-    "logo_url": "https://16k.xyz/images/d2b77241d64725aeffb424231e80365a.png",
-    "category": "فرنسا",
-    "display_order": 86,
-    "description": "بث مباشر قناة France 3 الفرنسية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361499.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361500.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361431.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-france4",
-    "name": "France 4",
-    "logo_url": "https://16k.xyz/images/06a02b020139bb6ff4f259ce6974c7c5.png",
-    "category": "فرنسا",
-    "display_order": 87,
-    "description": "بث مباشر قناة France 4 الفرنسية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361501.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361502.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361432.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-france5",
-    "name": "France 5",
-    "logo_url": "https://16k.xyz/images/d46108ed4c58ab9951f2bd7b71467d77.png",
-    "category": "فرنسا",
-    "display_order": 88,
-    "description": "بث مباشر قناة France 5 الفرنسية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361503.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361504.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361433.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-m6",
-    "name": "M6",
-    "logo_url": "http://myserveriptv.com:2082/images/558b56b29c71bdda904c7b8691255c00.png",
-    "category": "فرنسا",
-    "display_order": 89,
-    "description": "بث مباشر قناة M6 الفرنسية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361511.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361512.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361462.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-arte",
-    "name": "ARTE",
-    "logo_url": "https://photo-tmdb.com/stalker_portal/misc/logos/320/6348.jpg?73916",
-    "category": "فرنسا",
-    "display_order": 90,
-    "description": "بث مباشر قناة ARTE الفرنسية الألمانية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361509.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361510.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361459.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-tmc",
-    "name": "TMC",
-    "logo_url": "http://myserveriptv.com:2082/images/63e80e368cd5a091db39d26ae9878937.png",
-    "category": "فرنسا",
-    "display_order": 91,
-    "description": "بث مباشر قناة TMC الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361519.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361471.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-w9",
-    "name": "W9",
-    "logo_url": "http://myserveriptv.com:2082/images/36a7d02506003d39873ef6efcc5454a3.png",
-    "category": "فرنسا",
-    "display_order": 92,
-    "description": "بث مباشر قناة W9 الفرنسية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361515.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361516.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361429.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-tfx",
-    "name": "TFX",
-    "logo_url": "http://myserveriptv.com:2082/images/98732efa4278080ec3f48ff90b463f91.png",
-    "category": "فرنسا",
-    "display_order": 93,
-    "description": "بث مباشر قناة TFX الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361530.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361428.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-6ter",
-    "name": "6ter",
-    "logo_url": "https://16k.xyz/images/146bf6737cf5b13af17c22bd44e6c39f.png",
-    "category": "فرنسا",
-    "display_order": 94,
-    "description": "بث مباشر قناة 6ter الفرنسية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361513.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361514.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361456.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-cstar",
-    "name": "CStar",
-    "logo_url": "https://16k.xyz/images/cstar.png",
-    "category": "فرنسا",
-    "display_order": 96,
-    "description": "بث مباشر قناة CStar الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361576.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361461.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-tf1-series-films",
-    "name": "TF1 Séries Films",
-    "logo_url": "https://16k.xyz/images/d837fabcdf3aaf07844d2db5b56f2953.png",
-    "category": "فرنسا",
-    "display_order": 98,
-    "description": "بث مباشر قناة TF1 Séries Films الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361529.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361427.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-rmc-story",
-    "name": "RMC Story",
-    "logo_url": "https://16k.xyz/images/rmcstory.png",
-    "category": "فرنسا",
-    "display_order": 99,
-    "description": "بث مباشر قناة RMC Story الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361546.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-paris-premiere",
-    "name": "Paris Première",
-    "logo_url": "https://16k.xyz/images/fbd541cbf3bb763c1df8c1fa48d359f9.png",
-    "category": "فرنسا",
-    "display_order": 101,
-    "description": "بث مباشر قناة Paris Première الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361556.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-teva",
-    "name": "Teva",
-    "logo_url": "https://16k.xyz/images/554290bd587de6f9eba5823f978d7590.png",
-    "category": "فرنسا",
-    "display_order": 102,
-    "description": "بث مباشر قناة Teva الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361528.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-ab1",
-    "name": "AB1",
-    "logo_url": "https://16k.xyz/images/f47e6abfe8d9255360e43b6b7c6d8799.png",
-    "category": "فرنسا",
-    "display_order": 103,
-    "description": "بث مباشر قناة AB1 الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361569.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-syfy",
-    "name": "SyFy",
-    "logo_url": "http://myserveriptv.com:2082/images/23f7adcffda04234527b4461310e401b.png",
-    "category": "فرنسا",
-    "display_order": 105,
-    "description": "بث مباشر قناة SyFy الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361523.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-lcp",
-    "name": "LCP",
-    "logo_url": "https://16k.xyz/images/c391252201088713191c20aa28f688f7.png",
-    "category": "فرنسا",
-    "display_order": 114,
-    "description": "بث مباشر قناة LCP الفرنسية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361521.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-tv5-monde",
-    "name": "TV5 Monde",
-    "logo_url": "http://myserveriptv.com:2082/images/8cf33c5a40cbfb85a491a2a82f75fce7.png",
-    "category": "فرنسا",
-    "display_order": 117,
-    "description": "بث مباشر قناة TV5 Monde",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361527.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-bfm-tv",
-    "name": "BFM TV",
-    "logo_url": "https://16k.xyz/images/00226b65e3eb7b08efec3891052a772f.png",
-    "category": "فرنسا أخبار",
-    "display_order": 118,
-    "description": "بث مباشر قناة BFM TV الإخبارية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361567.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-cnews",
-    "name": "CNews",
-    "logo_url": "https://16k.xyz/images/db96c8ed9285fc502923cd926654101a.png",
-    "category": "فرنسا أخبار",
-    "display_order": 121,
-    "description": "بث مباشر قناة CNews الإخبارية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361520.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-lci",
-    "name": "LCI",
-    "logo_url": "https://16k.xyz/images/4a2ef0c54d57bec14ba0f761dbc9b86c.png",
-    "category": "فرنسا أخبار",
-    "display_order": 123,
-    "description": "بث مباشر قناة LCI الإخبارية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361572.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-france-info",
-    "name": "France Info",
-    "logo_url": "http://myserveriptv.com:2082/images/b88a4bc6161deae9941ae752ac02ecc7.png",
-    "category": "فرنسا أخبار",
-    "display_order": 124,
-    "description": "بث مباشر قناة France Info",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361526.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-france24",
-    "name": "France 24",
-    "logo_url": "http://myserveriptv.com:2082/images/0edc77db7481ef238970dd7f9ee52d56.png",
-    "category": "فرنسا أخبار",
-    "display_order": 125,
-    "description": "بث مباشر قناة France 24 الدولية",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361505.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361506.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-canal-plus",
-    "name": "Canal+",
-    "logo_url": "https://16k.xyz/images/724369d15dd21fd8a6212bc904115665.png",
-    "category": "فرنسا سينما",
-    "display_order": 170,
-    "description": "بث مباشر قناة Canal+",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361579.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361580.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361439.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-canal-plus-cinema",
-    "name": "Canal+ Cinéma",
-    "logo_url": "https://16k.xyz/images/2d9c48881dc73f9cd7aaa9e7b6dbd5d3.png",
-    "category": "فرنسا سينما",
-    "display_order": 171,
-    "description": "بث مباشر قناة Canal+ Cinéma",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361581.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361582.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361434.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-cine-classic",
-    "name": "Ciné+ Classic",
-    "logo_url": "http://myserveriptv.com:2082/images/8a846ef64c275f19fa24ae75c210efd9.png",
-    "category": "فرنسا سينما",
-    "display_order": 175,
-    "description": "بث مباشر قناة Ciné+ Classic",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361595.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361596.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361447.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-cine-emotion",
-    "name": "Ciné+ Émotion",
-    "logo_url": "https://16k.xyz/images/9c69f157f0298145792193232900809b.png",
-    "category": "فرنسا سينما",
-    "display_order": 176,
-    "description": "بث مباشر قناة Ciné+ Émotion",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361597.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361598.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361449.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-cine-family",
-    "name": "Ciné+ Famiz",
-    "logo_url": "https://16k.xyz/images/a483ffce7870bfe4752c935f99149937.png",
-    "category": "فرنسا سينما",
-    "display_order": 177,
-    "description": "بث مباشر قناة Ciné+ Famiz",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361591.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361592.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361450.ts"
-      }
-    ]
-  },
-  {
-    "id": "fr-polar-plus",
-    "name": "Polar+",
-    "logo_url": "https://16k.xyz/images/polarplus.png",
-    "category": "فرنسا سينما",
-    "display_order": 181,
-    "description": "بث مباشر قناة Polar+",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361599.ts"
-      },
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361600.ts"
-      },
-      {
-        "quality": "HEVC",
-        "url": "http://appluxera.com/live/94748049499/625256262633/361468.ts"
-      }
-    ]
-  },
-   
-  {
-    "id": "ar-mbc-1-4k",
-    "name": "MBC 1 4K",
-    "logo_url": "https://16k.xyz/images/feae60e5de509194297db9d3900c0fa7.png",
-    "category": "قنوات mbc",
-    "display_order": 243,
-    "description": "بث مباشر قناة MBC 1 بجودة 4K فائقة",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/45165.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-1-hd",
-    "name": "MBC 1 HD",
-    "logo_url": "https://16k.xyz/images/feae60e5de509194297db9d3900c0fa7.png",
-    "category": "قنوات mbc",
-    "display_order": 244,
-    "description": "بث مباشر قناة MBC 1 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15152.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-2-4k",
-    "name": "MBC 2 4K",
-    "logo_url": "https://16k.xyz/images/9e9689f21bcd959fe90c1e0032d86459.png",
-    "category": "قنوات mbc",
-    "display_order": 245,
-    "description": "بث مباشر قناة أفلام MBC 2 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/45168.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-2-hd",
-    "name": "MBC 2 HD",
-    "logo_url": "https://16k.xyz/images/9e9689f21bcd959fe90c1e0032d86459.png",
-    "category": "قنوات mbc",
-    "display_order": 246,
-    "description": "بث مباشر قناة أفلام MBC 2 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15151.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-3-4k",
-    "name": "MBC 3 4K",
-    "logo_url": "https://16k.xyz/images/980c29ade4c6df73b4c98fa113a00d3f.png",
-    "category": "قنوات mbc",
-    "display_order": 247,
-    "description": "بث مباشر قناة أطفال MBC 3 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/45143.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-3-hd",
-    "name": "MBC 3 HD",
-    "logo_url": "https://16k.xyz/images/980c29ade4c6df73b4c98fa113a00d3f.png",
-    "category": "قنوات mbc",
-    "display_order": 248,
-    "description": "بث مباشر قناة أطفال MBC 3 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15150.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-4-4k",
-    "name": "MBC 4 4K",
-    "logo_url": "https://16k.xyz/images/a3ced73e722e89d6caa9aa1e78ef0719.png",
-    "category": "قنوات mbc",
-    "display_order": 249,
-    "description": "بث مباشر قناة MBC 4 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/45164.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-4-hd",
-    "name": "MBC 4 HD",
-    "logo_url": "https://16k.xyz/images/a3ced73e722e89d6caa9aa1e78ef0719.png",
-    "category": "قنوات mbc",
-    "display_order": 250,
-    "description": "بث مباشر قناة MBC 4 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15149.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-action-4k",
-    "name": "MBC Action 4K",
-    "logo_url": "https://16k.xyz/images/9cc222eb5ebee8234ab52fb86f5b7502.png",
-    "category": "قنوات mbc",
-    "display_order": 251,
-    "description": "بث مباشر قناة MBC Action بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/45166.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-action-hd",
-    "name": "MBC Action HD",
-    "logo_url": "https://16k.xyz/images/9cc222eb5ebee8234ab52fb86f5b7502.png",
-    "category": "قنوات mbc",
-    "display_order": 252,
-    "description": "بث مباشر قناة MBC Action بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15154.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-drama-4k",
-    "name": "MBC Drama 4K",
-    "logo_url": "https://16k.xyz/images/720f99d37b3862693ae1ffd7c6f85e2f.png",
-    "category": "قنوات mbc",
-    "display_order": 253,
-    "description": "بث مباشر قناة المسلسلات MBC Drama بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/45163.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-drama-hd",
-    "name": "MBC Drama HD",
-    "logo_url": "https://16k.xyz/images/720f99d37b3862693ae1ffd7c6f85e2f.png",
-    "category": "قنوات mbc",
-    "display_order": 254,
-    "description": "بث مباشر قناة المسلسلات MBC Drama بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15153.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-drama-plus-4k",
-    "name": "MBC Drama Plus 4K",
-    "logo_url": "https://16k.xyz/images/1c704277abe8a8e002729a4aacff74fc.png",
-    "category": "قنوات mbc",
-    "display_order": 255,
-    "description": "بث مباشر قناة MBC Drama Plus بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/43679.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-drama-plus-hd",
-    "name": "MBC Drama Plus HD",
-    "logo_url": "https://16k.xyz/images/1c704277abe8a8e002729a4aacff74fc.png",
-    "category": "قنوات mbc",
-    "display_order": 256,
-    "description": "بث مباشر قناة MBC Drama Plus بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/21160.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-masr-4k",
-    "name": "MBC Masr 4K",
-    "logo_url": "https://16k.xyz/images/3c419e6ad9b392ed78e8266cdd4eaad1.png",
-    "category": "قنوات mbc",
-    "display_order": 257,
-    "description": "بث مباشر قناة MBC Masr بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/92753.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-masr-hd",
-    "name": "MBC Masr HD",
-    "logo_url": "https://16k.xyz/images/3c419e6ad9b392ed78e8266cdd4eaad1.png",
-    "category": "قنوات mbc",
-    "display_order": 258,
-    "description": "بث مباشر قناة MBC Masr بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15134.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-masr-2-4k",
-    "name": "MBC Masr 2 4K",
-    "logo_url": "https://16k.xyz/images/6b72a5c62b144e9378ca6af5123db493.png",
-    "category": "قنوات mbc",
-    "display_order": 259,
-    "description": "بث مباشر قناة MBC Masr 2 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/92754.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-masr-2-hd",
-    "name": "MBC Masr 2 HD",
-    "logo_url": "https://16k.xyz/images/6b72a5c62b144e9378ca6af5123db493.png",
-    "category": "قنوات mbc",
-    "display_order": 260,
-    "description": "بث مباشر قناة MBC Masr 2 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15133.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-masr-drama-4k",
-    "name": "MBC Masr Drama 4K",
-    "logo_url": "https://16k.xyz/images/720f99d37b3862693ae1ffd7c6f85e2f.png",
-    "category": "قنوات mbc",
-    "display_order": 261,
-    "description": "بث مباشر قناة MBC Masr Drama بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/328602.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-masr-drama-hd",
-    "name": "MBC Masr Drama HD",
-    "logo_url": "https://16k.xyz/images/720f99d37b3862693ae1ffd7c6f85e2f.png",
-    "category": "قنوات mbc",
-    "display_order": 262,
-    "description": "بث مباشر قناة MBC Masr Drama بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/328601.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-bollywood-4k",
-    "name": "MBC Bollywood 4K",
-    "logo_url": "https://16k.xyz/images/c4871dcc812cb36d00187c8f7f02b5cf.png",
-    "category": "قنوات mbc",
-    "display_order": 263,
-    "description": "بث مباشر قناة MBC Bollywood بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/45162.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-bollywood-hd",
-    "name": "MBC Bollywood HD",
-    "logo_url": "https://16k.xyz/images/c4871dcc812cb36d00187c8f7f02b5cf.png",
-    "category": "قنوات mbc",
-    "display_order": 264,
-    "description": "بث مباشر قناة MBC Bollywood بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15364.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-iraq-4k",
-    "name": "MBC Iraq 4K",
-    "logo_url": "https://16k.xyz/images/43e581f4cf8c98c8f5e0dc3375f43f5d.png",
-    "category": "قنوات mbc",
-    "display_order": 265,
-    "description": "بث مباشر قناة MBC Iraq بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/92752.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-iraq-hd",
-    "name": "MBC Iraq HD",
-    "logo_url": "https://16k.xyz/images/43e581f4cf8c98c8f5e0dc3375f43f5d.png",
-    "category": "قنوات mbc",
-    "display_order": 266,
-    "description": "بث مباشر قناة MBC Iraq بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/14732.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-max-4k",
-    "name": "MBC Max 4K",
-    "logo_url": "https://16k.xyz/images/cfe21664b4982bae39830c404076fd06.png",
-    "category": "قنوات mbc",
-    "display_order": 267,
-    "description": "بث مباشر قناة MBC Max بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/45167.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-max-hd",
-    "name": "MBC Max HD",
-    "logo_url": "https://16k.xyz/images/cfe21664b4982bae39830c404076fd06.png",
-    "category": "قنوات mbc",
-    "display_order": 268,
-    "description": "بث مباشر قناة MBC Max بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/15139.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-variety-4k",
-    "name": "MBC Variety 4K",
-    "logo_url": "https://16k.xyz/images/1c704277abe8a8e002729a4aacff74fc.png",
-    "category": "قنوات mbc",
-    "display_order": 269,
-    "description": "بث مباشر قناة MBC Variety بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/43681.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-persia-4k",
-    "name": "MBC Persia 4K",
-    "logo_url": "https://16k.xyz/images/bfc79da94ac18f83ac84364d43ad735f.png",
-    "category": "قنوات mbc",
-    "display_order": 270,
-    "description": "بث مباشر قناة MBC Persia بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/148411.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-panorama-fm-4k",
-    "name": "MBC Panorama FM 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 271,
-    "description": "بث مباشر قناة MBC Panorama FM بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/148413.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-mood-4k",
-    "name": "MBC Mood 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 272,
-    "description": "بث مباشر قناة MBC Mood بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/148412.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-toons-4k",
-    "name": "MBC Toons 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 273,
-    "description": "بث مباشر قناة MBC Toons بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/328596.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-5-4k",
-    "name": "MBC 5 4K",
-    "logo_url": "https://16k.xyz/images/cfe21664b4982bae39830c404076fd06.png",
-    "category": "قنوات mbc",
-    "display_order": 274,
-    "description": "بث مباشر قناة MBC 5 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/92759.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-fm-4k",
-    "name": "MBC FM 4K",
-    "logo_url": "https://16k.xyz/images/ee04e602f0e86472554ba4866b76e4eb.png",
-    "category": "قنوات mbc",
-    "display_order": 275,
-    "description": "بث مباشر قناة MBC FM بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/92755.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-shahid-ramadan-4k",
-    "name": "Shahid Ramadan 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 276,
-    "description": "بث مباشر قناة Shahid Ramadan بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/328603.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-geo-1-4k",
-    "name": "MBC Geo 1 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 277,
-    "description": "بث مباشر قناة MBC Geo 1 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413799.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-geo-1-hd",
-    "name": "MBC Geo 1 HD",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 278,
-    "description": "بث مباشر قناة MBC Geo 1 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413800.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-geo-2-4k",
-    "name": "MBC Geo 2 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 279,
-    "description": "بث مباشر قناة MBC Geo 2 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413801.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-geo-2-hd",
-    "name": "MBC Geo 2 HD",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 280,
-    "description": "بث مباشر قناة MBC Geo 2 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413802.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-power-4k",
-    "name": "MBC Power 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 281,
-    "description": "بث مباشر قناة MBC Power بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413803.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-power-hd",
-    "name": "MBC Power HD",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 282,
-    "description": "بث مباشر قناة MBC Power بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413804.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-premium-4k",
-    "name": "MBC Premium 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 283,
-    "description": "بث مباشر قناة MBC Premium بجودة 4K فائقة",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413805.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-plus-4k",
-    "name": "MBC Plus 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 284,
-    "description": "بث مباشر قناة MBC Plus بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413806.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-plus-hd",
-    "name": "MBC Plus HD",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 285,
-    "description": "بث مباشر قناة MBC Plus بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413807.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-family-hd",
-    "name": "MBC Family HD",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 286,
-    "description": "بث مباشر قناة MBC Family بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413808.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-mbc-cloud-tv",
-    "name": "MBC Cloud TV",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 287,
-    "description": "بث مباشر قناة MBC Cloud TV",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/413809.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-arabs-got-talent-4k",
-    "name": "Arabs Got Talent 4K",
-    "logo_url": "https://16k.xyz/images/mbc.png",
-    "category": "قنوات mbc",
-    "display_order": 288,
-    "description": "بث مباشر برنامج Arabs Got Talent بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/398935.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-1-4k",
-    "name": "Alwan Sport 1 4K",
+    "id": "alwan-sport-1",
+    "name": "ALWAN SPORT 1",
     "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 289,
-    "description": "بث مباشر قناة ألوان الرياضية 1 بجودة 4K",
+    "display_order": 72,
+    "description": "بث مباشر قناة ألوان الرياضية 1 بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418111.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/418111.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/418112.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/418113.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-1-hd",
-    "name": "Alwan Sport 1 HD",
-    "logo_url": "https://i.imgur.com/UibCHUN.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 290,
-    "description": "بث مباشر قناة ألوان الرياضية 1 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418112.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-1-sd",
-    "name": "Alwan Sport 1 SD",
-    "logo_url": "https://i.imgur.com/UibCHUN.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 291,
-    "description": "بث مباشر قناة ألوان الرياضية 1 بجودة عادية",
-    "streams": [
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418113.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-2-4k",
-    "name": "Alwan Sport 2 4K",
+    "id": "alwan-sport-2",
+    "name": "ALWAN SPORT 2",
     "logo_url": "https://i.imgur.com/Gl8AxBh.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 292,
-    "description": "بث مباشر قناة ألوان الرياضية 2 بجودة 4K",
+    "display_order": 73,
+    "description": "بث مباشر قناة ألوان الرياضية 2 بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418114.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/418114.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/418115.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/418116.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-2-hd",
-    "name": "Alwan Sport 2 HD",
-    "logo_url": "https://i.imgur.com/Gl8AxBh.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 293,
-    "description": "بث مباشر قناة ألوان الرياضية 2 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418115.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-2-sd",
-    "name": "Alwan Sport 2 SD",
-    "logo_url": "https://i.imgur.com/Gl8AxBh.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 294,
-    "description": "بث مباشر قناة ألوان الرياضية 2 بجودة عادية",
-    "streams": [
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418116.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-3-4k",
-    "name": "Alwan Sport 3 4K",
+    "id": "alwan-sport-3",
+    "name": "ALWAN SPORT 3",
     "logo_url": "https://i.imgur.com/c9cHkFP.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 295,
-    "description": "بث مباشر قناة ألوان الرياضية 3 بجودة 4K",
+    "display_order": 74,
+    "description": "بث مباشر قناة ألوان الرياضية 3 بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418117.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/418117.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/418118.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/418119.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-3-hd",
-    "name": "Alwan Sport 3 HD",
-    "logo_url": "https://i.imgur.com/c9cHkFP.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 296,
-    "description": "بث مباشر قناة ألوان الرياضية 3 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418118.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-3-sd",
-    "name": "Alwan Sport 3 SD",
-    "logo_url": "https://i.imgur.com/c9cHkFP.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 297,
-    "description": "بث مباشر قناة ألوان الرياضية 3 بجودة عادية",
-    "streams": [
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418119.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-4-4k",
-    "name": "Alwan Sport 4 4K",
+    "id": "alwan-sport-4",
+    "name": "ALWAN SPORT 4",
     "logo_url": "https://i.imgur.com/6JVw8Xf.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 298,
-    "description": "بث مباشر قناة ألوان الرياضية 4 بجودة 4K",
+    "display_order": 75,
+    "description": "بث مباشر قناة ألوان الرياضية 4 بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418120.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/418120.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/418121.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/418122.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-4-hd",
-    "name": "Alwan Sport 4 HD",
-    "logo_url": "https://i.imgur.com/6JVw8Xf.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 299,
-    "description": "بث مباشر قناة ألوان الرياضية 4 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418121.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-4-sd",
-    "name": "Alwan Sport 4 SD",
-    "logo_url": "https://i.imgur.com/6JVw8Xf.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 300,
-    "description": "بث مباشر قناة ألوان الرياضية 4 بجودة عادية",
-    "streams": [
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418122.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-5-4k",
-    "name": "Alwan Sport 5 4K",
+    "id": "alwan-sport-5",
+    "name": "ALWAN SPORT 5",
     "logo_url": "https://i.imgur.com/JJojLHs.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 301,
-    "description": "بث مباشر قناة ألوان الرياضية 5 بجودة 4K",
+    "display_order": 76,
+    "description": "بث مباشر قناة ألوان الرياضية 5 بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418123.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/418123.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/418124.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/418125.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-5-hd",
-    "name": "Alwan Sport 5 HD",
-    "logo_url": "https://i.imgur.com/JJojLHs.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 302,
-    "description": "بث مباشر قناة ألوان الرياضية 5 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418124.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-5-sd",
-    "name": "Alwan Sport 5 SD",
-    "logo_url": "https://i.imgur.com/JJojLHs.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 303,
-    "description": "بث مباشر قناة ألوان الرياضية 5 بجودة عادية",
-    "streams": [
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418125.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-6-4k",
-    "name": "Alwan Sport 6 4K",
+    "id": "alwan-sport-6",
+    "name": "ALWAN SPORT 6",
     "logo_url": "https://i.imgur.com/VZxazRS.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 304,
-    "description": "بث مباشر قناة ألوان الرياضية 6 بجودة 4K",
+    "display_order": 77,
+    "description": "بث مباشر قناة ألوان الرياضية 6 بكافة الجودات",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418126.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/418126.ts" },
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/418127.ts" },
+      { "quality": "SD", "url": "http://appluxera.com/live/94748049499/625256262633/418128.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-6-hd",
-    "name": "Alwan Sport 6 HD",
-    "logo_url": "https://i.imgur.com/VZxazRS.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 305,
-    "description": "بث مباشر قناة ألوان الرياضية 6 بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418127.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-6-sd",
-    "name": "Alwan Sport 6 SD",
-    "logo_url": "https://i.imgur.com/VZxazRS.png",
-    "category": "قنوات ألوان الرياضية",
-    "display_order": 306,
-    "description": "بث مباشر قناة ألوان الرياضية 6 بجودة عادية",
-    "streams": [
-      {
-        "quality": "SD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/418128.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-alwan-sport-7-4k",
+    "id": "alwan-sport-7-new",
     "name": "Alwan Sport 7 4K",
     "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 307,
-    "description": "بث مباشر قناة ألوان الرياضية 7 بجودة 4K",
+    "display_order": 78,
+    "description": "قناة جديدة - بث مباشر ألوان الرياضية 7 بجودة 4K",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/433739.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/433739.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-8-4k",
+    "id": "alwan-sport-8-new",
     "name": "Alwan Sport 8 4K",
-    "logo_url": "https://i.imgur.com/Gl8AxBh.png",
+    "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 308,
-    "description": "بث مباشر قناة ألوان الرياضية 8 بجودة 4K",
+    "display_order": 79,
+    "description": "قناة جديدة - بث مباشر ألوان الرياضية 8 بجودة 4K",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/433740.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/433740.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-9-4k",
+    "id": "alwan-sport-9-new",
     "name": "Alwan Sport 9 4K",
-    "logo_url": "https://i.imgur.com/c9cHkFP.png",
+    "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 309,
-    "description": "بث مباشر قناة ألوان الرياضية 9 بجودة 4K",
+    "display_order": 80,
+    "description": "قناة جديدة - بث مباشر ألوان الرياضية 9 بجودة 4K",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/433741.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/433741.ts" }
     ]
   },
   {
-    "id": "ar-alwan-sport-10-4k",
+    "id": "alwan-sport-10-new",
     "name": "Alwan Sport 10 4K",
-    "logo_url": "https://i.imgur.com/6JVw8Xf.png",
+    "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 310,
-    "description": "بث مباشر قناة ألوان الرياضية 10 بجودة 4K",
+    "display_order": 81,
+    "description": "قناة جديدة - بث مباشر ألوان الرياضية 10 بجودة 4K",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/433742.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/433742.ts" }
     ]
   },
   {
-    "id": "ar-alwan-f1-4k",
+    "id": "alwan-f1-new",
     "name": "Alwan F1 4K",
     "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 311,
-    "description": "بث مباشر قناة ألوان فورمولا 1 بجودة 4K",
+    "display_order": 82,
+    "description": "قناة جديدة - بث مباشر ألوان فورمولا 1 بجودة 4K",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/433743.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/433743.ts" }
     ]
   },
   {
-    "id": "ar-alwan-wwe-4k",
+    "id": "alwan-wwe-new",
     "name": "Alwan WWE 4K",
-    "logo_url": "https://i.imgur.com/JJojLHs.png",
+    "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 312,
-    "description": "بث مباشر قناة ألوان WWE بجودة 4K",
+    "display_order": 83,
+    "description": "قناة جديدة - بث مباشر ألوان للمصارعة الحرة بجودة 4K",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/433744.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/433744.ts" }
     ]
   },
   {
-    "id": "ar-alwan-ufc-4k",
+    "id": "alwan-ufc-new",
     "name": "Alwan UFC 4K",
-    "logo_url": "https://i.imgur.com/VZxazRS.png",
+    "logo_url": "https://i.imgur.com/UibCHUN.png",
     "category": "قنوات ألوان الرياضية",
-    "display_order": 313,
-    "description": "بث مباشر قناة ألوان UFC بجودة 4K",
+    "display_order": 84,
+    "description": "قناة جديدة - بث مباشر ألوان لبطولات يو إف سي بجودة 4K",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/433745.ts"
-      }
+      { "quality": "4K", "url": "http://appluxera.com/live/94748049499/625256262633/433745.ts" }
     ]
   },
   {
-    "id": "ar-disney-kids-1-4k",
-    "name": "Disney Kids 1 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 314,
-    "description": "بث مباشر قناة ديزني كيدز 1 بجودة 4K",
+    "id": "alwan-aflam-1",
+    "name": "ALWAN AFLAM 1",
+    "logo_url": "https://i.imgur.com/UibCHUN.png",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 85,
+    "description": "بث مباشر قناة ألوان أفلام 1 الترفيهية",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399073"
-      }
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/418112.ts" }
     ]
   },
   {
-    "id": "ar-disney-kids-2-4k",
-    "name": "Disney Kids 2 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 315,
-    "description": "بث مباشر قناة ديزني كيدز 2 بجودة 4K",
+    "id": "alwan-atfal",
+    "name": "ALWAN ATFAL",
+    "logo_url": "https://i.ibb.co/bRDZCbsJ/33454-removebg-preview.png",
+    "category": "قنوات ألوان الرياضية",
+    "display_order": 86,
+    "description": "بث مباشر قناة ألوان للأطفال",
     "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399074"
-      }
-    ]
-  },
-  {
-    "id": "ar-disney-kids-3-4k",
-    "name": "Disney Kids 3 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 316,
-    "description": "بث مباشر قناة ديزني كيدز 3 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399075"
-      }
-    ]
-  },
-  {
-    "id": "ar-disney-kids-4-4k",
-    "name": "Disney Kids 4 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 317,
-    "description": "بث مباشر قناة ديزني كيدز 4 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399076"
-      }
-    ]
-  },
-  {
-    "id": "ar-disney-kids-5-4k",
-    "name": "Disney Kids 5 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 318,
-    "description": "بث مباشر قناة ديزني كيدز 5 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399077"
-      }
-    ]
-  },
-  {
-    "id": "ar-disney-kids-6-4k",
-    "name": "Disney Kids 6 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 319,
-    "description": "بث مباشر قناة ديزني كيدز 6 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399078"
-      }
-    ]
-  },
-  {
-    "id": "ar-disney-kids-7-4k",
-    "name": "Disney Kids 7 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 320,
-    "description": "بث مباشر قناة ديزني كيدز 7 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399079"
-      }
-    ]
-  },
-  {
-    "id": "ar-disney-kids-8-4k",
-    "name": "Disney Kids 8 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 321,
-    "description": "بث مباشر قناة ديزني كيدز 8 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399080"
-      }
-    ]
-  },
-  {
-    "id": "ar-disney-kids-9-4k",
-    "name": "Disney Kids 9 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 322,
-    "description": "بث مباشر قناة ديزني كيدز 9 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399081"
-      }
-    ]
-  },
-  {
-    "id": "ar-disney-kids-10-4k",
-    "name": "Disney Kids 10 4K",
-    "logo_url": "http://pic.apkdt.co/pic/mix2/Diseny.png",
-    "category": "قنوات ديزني",
-    "display_order": 323,
-    "description": "بث مباشر قناة ديزني كيدز 10 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com:8080/94748049499/625256262633/399082"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-pop-kids-1",
-    "name": "Pop Kids 1",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 324,
-    "description": "بث مباشر قناة Pop Kids 1",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/278549.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-pop-kids-2",
-    "name": "Pop Kids 2",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 325,
-    "description": "بث مباشر قناة Pop Kids 2",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/278550.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-rotana-kids-hd",
-    "name": "Rotana Kids HD",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 326,
-    "description": "بث مباشر قناة روتانا كيدز بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98024.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-tom-jerry-1-4k",
-    "name": "Tom and Jerry 1 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 327,
-    "description": "بث مباشر توم وجيري 1 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399036.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-tom-jerry-2-4k",
-    "name": "Tom and Jerry 2 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 328,
-    "description": "بث مباشر توم وجيري 2 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399035.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-masha-bear-4k",
-    "name": "Masha and the Bear 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 329,
-    "description": "بث مباشر ماشا والدب بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399037.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-wolfoo-family-4k",
-    "name": "Wolfoo Family 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 330,
-    "description": "بث مباشر عائلة وولفو بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399038.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-super-jojo-4k",
-    "name": "Super JOJO 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 331,
-    "description": "بث مباشر Super JOJO بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399039.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-saud-sara-4k",
-    "name": "Saud & Sara 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 332,
-    "description": "بث مباشر سعود وسارة بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399040.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-nastya-dad-4k",
-    "name": "Nastya & Dad 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 333,
-    "description": "بث مباشر ناستيا وأبي بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399041.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-lion-family-4k",
-    "name": "Lion Family 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 334,
-    "description": "بث مباشر عائلة الأسد بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399042.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-karazah-channel-4k",
-    "name": "Karazah Channel 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 335,
-    "description": "بث مباشر قناة كرزاه بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399043.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-jugnu-kids-1-4k",
-    "name": "Jugnu Kids 1 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 336,
-    "description": "بث مباشر Jugnu Kids 1 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399045.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-jugnu-kids-2-4k",
-    "name": "Jugnu Kids 2 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 337,
-    "description": "بث مباشر Jugnu Kids 2 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399044.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-eli-kids-4k",
-    "name": "Eli Kids 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 338,
-    "description": "بث مباشر Eli Kids بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399046.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-diana-roma-1-4k",
-    "name": "Diana & Roma 1 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 339,
-    "description": "بث مباشر ديانا وروما 1 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399049.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-diana-roma-2-4k",
-    "name": "Diana & Roma 2 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 340,
-    "description": "بث مباشر ديانا وروما 2 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399048.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-diana-roma-3-4k",
-    "name": "Diana & Roma 3 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 341,
-    "description": "بث مباشر ديانا وروما 3 بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399047.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-shahid-smurfs-hd",
-    "name": "Shahid The Smurfs HD",
-    "logo_url": "http://pic.apkdt.co/pic/Logo/mix/BABY.png",
-    "category": "قنوات الأطفال",
-    "display_order": 342,
-    "description": "بث مباشر السنافر على شاهد بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399050.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-spacetoon-hd",
-    "name": "Spacetoon HD",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 343,
-    "description": "بث مباشر قناة سبيستون بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399051.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-spacetoon-4k",
-    "name": "Spacetoon 4K",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 344,
-    "description": "بث مباشر قناة سبيستون بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/67749.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-majed-4k",
-    "name": "Majed Kids 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 345,
-    "description": "بث مباشر قناة ماجد كيدز بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399052.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-mbc3",
-    "name": "MBC3",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 346,
-    "description": "بث مباشر قناة MBC3 للأطفال",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399054.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-mbc-toons",
-    "name": "MBC Toons",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 347,
-    "description": "بث مباشر قناة MBC Toons",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399055.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-shehab-4k",
-    "name": "Shehab 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 348,
-    "description": "بث مباشر قناة شهاب بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399056.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-wanasat-baby",
-    "name": "Wanasat Baby",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 349,
-    "description": "بث مباشر قناة وناسة بيبي للأطفال",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399058.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-atfal-4k",
-    "name": "Atfal 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 350,
-    "description": "بث مباشر قناة أطفال بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399060.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-toon-goggles",
-    "name": "Toon Goggles",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 351,
-    "description": "بث مباشر قناة Toon Goggles",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399062.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-afro-baby-hd",
-    "name": "Afro Baby HD",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 352,
-    "description": "بث مباشر قناة Afro Baby بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399063.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-tg-jouior-hd",
-    "name": "TG Jouior HD",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 353,
-    "description": "بث مباشر قناة TG Jouior بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399064.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-smurfs-hd",
-    "name": "The Smurfs HD",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 354,
-    "description": "بث مباشر السنافر بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399065.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-ien-4k",
-    "name": "IEN 4K",
-    "logo_url": "https://i.ibb.co/0qY6Xyk/th-6.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 355,
-    "description": "بث مباشر قناة IEN بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/399071.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-disney-junior-hd",
-    "name": "Disney Junior HD",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 356,
-    "description": "بث مباشر قناة ديزني جونيور بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98032.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-nickelodeon-hd",
-    "name": "Nickelodeon HD",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 357,
-    "description": "بث مباشر قناة نيكولوديون بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98037.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-cartoon-network-4k",
-    "name": "Cartoon Network 4K",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 358,
-    "description": "بث مباشر قناة كرتون نتورك بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/67770.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-jeem",
-    "name": "Jeem",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 359,
-    "description": "بث مباشر قناة جيم للأطفال",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/88016.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-nicktoons-hd",
-    "name": "NickToons HD",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 360,
-    "description": "بث مباشر قناة نيكتونس بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98034.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-tom-jerry",
-    "name": "Tom and Jerry",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 361,
-    "description": "بث مباشر توم وجيري",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98039.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-afarin-hd",
-    "name": "Afarin Kids HD",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 362,
-    "description": "بث مباشر قناة أفارين كيدز بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98040.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-hodhod-tv",
-    "name": "HodHod TV",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 363,
-    "description": "بث مباشر قناة هدهد",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/88020.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-bein-baraem-hd",
-    "name": "beIN Baraem HD",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 364,
-    "description": "بث مباشر قناة بي إن براعم بجودة عالية",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://appluxera.com/live/94748049499/625256262633/88023.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-karameesh",
-    "name": "Karameesh",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 365,
-    "description": "بث مباشر قناة كراميش",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/88027.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-toyor-al-janah",
-    "name": "Toyor Al Janah",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 366,
-    "description": "بث مباشر قناة طيور الجنة",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/88029.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-atfal-w-mawaheb",
-    "name": "Atfal W Mawaheb",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 367,
-    "description": "بث مباشر قناة أطفال ومواهب",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/88031.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-ivy-bean",
-    "name": "Ivy Bean",
-    "logo_url": "http://163.172.39.182:80/logo/kids.png",
-    "category": "قنوات الأطفال",
-    "display_order": 368,
-    "description": "بث مباشر قناة Ivy Bean",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/247615.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-kimba",
-    "name": "Kimba",
-    "logo_url": "http://163.172.39.182:80/logo/kids.png",
-    "category": "قنوات الأطفال",
-    "display_order": 369,
-    "description": "بث مباشر قناة Kimba",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/247617.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-osn-kids-zoon",
-    "name": "OSN Kids Zoon",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 370,
-    "description": "بث مباشر قناة OSN Kids Zoon",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98025.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-majd-kids-4k",
-    "name": "Majd Kids 4K",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 371,
-    "description": "بث مباشر قناة مجد كيدز بجودة 4K",
-    "streams": [
-      {
-        "quality": "4K",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98026.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-kids-zone",
-    "name": "Kids Zone",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 372,
-    "description": "بث مباشر قناة Kids Zone",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98028.ts"
-      }
-    ]
-  },
-  {
-    "id": "ar-kids-wanasat-baby-2",
-    "name": "Wanasat Baby 2",
-    "logo_url": "https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg",
-    "category": "قنوات الأطفال",
-    "display_order": 373,
-    "description": "بث مباشر قناة وناسة بيبي",
-    "streams": [
-      {
-        "quality": "البث الرئيسي",
-        "url": "http://appluxera.com/live/94748049499/625256262633/98029.ts"
-      }
+      { "quality": "HD", "url": "http://appluxera.com/live/94748049499/625256262633/418112.ts" }
     ]
   }
-] 

@@ -5914,6 +5914,10 @@
     "description": "بث مباشر قناة M6",
     "streams": [
       {
+        "quality": "M6",
+        "url": "http://line.turbokijken.com:80/play/live.php?mac=00:1B:79:33:2A:11&stream=1745089&extension=ts"
+      },
+      {
         "quality": "4K",
         "url": "http://4kpro2.com/play/live.php?mac=00:1A:79:FB:74:61&stream=465915&extension=ts"
       },

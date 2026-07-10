@@ -552,11 +552,11 @@
     "description": "بث مباشر قناة بي ان سبورت ماكس 1 العربية بكافة الجودات",
     "streams": [
       {
-        "quality": "4K",
+        "quality": "main",
         "url": "https://d1qofgnogc6weh.cloudfront.net/live/max1_1080p.m3u8"
       },
       {
-        "quality": "FHD",
+        "quality": "main HD",
         "url": "http://d1qofgnogc6weh.cloudfront.net/live/max1_720p.m3u8"
       },
       {

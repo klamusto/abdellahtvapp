@@ -984,6 +984,10 @@
     "description": "بث مباشر قناة BEIN TOD",
     "streams": [
       {
+      "quality": "4k",
+        "url": "http://tahpascal78.space/0C6DC2447ACFDCF/lkDaVgqDRJ/1441968"
+      },
+      {
         "quality": "4K",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460835"
       }

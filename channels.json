@@ -8,10 +8,6 @@
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
     "streams": [
       {
-        "quality": "AP",
-        "url": "https://www.manar2.shop/x1/59.m3u8"
-      },
-      {
         "quality": "M",
         "url": "http://maventv.one/live/hamees546/480279620/78395.m3u8"
       },
@@ -65,10 +61,6 @@
     "display_order": 100001,
     "description": "بث مباشر قناة بي ان سبورت 2",
     "streams": [
-      {
-        "quality": "AP",
-        "url": "https://www.manar2.shop/x1/60.m3u8"
-      },
       {
         "quality": "M",
         "url": "http://maventv.one/live/hamees546/480279620/78394.m3u8"
@@ -124,10 +116,6 @@
     "description": "بث مباشر قناة بي ان سبورت 3",
     "streams": [
       {
-        "quality": "AP",
-        "url": "https://www.manar2.shop/x1/61.m3u8"
-      },
-      {
         "quality": "M",
         "url": "http://maventv.one/live/hamees546/480279620/78402.m3u8"
       },
@@ -182,10 +170,6 @@
     "description": "بث مباشر قناة بي ان سبورت 4",
     "streams": [
       {
-        "quality": "AP",
-        "url": "https://www.manar2.shop/x1/62.m3u8"
-      },
-      {
         "quality": "8K",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=242280&extension=ts"
       },
@@ -239,10 +223,6 @@
     "display_order": 100004,
     "description": "بث مباشر قناة بي ان سبورت 5",
     "streams": [
-      {
-        "quality": "AP",
-        "url": "https://www.manar2.shop/x1/63.m3u8"
-      },
       {
         "quality": "8K",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=242279&extension=ts"

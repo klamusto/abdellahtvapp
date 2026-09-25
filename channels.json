@@ -8,31 +8,31 @@
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
     "streams": [
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/707929"
       },
       {
-        "quality": "Server 11",
+        "quality": "HD",
         "url": "http://asmr4k.pro:8080/live/67389201934/0572884955/369967.m3u8"
       },
       {
-        "quality": "Server 12",
+        "quality": "HD",
         "url": "http://asmr4k.pro:8080/live/67389201934/0572884955/497111.m3u8"
       },
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652350?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652372?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "server 4",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652333?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
@@ -54,23 +54,23 @@
     "description": "بث مباشر قناة بي ان سبورت 2",
     "streams": [
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707928"
       },
       {
-        "quality": "server 4",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs2.m3u8"
       },
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652351?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652334?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652373?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
@@ -92,23 +92,23 @@
     "description": "بث مباشر قناة بي ان سبورت 3",
     "streams": [
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707927"
       },
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652352?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "Multi",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs3.m3u8"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652335?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652374?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
@@ -126,23 +126,23 @@
     "description": "بث مباشر قناة بي ان سبورت 4",
     "streams": [
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652336?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652375?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "Multi",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs4.m3u8"
       },
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707926"
       },
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652353?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
@@ -160,23 +160,23 @@
     "description": "بث مباشر قناة بي ان سبورت 5",
     "streams": [
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652354?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652376?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "Multi",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs5.m3u8"
       },
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707925"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652337?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
@@ -194,23 +194,23 @@
     "description": "بث مباشر قناة بي ان سبورت 6",
     "streams": [
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652355?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://172.110.220.239/8zpo3GsVY7/beneficial2concern/652377?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652338?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "Multi",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs6.m3u8"
       },
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707924"
       }
     ]
@@ -224,23 +224,23 @@
     "description": "بث مباشر قناة بي ان سبورت 7",
     "streams": [
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652356?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652339?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652378?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "Multi",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs7.m3u8"
       },
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707923"
       }
     ]
@@ -254,11 +254,11 @@
     "description": "بث مباشر قناة بي ان سبورت 8",
     "streams": [
       {
-        "quality": "Multi",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs8.m3u8"
       },
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707922"
       }
     ]
@@ -1484,11 +1484,11 @@
     "description": "بث مباشر ALWAN SPORTS 1 HEVC",
     "streams": [
       {
-        "quality": "Server 6",
+        "quality": "HD",
         "url": "https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/C_YZ4LkNeYnxcDUTCLdzJJg1HgznTyXiwlPTw6NXkppWlI2IIxpKHd4gE-TkWcm3cn70Vt9ZuYp5mI4AOe6omg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8?type=live"
       },
       {
-        "quality": "Server 5",
+        "quality": "HD",
         "url": "http://185.191.126.127:8080/live///80986533788/5662111245/418111.m3u8"
       },
       {
@@ -1696,11 +1696,11 @@
     "description": "بث مباشر AL AOULA",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://stream-lb.livemedia.ma/alaoula-tnt/hls/master.m3u8"
       },
       {
-        "quality": "Server 3",
+        "quality": "HD",
         "url": "http://194.60.93.157/proxy?url=http://toytcl.xyz:8080/live//357643467990765/Ofgo3yz8CH/414001.ts"
       }
     ]
@@ -1784,7 +1784,7 @@
     "description": "بث مباشر AL GHAD TV",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8"
       }
     ]
@@ -1798,7 +1798,7 @@
     "description": "بث مباشر AL NAS",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://stm.linkip.org/live/1759_.m3u8"
       }
     ]
@@ -1952,7 +1952,7 @@
     "description": "بث مباشر EL SHARQ",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
       }
     ]
@@ -2078,7 +2078,7 @@
     "description": "بث مباشر AL KAHERA WAL NAS 2",
     "streams": [
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KWN2/wv-pr/manifest.mpd"
       }
     ]
@@ -2166,7 +2166,7 @@
     "description": "بث مباشر MAZZIKA",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "http://149.100.11.235:8080/Mazzika/index.m3u8"
       },
       {
@@ -2226,7 +2226,7 @@
     "description": "بث مباشر ARABICA TV",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
       }
     ]
@@ -2398,7 +2398,7 @@
     "description": "بث مباشر AL NAHAR DRAMA",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/NAD/wv-pr/manifest.mpd"
       }
     ]
@@ -2412,7 +2412,7 @@
     "description": "بث مباشر CBC",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/CBC/wv-pr/manifest.mpd"
       }
     ]
@@ -2426,7 +2426,7 @@
     "description": "بث مباشر CBC SOFRA",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/CBS/wv-pr/manifest.mpd"
       }
     ]
@@ -2440,7 +2440,7 @@
     "description": "بث مباشر CBC DRAMA",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/CBD/wv-pr/manifest.mpd"
       }
     ]
@@ -2636,7 +2636,7 @@
     "description": "بث مباشر MIX HOLLYWOOD",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
       }
     ]
@@ -2818,7 +2818,7 @@
     "description": "بث مباشر MASPERO ZAMAN",
     "streams": [
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "vcardinal@1415986916129ae3224a9c"
       }
     ]
@@ -3032,7 +3032,7 @@
     "description": "بث مباشر قناة الجزائر الدولية الإخبارية",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8"
       }
     ]
@@ -3298,11 +3298,11 @@
     "description": "بث مباشر قناة TUNISIA NAT 1",
     "streams": [
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8"
       },
       {
-        "quality": "Server 3",
+        "quality": "HD",
         "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR"
       }
     ]
@@ -3316,11 +3316,11 @@
     "description": "بث مباشر قناة TUNISIA NAT 2",
     "streams": [
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR"
       },
       {
-        "quality": "Server 3",
+        "quality": "HD",
         "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR"
       }
     ]
@@ -3584,7 +3584,7 @@
     "description": "بث مباشر قناة AL MAGHRIBIA",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "http://185.9.2.18/chid_205/index.m3u8"
       }
     ]
@@ -3726,7 +3726,7 @@
     "description": "بث مباشر قناة CHADA TV",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8"
       },
       {
@@ -3832,11 +3832,11 @@
     "description": "بث مباشر قناة TAMAZIGHT",
     "streams": [
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "https://stream-lb.livemedia.ma/tamazight/hls/master.m3u8"
       },
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "https://stm.linkip.org/live/1215_.m3u8"
       }
     ]
@@ -4240,31 +4240,31 @@
     "description": "بث مباشر قناة بي ان سبورت 1 الفرنسية بكافة الجودات",
     "streams": [
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/707929"
       },
       {
-        "quality": "Server 11",
+        "quality": "HD",
         "url": "http://asmr4k.pro:8080/live/67389201934/0572884955/369967.m3u8"
       },
       {
-        "quality": "Server 12",
+        "quality": "HD",
         "url": "http://asmr4k.pro:8080/live/67389201934/0572884955/497111.m3u8"
       },
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652350?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652372?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "server 4",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652333?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       }
     ]
@@ -4278,23 +4278,23 @@
     "description": "بث مباشر قناة بي ان سبورت 2 الفرنسية بكافة الجودات",
     "streams": [
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707928"
       },
       {
-        "quality": "server 4",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs2.m3u8"
       },
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652351?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652334?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652373?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       }
     ]
@@ -4308,23 +4308,23 @@
     "description": "بث مباشر قناة بي ان سبورت 3 الفرنسية بكافة الجودات",
     "streams": [
       {
-        "quality": "proxpanel",
+        "quality": "HD",
         "url": "http://proxpanel.cc:80/h1wqD6CY/byxHYgX/707927"
       },
       {
-        "quality": "HD GOOD",
+        "quality": "HD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652352?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "Multi",
+        "quality": "HD",
         "url": "https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs3.m3u8"
       },
       {
-        "quality": "FULL HD",
+        "quality": "FHD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652335?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       },
       {
-        "quality": "SD LOW",
+        "quality": "SD",
         "url": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652374?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ"
       }
     ]
@@ -5284,7 +5284,7 @@
     "description": "بث مباشر قناة TCM",
     "streams": [
       {
-        "quality": "Fallback",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/TCM/wv-pr/manifest.mpd"
       },
       {
@@ -6720,7 +6720,7 @@
     "description": "بث مباشر قناة TEN",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/TEN/wv-pr/manifest.mpd"
       },
       {
@@ -7048,23 +7048,23 @@
     "description": "بث مباشر قناة Al Jazeera",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8"
       },
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "http://live-hls-web-aja.getaj.net/AJA/index.m3u8"
       },
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8"
       },
       {
-        "quality": "Stream 4",
+        "quality": "HD",
         "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8"
       },
       {
-        "quality": "Stream 5",
+        "quality": "HD",
         "url": "https://live-hls-apps-aja.getaj.net/AJA/index.m3u8"
       },
       {
@@ -10374,7 +10374,7 @@
     "description": "بث مباشر SHAHID AFLAM",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"
       }
     ]
@@ -10388,7 +10388,7 @@
     "description": "بث مباشر SHAHID MOVIES THRILLER",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8"
       }
     ]
@@ -10402,7 +10402,7 @@
     "description": "بث مباشر SHAHID MOVIES ACTION",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8"
       }
     ]
@@ -10724,7 +10724,7 @@
     "description": "بث مباشر SHAHID TASH",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://shd-amg-fast.edgenextcdn.net/tx015/playlist.m3u8"
       }
     ]
@@ -10752,7 +10752,7 @@
     "description": "بث مباشر SHAHID MASRAH MASR",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8"
       }
     ]
@@ -10822,7 +10822,7 @@
     "description": "بث مباشر SHAHID MARAYA",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8"
       }
     ]
@@ -11354,11 +11354,11 @@
     "description": "بث مباشر قناة MBC 1 بجودة عالية",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8"
       },
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MB1_HEVC/wv-pr/manifest.mpd"
       }
     ]
@@ -11372,19 +11372,19 @@
     "description": "بث مباشر قناة أفلام MBC 2",
     "streams": [
       {
-        "quality": "Server 3",
+        "quality": "HD",
         "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd"
       },
       {
-        "quality": "Server 5",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MB2H/wv-pr/manifest.mpd"
       },
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "http://185.9.2.18/chid_375/mono.m3u8"
       },
       {
-        "quality": "Server 5",
+        "quality": "HD",
         "url": "http://149.100.11.252:8000/play/a02a/index.m3u8"
       }
     ]
@@ -11398,11 +11398,11 @@
     "description": "بث مباشر قناة أطفال MBC 3",
     "streams": [
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MB3/wv-pr/manifest.mpd"
       },
       {
-        "quality": "720p HD",
+        "quality": "HD",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
       }
     ]
@@ -11416,7 +11416,7 @@
     "description": "بث مباشر قناة MBC 4 للبرامج والمسلسلات",
     "streams": [
       {
-        "quality": "720p HD",
+        "quality": "HD",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
       }
     ]
@@ -11444,15 +11444,15 @@
     "description": "بث مباشر قناة MBC Action الإثارة والتشويق",
     "streams": [
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "http://149.100.11.252:8000/play/a029/index.m3u8"
       },
       {
-        "quality": "Server 3",
+        "quality": "HD",
         "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd"
       },
       {
-        "quality": "Server 4",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MBAH/wv-pr/manifest.mpd"
       }
     ]
@@ -11466,15 +11466,15 @@
     "description": "بث مباشر قناة الأفلام والمسلسلات الهندية MBC Bollywood",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
       },
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "http://93.184.10.248/MBCBollywood/index.m3u8"
       },
       {
-        "quality": "Server 3",
+        "quality": "HD",
         "url": "http://149.100.11.252:8000/play/a02c/index.m3u8"
       }
     ]
@@ -11488,11 +11488,11 @@
     "description": "بث مباشر قناة المسلسلات العربية MBC Drama",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8"
       },
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "http://mytv.dothome.co.kr/ch/catv/26.php"
       }
     ]
@@ -11506,7 +11506,7 @@
     "description": "بث مباشر قناة MBC العراق والترفيه العراقي",
     "streams": [
       {
-        "quality": "720p HD",
+        "quality": "HD",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8"
       }
     ]
@@ -11520,7 +11520,7 @@
     "description": "بث مباشر قناة MBC مصر الترفيهية",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
       }
     ]
@@ -11534,7 +11534,7 @@
     "description": "بث مباشر قناة MBC مصر 2",
     "streams": [
       {
-        "quality": "720p HD",
+        "quality": "HD",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
       }
     ]
@@ -11576,11 +11576,11 @@
     "description": "بث مباشر ROTANA COMEDY HD",
     "streams": [
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "http://mains.services/live/bshorty/Zv5le07a0J/790ba89d-843f-4e4e-b4a4-27973cb1f51b.m3u8"
       },
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanacomedy/playlist.m3u8"
       },
       {
@@ -11598,11 +11598,11 @@
     "description": "بث مباشر ROTANA KIDS HD",
     "streams": [
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8"
       },
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8"
       },
       {
@@ -11620,15 +11620,15 @@
     "description": "بث مباشر ROTANA CINEMA KSA HD",
     "streams": [
       {
-        "quality": "720p HD",
+        "quality": "HD",
         "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8"
       },
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://rotana.hibridcdn.net/rotana/cinema_net-7Y83PP5adWixDF93/playlist.m3u8"
       },
       {
-        "quality": "Stream 4",
+        "quality": "HD",
         "url": "https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8"
       },
       {
@@ -11646,7 +11646,7 @@
     "description": "بث مباشر ROTANA CLASSIC HD",
     "streams": [
       {
-        "quality": "720p HD",
+        "quality": "HD",
         "url": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8"
       },
       {
@@ -11668,11 +11668,11 @@
     "description": "بث مباشر ROTANA DRAMA HD",
     "streams": [
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanadrama/playlist.m3u8"
       },
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8"
       },
       {
@@ -11722,7 +11722,7 @@
     "description": "بث مباشر ROTANA MUSIC HD",
     "streams": [
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo"
       },
       {
@@ -12262,7 +12262,7 @@
     "description": "بث مباشر ART AFLAM 1",
     "streams": [
       {
-        "quality": "Apollo",
+        "quality": "HD",
         "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd"
       },
       {
@@ -12280,7 +12280,7 @@
     "description": "بث مباشر ART AFLAM 2",
     "streams": [
       {
-        "quality": "Apollo",
+        "quality": "HD",
         "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd"
       },
       {
@@ -12298,7 +12298,7 @@
     "description": "بث مباشر ART CINEMA HD",
     "streams": [
       {
-        "quality": "Apollo",
+        "quality": "HD",
         "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd"
       },
       {
@@ -12330,7 +12330,7 @@
     "description": "بث مباشر ART HEKAYAT 2",
     "streams": [
       {
-        "quality": "Apollo",
+        "quality": "HD",
         "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd"
       },
       {
@@ -12348,23 +12348,23 @@
     "description": "بث مباشر قناة AL JAZEERA",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8"
       },
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "http://live-hls-web-aja.getaj.net/AJA/index.m3u8"
       },
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8"
       },
       {
-        "quality": "Stream 4",
+        "quality": "HD",
         "url": "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8"
       },
       {
-        "quality": "Stream 5",
+        "quality": "HD",
         "url": "https://live-hls-apps-aja.getaj.net/AJA/index.m3u8"
       }
     ]
@@ -12484,11 +12484,11 @@
     "description": "بث مباشر قناة AL SHARQIYA NEWS",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"
       },
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
       },
       {
@@ -13168,11 +13168,11 @@
     "description": "بث مباشر ROTANA KIDS",
     "streams": [
       {
-        "quality": "Stream 2",
+        "quality": "HD",
         "url": "https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8"
       },
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8"
       },
       {
@@ -13190,11 +13190,11 @@
     "description": "بث مباشر MAJID KIDS",
     "streams": [
       {
-        "quality": "Stream 3",
+        "quality": "HD",
         "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Majid_Kids_TV_HD/DASH/Majid_Kids_TV_HD.mpd"
       },
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "http://149.100.11.252:8000/play/a00o/index.m3u8"
       },
       {
@@ -13244,11 +13244,11 @@
     "description": "بث مباشر TAHA",
     "streams": [
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8"
       },
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://stream.starmenajo.com/hls/app/live/medialist_7806664055920539159_hls.m3u8"
       },
       {
@@ -13742,11 +13742,11 @@
     "description": "بث مباشر SAUDI QURAN HD",
     "streams": [
       {
-        "quality": "Server 2",
+        "quality": "HD",
         "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSQ/wv-pr/manifest.mpd"
       },
       {
-        "quality": "Server 3",
+        "quality": "HD",
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
       }
     ]
@@ -13820,7 +13820,7 @@
     "description": "بث مباشر BAHRAIN QURAN",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
       },
       {
@@ -13894,11 +13894,11 @@
     "description": "بث مباشر ZAD TV",
     "streams": [
       {
-        "quality": "Server 1",
+        "quality": "HD",
         "url": "https://stm.linkip.org/live/1757_.m3u8"
       },
       {
-        "quality": "Fallback",
+        "quality": "HD",
         "url": "https://github.com/bedevlab/r-vod/raw/refs/heads/main/loop.ts"
       }
     ]
@@ -13940,7 +13940,7 @@
     "description": "بث مباشر HUDA TV",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
       },
       {
@@ -13972,7 +13972,7 @@
     "description": "بث مباشر قناة ASHARQ DISCOVERY",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
       },
       {
@@ -13990,7 +13990,7 @@
     "description": "بث مباشر قناة ASHARQ DOCUMENTARY",
     "streams": [
       {
-        "quality": "Stream 1",
+        "quality": "HD",
         "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
       },
       {

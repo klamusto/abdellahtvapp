@@ -8,28 +8,8 @@
     "description": "قمة التغطية الرياضية العالمية - قناة بي ان سبورت 1",
     "streams": [
       {
-        "quality": "AP",
+        "quality": "SD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/540662"
-      },
-      {
-        "quality": "M",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540662"
-      },
-      {
-        "quality": "Bein 4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497111"
-      },
-      {
-        "quality": "K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540662"
-      },
-      {
-        "quality": "L",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540662"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497111"
       },
       {
         "quality": "4K",
@@ -38,22 +18,6 @@
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/369967"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369967"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369967"
-      },
-      {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540662"
-      },
-      {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540662"
       }
     ]
   },
@@ -66,52 +30,16 @@
     "description": "بث مباشر قناة بي ان سبورت 2",
     "streams": [
       {
-        "quality": "AP",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540663"
-      },
-      {
-        "quality": "M",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540663"
-      },
-      {
-        "quality": "K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540663"
-      },
-      {
-        "quality": "L",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540663"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497112"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497112"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497112"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369968"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369968"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369968"
-      },
-      {
         "quality": "SD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/540663"
       },
       {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540663"
+        "quality": "4K",
+        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497112"
+      },
+      {
+        "quality": "HD",
+        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369968"
       }
     ]
   },
@@ -124,52 +52,16 @@
     "description": "بث مباشر قناة بي ان سبورت 3",
     "streams": [
       {
-        "quality": "AP",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/555346"
-      },
-      {
-        "quality": "M",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/555346"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497113"
-      },
-      {
-        "quality": "L",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/555346"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497113"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497113"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497113"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369969"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369969"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369969"
-      },
-      {
         "quality": "SD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/555346"
       },
       {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/555346"
+        "quality": "4K",
+        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497113"
+      },
+      {
+        "quality": "HD",
+        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369969"
       }
     ]
   },
@@ -182,52 +74,16 @@
     "description": "بث مباشر قناة بي ان سبورت 4",
     "streams": [
       {
-        "quality": "AP",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540665"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497114"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497114"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497114"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497114"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497114"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497114"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369970"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369970"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369970"
-      },
-      {
         "quality": "SD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/540665"
       },
       {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540665"
+        "quality": "4K",
+        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497114"
+      },
+      {
+        "quality": "HD",
+        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369970"
       }
     ]
   },
@@ -240,52 +96,16 @@
     "description": "بث مباشر قناة بي ان سبورت 5",
     "streams": [
       {
-        "quality": "AP",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540666"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497115"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497115"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497115"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497115"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497115"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497115"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369971"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369971"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369971"
-      },
-      {
         "quality": "SD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/540666"
       },
       {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540666"
+        "quality": "4K",
+        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497115"
+      },
+      {
+        "quality": "HD",
+        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369971"
       }
     ]
   },
@@ -298,44 +118,12 @@
     "description": "بث مباشر قناة بي ان سبورت 6",
     "streams": [
       {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497116"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497116"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497116"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497116"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497116"
-      },
-      {
         "quality": "4K",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/497116"
       },
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/369972"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369972"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369972"
-      },
-      {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540667"
       },
       {
         "quality": "SD",
@@ -352,44 +140,12 @@
     "description": "بث مباشر قناة بي ان سبورت 7",
     "streams": [
       {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497117"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497117"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497117"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497117"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497117"
-      },
-      {
         "quality": "4K",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/497117"
       },
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/369973"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369973"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369973"
-      },
-      {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540668"
       },
       {
         "quality": "SD",
@@ -406,44 +162,12 @@
     "description": "بث مباشر قناة بي ان سبورت 8",
     "streams": [
       {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497118"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497118"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497118"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497118"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497118"
-      },
-      {
         "quality": "4K",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/497118"
       },
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/369974"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369974"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369974"
-      },
-      {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540669"
       },
       {
         "quality": "SD",
@@ -460,44 +184,12 @@
     "description": "بث مباشر قناة بي ان سبورت 9",
     "streams": [
       {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497119"
-      },
-      {
-        "quality": "8K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497119"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497119"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497119"
-      },
-      {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/497119"
-      },
-      {
         "quality": "4K",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/497119"
       },
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/369975"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369975"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/369975"
-      },
-      {
-        "quality": "SD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/540670"
       },
       {
         "quality": "SD",
@@ -544,6 +236,14 @@
       {
         "quality": "البث الرئيسي",
         "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/914597.ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd"
       }
     ]
   },
@@ -586,6 +286,14 @@
       {
         "quality": "البث الرئيسي",
         "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/914598.ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd"
       }
     ]
   },
@@ -628,794 +336,6 @@
       {
         "quality": "البث الرئيسي",
         "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/914599.ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-01",
-    "name": "TOD BEIN EVENT 1",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700282_t6_tod_event_01.png",
-    "category": "تود رياضية",
-    "display_order": 300000,
-    "description": "بث مباشر قناة TOD BEIN EVENT 1",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744949&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-02",
-    "name": "TOD BEIN EVENT 2",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700289_t6_tod_event_02.png",
-    "category": "تود رياضية",
-    "display_order": 300001,
-    "description": "بث مباشر قناة TOD BEIN EVENT 2",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744950&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-03",
-    "name": "TOD BEIN EVENT 3",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700299_t6_tod_event_03.png",
-    "category": "تود رياضية",
-    "display_order": 300002,
-    "description": "بث مباشر قناة TOD BEIN EVENT 3",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744951&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-04",
-    "name": "TOD BEIN EVENT 4",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700304_t6_tod_event_04.png",
-    "category": "تود رياضية",
-    "display_order": 300003,
-    "description": "بث مباشر قناة TOD BEIN EVENT 4",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744952&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-05",
-    "name": "TOD BEIN EVENT 5",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700310_t6_tod_event_05.png",
-    "category": "تود رياضية",
-    "display_order": 300004,
-    "description": "بث مباشر قناة TOD BEIN EVENT 5",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744953&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-06",
-    "name": "TOD BEIN EVENT 6",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700316_t6_tod_event_06.png",
-    "category": "تود رياضية",
-    "display_order": 300005,
-    "description": "بث مباشر قناة TOD BEIN EVENT 6",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744954&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-07",
-    "name": "TOD BEIN EVENT 7",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700320_t6_tod_event_07.png",
-    "category": "تود رياضية",
-    "display_order": 300006,
-    "description": "بث مباشر قناة TOD BEIN EVENT 7",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744955&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-08",
-    "name": "TOD BEIN EVENT 8",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700330_t6_tod_event_08.png",
-    "category": "تود رياضية",
-    "display_order": 300007,
-    "description": "بث مباشر قناة TOD BEIN EVENT 8",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744956&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-09",
-    "name": "TOD BEIN EVENT 9",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700351_t6_tod_event_09.png",
-    "category": "تود رياضية",
-    "display_order": 300008,
-    "description": "بث مباشر قناة TOD BEIN EVENT 9",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744957&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-10",
-    "name": "TOD BEIN EVENT 10",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700367_t6_tod_event_10.png",
-    "category": "تود رياضية",
-    "display_order": 300009,
-    "description": "بث مباشر قناة TOD BEIN EVENT 10",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744958&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-11",
-    "name": "TOD BEIN EVENT 11",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700377_t6_tod_event_11.png",
-    "category": "تود رياضية",
-    "display_order": 300010,
-    "description": "بث مباشر قناة TOD BEIN EVENT 11",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744959&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-12",
-    "name": "TOD BEIN EVENT 12",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700384_t6_tod_event_12.png",
-    "category": "تود رياضية",
-    "display_order": 300011,
-    "description": "بث مباشر قناة TOD BEIN EVENT 12",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744960&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-13",
-    "name": "TOD BEIN EVENT 13",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700393_t6_tod_event_13.png",
-    "category": "تود رياضية",
-    "display_order": 300012,
-    "description": "بث مباشر قناة TOD BEIN EVENT 13",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744961&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-14",
-    "name": "TOD BEIN EVENT 14",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700399_t6_tod_event_14.png",
-    "category": "تود رياضية",
-    "display_order": 300013,
-    "description": "بث مباشر قناة TOD BEIN EVENT 14",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744962&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-15",
-    "name": "TOD BEIN EVENT 15",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700407_t6_tod_event_15.png",
-    "category": "تود رياضية",
-    "display_order": 300014,
-    "description": "بث مباشر قناة TOD BEIN EVENT 15",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744963&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-16",
-    "name": "TOD BEIN EVENT 16",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700420_t6_tod_event_16.png",
-    "category": "تود رياضية",
-    "display_order": 300015,
-    "description": "بث مباشر قناة TOD BEIN EVENT 16",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744964&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-17",
-    "name": "TOD BEIN EVENT 17",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700425_t6_tod_event_17.png",
-    "category": "تود رياضية",
-    "display_order": 300016,
-    "description": "بث مباشر قناة TOD BEIN EVENT 17",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744965&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-18",
-    "name": "TOD BEIN EVENT 18",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700433_t6_tod_event_18.png",
-    "category": "تود رياضية",
-    "display_order": 300017,
-    "description": "بث مباشر قناة TOD BEIN EVENT 18",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744966&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-19",
-    "name": "TOD BEIN EVENT 19",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700443_t6_tod_event_19.png",
-    "category": "تود رياضية",
-    "display_order": 300018,
-    "description": "بث مباشر قناة TOD BEIN EVENT 19",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744967&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-20",
-    "name": "TOD BEIN EVENT 20",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700449_t6_tod_event_20.png",
-    "category": "تود رياضية",
-    "display_order": 300019,
-    "description": "بث مباشر قناة TOD BEIN EVENT 20",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744968&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-21",
-    "name": "TOD BEIN EVENT 21",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700456_t6_tod_event_21.png",
-    "category": "تود رياضية",
-    "display_order": 300020,
-    "description": "بث مباشر قناة TOD BEIN EVENT 21",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744969&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-22",
-    "name": "TOD BEIN EVENT 22",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700466_t6_tod_event_22.png",
-    "category": "تود رياضية",
-    "display_order": 300021,
-    "description": "بث مباشر قناة TOD BEIN EVENT 22",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744970&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-23",
-    "name": "TOD BEIN EVENT 23",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700470_t6_tod_event_23.png",
-    "category": "تود رياضية",
-    "display_order": 300022,
-    "description": "بث مباشر قناة TOD BEIN EVENT 23",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744971&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-24",
-    "name": "TOD BEIN EVENT 24",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700478_t6_tod_event_24.png",
-    "category": "تود رياضية",
-    "display_order": 300023,
-    "description": "بث مباشر قناة TOD BEIN EVENT 24",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744972&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-25",
-    "name": "TOD BEIN EVENT 25",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700487_t6_tod_event_25.png",
-    "category": "تود رياضية",
-    "display_order": 300024,
-    "description": "بث مباشر قناة TOD BEIN EVENT 25",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744973&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-event-26",
-    "name": "TOD BEIN EVENT 26",
-    "logo_url": "https://img3.pixhost.to/images/5369/764700491_t6_tod_event_26.png",
-    "category": "تود رياضية",
-    "display_order": 300025,
-    "description": "بث مباشر قناة TOD BEIN EVENT 26",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1744974&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod",
-    "name": "BEIN TOD",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492118_tod.png",
-    "category": "تود رياضية",
-    "display_order": 300026,
-    "description": "بث مباشر قناة BEIN TOD",
-    "streams": [
-      {
-        "quality": "4k",
-        "url": "http://tahpascal78.space/0C6DC2447ACFDCF/lkDaVgqDRJ/1441968"
-      },
-      {
-        "quality": "4K",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460835"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-english-1",
-    "name": "BEIN TOD ENGLISH 1",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492042_t5_tod-bein-tod-english-1.png",
-    "category": "تود رياضية",
-    "display_order": 300027,
-    "description": "بث مباشر قناة BEIN TOD ENGLISH 1",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460845"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-english-2",
-    "name": "BEIN TOD ENGLISH 2",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492046_t5_tod-bein-tod-english-2.png",
-    "category": "تود رياضية",
-    "display_order": 300028,
-    "description": "بث مباشر قناة BEIN TOD ENGLISH 2",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460846"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-1",
-    "name": "BEIN TOD EXTRA 1",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492052_t5_tod-bein-tod-extra-1.png",
-    "category": "تود رياضية",
-    "display_order": 300029,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 1",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460847"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-2",
-    "name": "BEIN TOD EXTRA 2",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492055_t5_tod-bein-tod-extra-2.png",
-    "category": "تود رياضية",
-    "display_order": 300030,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 2",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460848"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-3",
-    "name": "BEIN TOD EXTRA 3",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492060_t5_tod-bein-tod-extra-3.png",
-    "category": "تود رياضية",
-    "display_order": 300031,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 3",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460849"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-4",
-    "name": "BEIN TOD EXTRA 4",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492065_t5_tod-bein-tod-extra-4.png",
-    "category": "تود رياضية",
-    "display_order": 300032,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 4",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460850"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-5",
-    "name": "BEIN TOD EXTRA 5",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492070_t5_tod-bein-tod-extra-5.png",
-    "category": "تود رياضية",
-    "display_order": 300033,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 5",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460851"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-6",
-    "name": "BEIN TOD EXTRA 6",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492079_t5_tod-bein-tod-extra-6.png",
-    "category": "تود رياضية",
-    "display_order": 300034,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 6",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460852"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-7",
-    "name": "BEIN TOD EXTRA 7",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492083_t5_tod-bein-tod-extra-7.png",
-    "category": "تود رياضية",
-    "display_order": 300035,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 7",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460853"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-8",
-    "name": "BEIN TOD EXTRA 8",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492086_t5_tod-bein-tod-extra-8.png",
-    "category": "تود رياضية",
-    "display_order": 300036,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 8",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460854"
-      }
-    ]
-  },
-  {
-    "id": "tod-bein-tod-extra-9",
-    "name": "BEIN TOD EXTRA 9",
-    "logo_url": "https://img3.pixhost.to/images/5296/763492090_t5_tod-bein-tod-extra-9.png",
-    "category": "تود رياضية",
-    "display_order": 300037,
-    "description": "بث مباشر قناة BEIN TOD EXTRA 9",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/460855"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-una-hd",
-    "name": "TOD UNA",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400000,
-    "description": "بث مباشر TOD UNA HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672285&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-dos-hd",
-    "name": "TOD DOS",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400001,
-    "description": "بث مباشر TOD DOS HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672284&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-tres-hd",
-    "name": "TOD TRES",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400002,
-    "description": "بث مباشر TOD TRES HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672283&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-cuatro-hd",
-    "name": "TOD CUATRO",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400003,
-    "description": "بث مباشر TOD CUATRO HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672282&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-cinco-hd",
-    "name": "TOD CINCO",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400004,
-    "description": "بث مباشر TOD CINCO HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672281&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-seis-hd",
-    "name": "TOD SEIS",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400005,
-    "description": "بث مباشر TOD SEIS HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672280&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-siete-hd",
-    "name": "TOD SIETE",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400006,
-    "description": "بث مباشر TOD SIETE HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672279&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-ocho-hd",
-    "name": "TOD OCHO",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400007,
-    "description": "بث مباشر TOD OCHO HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672278&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-nueve-hd",
-    "name": "TOD NUEVE",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400008,
-    "description": "بث مباشر TOD NUEVE HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672277&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-diez-hd",
-    "name": "TOD DIEZ",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400009,
-    "description": "بث مباشر TOD DIEZ HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672276&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-once-hd",
-    "name": "TOD ONCE",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400010,
-    "description": "بث مباشر TOD ONCE HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672275&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-doce-hd",
-    "name": "TOD DOCE",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400011,
-    "description": "بث مباشر TOD DOCE HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672274&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-trece-hd",
-    "name": "TOD TRECE",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400012,
-    "description": "بث مباشر TOD TRECE HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672273&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-catorce-hd",
-    "name": "TOD CATORCE",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400013,
-    "description": "بث مباشر TOD CATORCE HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672272&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-quince-hd",
-    "name": "TOD QUINCE",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400014,
-    "description": "بث مباشر TOD QUINCE HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672271&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-diecis-is-hd",
-    "name": "TOD DIECISÉIS",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400015,
-    "description": "بث مباشر TOD DIECISÉIS HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672270&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-diecisiete-hd",
-    "name": "TOD DIECISIETE",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400016,
-    "description": "بث مباشر TOD DIECISIETE HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672269&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "art-tod-dieciocho-hd",
-    "name": "TOD DIECIOCHO",
-    "logo_url": "https://lo1.in/ar/TOD.png",
-    "category": "قنوات TOD",
-    "display_order": 400017,
-    "description": "بث مباشر TOD DIECIOCHO HD",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672268&extension=ts"
       }
     ]
   },
@@ -1644,7 +564,7 @@
     "description": "بث مباشر ALWAN UFC FHD",
     "streams": [
       {
-        "quality": "4K",
+        "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/1130740"
       }
     ]
@@ -1658,7 +578,7 @@
     "description": "بث مباشر ALWAN WWE FHD",
     "streams": [
       {
-        "quality": "4K",
+        "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/1130741"
       }
     ]
@@ -2046,20 +966,6 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=660265&extension=ts"
-      }
-    ]
-  },
-  {
-    "id": "egy-pnc-today",
-    "name": "PNC TODAY",
-    "logo_url": "https://img3.pixhost.to/images/5245/762912156_pnc_today.png",
-    "category": "قنوات مصرية",
-    "display_order": 600013,
-    "description": "بث مباشر PNC TODAY",
-    "streams": [
-      {
-        "quality": "HD",
-        "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/606121.ts"
       }
     ]
   },
@@ -3182,6 +2088,18 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=368773&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://149.62.177.98:8000/play/a00i/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula/hls_sn_and/index.m3u8"
       }
     ]
   },
@@ -3392,6 +2310,30 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=368761&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/dz/ennahartv.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-ennahartv/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://ennahar-live.dzsecurity.net/fullsrc/EnnaharTV/chunks.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_1289/mono.m3u8"
       }
     ]
   },
@@ -3634,6 +2576,10 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=368699&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8"
       }
     ]
   },
@@ -3666,6 +2612,26 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=368696&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/2M_Monde/DASH/2M_Monde.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_218/mono.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_218/index.m3u8"
       }
     ]
   },
@@ -3694,6 +2660,14 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=368694&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://149.100.11.252:8000/play/a065/index.m3u8"
       }
     ]
   },
@@ -3708,6 +2682,10 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=368676&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arryadia_snrt/hls_sn_and/index.m3u8"
       }
     ]
   },
@@ -3740,6 +2718,10 @@
       {
         "quality": "FHD",
         "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/1050.ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8"
       }
     ]
   },
@@ -3754,6 +2736,18 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=368692&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_205/mono.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_205/index.m3u8"
       }
     ]
   },
@@ -3796,6 +2790,10 @@
       {
         "quality": "4K",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/414025"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
       }
     ]
   },
@@ -3910,6 +2908,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/414017"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8"
       }
     ]
   },
@@ -4012,6 +3014,10 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=368693&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8"
       }
     ]
   },
@@ -4056,6 +3062,14 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=936804&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://artelive-lh.akamaihd.net/i/artelive_fr@393591/master.m3u8"
       }
     ]
   },
@@ -4296,6 +3310,14 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/361506"
+      },
+      {
+        "quality": "SD",
+        "url": "https://static.france24.com/live/F24_FR_LO_HLS/live_tv.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://f24hls-i.akamaihd.net/hls/live/221193/F24_FR_HI_HLS/master.m3u8"
       }
     ]
   },
@@ -4310,6 +3332,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/361526"
+      },
+      {
+        "quality": "SD",
+        "url": "https://static.france24.com/live/F24_FR_LO_HLS/live_tv.m3u8"
       }
     ]
   },
@@ -4374,6 +3400,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/361521"
+      },
+      {
+        "quality": "HD",
+        "url": "https://stream-01.lcp.fr/hls/live/playlist.m3u8"
       }
     ]
   },
@@ -5208,6 +4238,14 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441557"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtvelivestream.akamaized.net/la1_main.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8"
       }
     ]
   },
@@ -5230,6 +4268,14 @@
       {
         "quality": "HEVC",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441736"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtvelivestream.akamaized.net/la2_main.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8"
       }
     ]
   },
@@ -5252,6 +4298,10 @@
       {
         "quality": "HEVC",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441737"
+      },
+      {
+        "quality": "HD",
+        "url": "https://lasexta-live.atresmedia.com/hls-live/lasexta/master.m3u8"
       }
     ]
   },
@@ -5274,6 +4324,10 @@
       {
         "quality": "HEVC",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441716"
+      },
+      {
+        "quality": "HD",
+        "url": "https://antena3-live.atresmedia.com/hls-live/antena3/master.m3u8"
       }
     ]
   },
@@ -5340,6 +4394,14 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441618"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtvelivestream.akamaized.net/24h_main.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8"
       }
     ]
   },
@@ -5698,6 +4760,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441591"
+      },
+      {
+        "quality": "HD",
+        "url": "https://directes-tv-int.ccma.cat/live-origin/tv3-hls/master.m3u8"
       }
     ]
   },
@@ -5930,6 +4996,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441605"
+      },
+      {
+        "quality": "HD",
+        "url": "https://crtvg-live.hls.adaptive.level3.net/hls/live/2026136/tvg_america/index.m3u8"
       }
     ]
   },
@@ -6832,6 +5902,14 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441705"
+      },
+      {
+        "quality": "HD",
+        "url": "https://telemadrid-live.akamaized.net/hls/live/609074/telemadrid/master.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://telemadrid.live.flumotion.com/live/telemadrid-live.m3u8"
       }
     ]
   },
@@ -7004,6 +6082,14 @@
       {
         "quality": "SD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441723"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtva-live.akamaized.net/hls/live/2002540/canalsur/master.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtva-live.hls.adaptive.level3.net/hls/live/2026135/canalsur_1/index.m3u8"
       }
     ]
   },
@@ -7744,6 +6830,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441788"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
       }
     ]
   },
@@ -7996,6 +7086,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441806"
+      },
+      {
+        "quality": "HD",
+        "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
       }
     ]
   },
@@ -8682,6 +7776,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/441855"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
       }
     ]
   },
@@ -10462,6 +9560,14 @@
       {
         "quality": "FHD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/442023"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtvelivestream.akamaized.net/tdp_main.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8"
       }
     ]
   },
@@ -10476,6 +9582,10 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672381&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"
       }
     ]
   },
@@ -10504,6 +9614,10 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672376&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8"
       }
     ]
   },
@@ -10924,6 +10038,10 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=672365&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8"
       }
     ]
   },
@@ -11458,8 +10576,40 @@
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438798"
       },
       {
-        "quality": "HD",
+        "quality": "FHD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438828"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://c78b2b245115439fa65004296fd1d93d.mediatailor.eu-west-1.amazonaws.com/v1/master/065e37dd36f6dc7043679a61592f17340f3617b6/bitmovin-prod-live-apps/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_1HD/DASH/MBC_1HD.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MB1/MB1.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_374/mono.m3u8"
       }
     ]
   },
@@ -11476,8 +10626,24 @@
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438799"
       },
       {
-        "quality": "HD",
+        "quality": "FHD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438829"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://mbc-2-prod-dub-enc.edgenextcdn.net/out/v1/a3ad4b53b3ff4a95b4acba9527b280ba/index.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MB2H/MB2H.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_375/mono.m3u8"
       }
     ]
   },
@@ -11496,6 +10662,30 @@
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438832"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MB3/MB3.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://mbc3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_376/mono.m3u8"
       }
     ]
   },
@@ -11514,6 +10704,22 @@
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438834"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MB4H/MB4H.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_377/mono.m3u8"
       }
     ]
   },
@@ -11532,6 +10738,14 @@
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438836"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_3788/mono.m3u8"
       }
     ]
   },
@@ -11546,6 +10760,22 @@
       {
         "quality": "4K",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438815"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_378/mono.m3u8"
       }
     ]
   },
@@ -11564,6 +10794,18 @@
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438853"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MBB/MBB.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_845/mono.m3u8"
       }
     ]
   },
@@ -11582,6 +10824,22 @@
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438840"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MBDH/MBDH.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_382/mono.m3u8"
       }
     ]
   },
@@ -11596,6 +10854,10 @@
       {
         "quality": "4K",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438806"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8"
       }
     ]
   },
@@ -11613,11 +10875,19 @@
       },
       {
         "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/438844"
+        "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
       },
       {
         "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/438844"
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MBMS/MBMS.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_742/mono.m3u8"
       }
     ]
   },
@@ -11629,14 +10899,6 @@
     "display_order": 1300010,
     "description": "بث مباشر قناة MBC مصر 2",
     "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/438846"
-      },
-      {
-        "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/438846"
-      },
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438846"
@@ -11654,6 +10916,14 @@
       {
         "quality": "4K",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/438812"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/MBP/MBP.isml/manifest.mpd"
       }
     ]
   },
@@ -11682,6 +10952,10 @@
       {
         "quality": "FHD",
         "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/21268.ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_5224/mono.m3u8"
       }
     ]
   },
@@ -11710,6 +10984,10 @@
       {
         "quality": "FHD",
         "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/963.ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_288/mono.m3u8"
       }
     ]
   },
@@ -11728,6 +11006,10 @@
       {
         "quality": "البث الرئيسي",
         "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/21266.ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_286/mono.m3u8"
       }
     ]
   },
@@ -11739,10 +11021,6 @@
     "display_order": 1400005,
     "description": "بث مباشر ROTANA DRAMA HD",
     "streams": [
-      {
-        "quality": "FHD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/427557"
-      },
       {
         "quality": "FHD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/427557"
@@ -11760,6 +11038,10 @@
       {
         "quality": "FHD",
         "url": "http://flextvpromax.xyz:80/live/JYDCQ456K635E5W/gB3YK6v7LW/965.ts"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_283/mono.m3u8"
       }
     ]
   },
@@ -12324,6 +11606,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/313394"
+      },
+      {
+        "quality": "HD",
+        "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd"
       }
     ]
   },
@@ -12338,6 +11624,10 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/313395"
+      },
+      {
+        "quality": "HD",
+        "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd"
       }
     ]
   },
@@ -12392,16 +11682,28 @@
     "description": "بث مباشر قناة AL JAZEERA",
     "streams": [
       {
-        "quality": "4K",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/427473"
-      },
-      {
-        "quality": "4K",
+        "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/427473"
       },
       {
         "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/427473"
+        "url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/03.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/06.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
       }
     ]
   },
@@ -12416,6 +11718,18 @@
       {
         "quality": "HD",
         "url": "http://asmr4k.pro:8080/67389201934/0572884955/427469"
+      },
+      {
+        "quality": "HD",
+        "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_386/mono.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://stream.almayadeen.net/live/tv/hls/playlist.m3u8"
       }
     ]
   },
@@ -12447,11 +11761,11 @@
       },
       {
         "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/427477"
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8"
       },
       {
         "quality": "HD",
-        "url": "http://asmr4k.pro:8080/67389201934/0572884955/427477"
+        "url": "https://alhadath-live.cdn.mangomolo.com/alhadath/smil:alhadath.stream.smil/playlist.m3u8"
       }
     ]
   },
@@ -12494,6 +11808,10 @@
       {
         "quality": "4K",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/66376"
+      },
+      {
+        "quality": "HD",
+        "url": "https://stream.alghad.tv/alghad/live/playlist.m3u8"
       }
     ]
   },
@@ -12522,6 +11840,14 @@
       {
         "quality": "HD",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/66370"
+      },
+      {
+        "quality": "HD",
+        "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/gmswf.m3u8"
       }
     ]
   },
@@ -12676,6 +12002,22 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=661058&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://spacetoon-prod-dub-enc.edgenextcdn.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/SPT/SPT.isml/manifest.mpd"
       }
     ]
   },
@@ -13244,6 +12586,14 @@
       {
         "quality": "4K",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/67770"
+      },
+      {
+        "quality": "HD",
+        "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/CNA/CNA.isml/manifest.mpd"
       }
     ]
   },
@@ -13752,6 +13102,14 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=660222&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/KSQ/KSQ.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls_sn_and/index.m3u8"
       }
     ]
   },
@@ -13770,6 +13128,14 @@
       {
         "quality": "HD",
         "url": "http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=660220&extension=ts"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/KSU/KSU.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls_sn_and/index.m3u8"
       }
     ]
   },
@@ -14050,6 +13416,22 @@
       {
         "quality": "4K",
         "url": "http://luxipgold.xyz:8080/b0:99:d7:15:88:50/3090914536649669/399455"
+      },
+      {
+        "quality": "HD",
+        "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8"
+      },
+      {
+        "quality": "HD",
+        "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_dash/index.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd"
+      },
+      {
+        "quality": "HD",
+        "url": "http://185.9.2.18/chid_597/mono.m3u8"
       }
     ]
   }
